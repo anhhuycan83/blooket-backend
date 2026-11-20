@@ -1,0 +1,466 @@
+{
+  "id": "g5_english_w9",
+  "grade": 5,
+  "subject": "english",
+  "subjectName": "Anh Văn",
+  "week": 9,
+  "title": "Unit 4: Food & How It's Made",
+  "subTitle": "Lessons 4.1 - 4.3, MOET Unit 8 & Flyers Test 1",
+  "theory": {
+    "totalCards": 18,
+    "cards": [
+      {
+        "id": "th_1",
+        "term": "cheese",
+        "phonetic": "/tʃiːz/",
+        "vietnamese": "Phô mai (thực phẩm làm từ sữa)",
+        "definition": "Food made from milk.",
+        "example": "We don’t have any cheese in the fridge.",
+        "category": "Lesson 4.1 Vocabulary",
+        "imageHint": "🧀"
+      },
+      {
+        "id": "th_2",
+        "term": "papaya",
+        "phonetic": "/pəˈpaɪ.ə/",
+        "vietnamese": "Quả đu đủ (trái cây nhiệt đới ruột cam)",
+        "definition": "A soft, sweet tropical fruit with orange flesh.",
+        "example": "Papaya grows on a tree in tropical climates.",
+        "category": "Lesson 4.1 Vocabulary",
+        "imageHint": "🍈"
+      },
+      {
+        "id": "th_3",
+        "term": "mushroom",
+        "phonetic": "/ˈmʌʃ.ruːm/",
+        "vietnamese": "Nấm",
+        "definition": "A soft, white or brown thing that tastes great on pizza or in soups.",
+        "example": "I like fresh mushrooms on my pizza.",
+        "category": "Lesson 4.1 Vocabulary",
+        "imageHint": "🍄"
+      },
+      {
+        "id": "th_4",
+        "term": "nutritious",
+        "phonetic": "/njuːˈtrɪʃ.əs/",
+        "vietnamese": "Bổ dưỡng, giàu dinh dưỡng",
+        "definition": "Full of things that help you stay healthy.",
+        "example": "Vegetables and fruits are very nutritious.",
+        "category": "Lesson 4.1 Vocabulary",
+        "imageHint": "🥗"
+      },
+      {
+        "id": "th_5",
+        "term": "Some vs Any",
+        "phonetic": "[Grammar Rule]",
+        "vietnamese": "Some: dùng câu khẳng định (+). Any: dùng câu phủ định (-) và nghi vấn (?)",
+        "definition": "Some is used in positive sentences. Any is used in negative sentences and questions.",
+        "example": "(+) There is some jam. (-) There isn’t any soup. (?) Is there any bread?",
+        "category": "Lesson 4.1 Grammar",
+        "imageHint": "⚖️"
+      },
+      {
+        "id": "th_6",
+        "term": "cacao beans",
+        "phonetic": "/kəˈkeɪ.oʊ biːnz/",
+        "vietnamese": "Hạt ca cao (nguyên liệu làm sô-cô-la)",
+        "definition": "Seeds of a tropical tree used for making cocoa and chocolate.",
+        "example": "Chocolate is made from cacao beans.",
+        "category": "Lesson 4.2 Vocabulary",
+        "imageHint": "🍫"
+      },
+      {
+        "id": "th_7",
+        "term": "machetes",
+        "phonetic": "/məˈʃet.iːz/",
+        "vietnamese": "Dao rựa to bản (dùng để chặt quả ca cao)",
+        "definition": "Large heavy knives used as weapons or tools.",
+        "example": "Workers use machetes to cut the cacao pods.",
+        "category": "Lesson 4.2 Vocabulary",
+        "imageHint": "🗡️"
+      },
+      {
+        "id": "th_8",
+        "term": "roast",
+        "phonetic": "/roʊst/",
+        "vietnamese": "Rang, nướng trong lò",
+        "definition": "To cook food (or beans) in an oven or over a fire.",
+        "example": "Factories roast the beans in big ovens.",
+        "category": "Lesson 4.2 Vocabulary",
+        "imageHint": "🔥"
+      },
+      {
+        "id": "th_9",
+        "term": "crushed",
+        "phonetic": "/krʌʃt/",
+        "vietnamese": "Nghiền nát, xay nhuyễn",
+        "definition": "Pressed or squeezed hard to break into small pieces or paste.",
+        "example": "The roasted beans are crushed into a smooth paste.",
+        "category": "Lesson 4.2 Vocabulary",
+        "imageHint": "🥣"
+      },
+      {
+        "id": "th_10",
+        "term": "cocoa butter",
+        "phonetic": "/ˈkoʊ.koʊ ˈbʌt.ər/",
+        "vietnamese": "Bơ ca cao",
+        "definition": "Fat obtained from cocoa beans, giving chocolate a creamy texture.",
+        "example": "Cocoa butter gives chocolate its smooth, creamy texture.",
+        "category": "Lesson 4.2 Vocabulary",
+        "imageHint": "🧈"
+      },
+      {
+        "id": "th_11",
+        "term": "Passive Voice",
+        "phonetic": "[is / are + Past Participle]",
+        "vietnamese": "Thể bị động: Được / Bị làm gì (is/are + V3/ed)",
+        "definition": "Focuses on the action and object rather than who did it.",
+        "example": "Apples are harvested every summer. The pods are opened carefully.",
+        "category": "Lesson 4.2 Grammar",
+        "imageHint": "🔄"
+      },
+      {
+        "id": "th_12",
+        "term": "a few vs a little",
+        "phonetic": "[Quantifiers]",
+        "vietnamese": "A few + Danh từ đếm được số nhiều. A little + Danh từ không đếm được.",
+        "definition": "Countable: a few / few (books). Uncountable: a little / little (time, water).",
+        "example": "A few students like literature. They had a little time.",
+        "category": "Lesson 4.2 Grammar",
+        "imageHint": "📏"
+      },
+      {
+        "id": "th_13",
+        "term": "cotton wool",
+        "phonetic": "/ˈkɒt.ən wʊl/",
+        "vietnamese": "Bông gòn",
+        "definition": "Soft cotton used for cleaning or planting seeds in a pot.",
+        "example": "Fold some cotton wool and put it inside the yoghurt pot.",
+        "category": "Lesson 4.3 Vocabulary",
+        "imageHint": "☁️"
+      },
+      {
+        "id": "th_14",
+        "term": "seeds",
+        "phonetic": "/siːdz/",
+        "vietnamese": "Hạt giống",
+        "definition": "Small parts produced by plants from which new plants grow.",
+        "example": "Put the seeds on top of the wet cotton wool.",
+        "category": "Lesson 4.3 Vocabulary",
+        "imageHint": "🌱"
+      },
+      {
+        "id": "th_15",
+        "term": "Connectives of Order",
+        "phonetic": "[Before, When, Then, After that]",
+        "vietnamese": "Từ nối chỉ thứ tự: Trước khi, Khi, Sau đó, Sau chuyện đó...",
+        "definition": "Words used to show the sequence or timeline in which actions happen.",
+        "example": "Before you start, clean the pot. Then fold the cotton wool.",
+        "category": "Lesson 4.3 Grammar",
+        "imageHint": "⏳"
+      },
+      {
+        "id": "th_16",
+        "term": "okra",
+        "phonetic": "/ˈoʊ.krə/",
+        "vietnamese": "Đậu bắp",
+        "definition": "A green vegetable with ridged skin and edible seeds.",
+        "example": "Okra is a popular, nutritious vegetable.",
+        "category": "Lesson 4.3 Vocabulary",
+        "imageHint": "🥬"
+      },
+      {
+        "id": "th_17",
+        "term": "Where are the ...?",
+        "phonetic": "[MOET Unit 8]",
+        "vietnamese": "Hỏi vị trí của đồ vật số nhiều: Where are the...? -> They are under/above/next to...",
+        "definition": "Asking location of plural items.",
+        "example": "Where are the set squares? They are in front of the pencil sharpener.",
+        "category": "MOET Unit 8 Structures",
+        "imageHint": "📍"
+      },
+      {
+        "id": "th_18",
+        "term": "How did you get to school?",
+        "phonetic": "[Flyers Test 1]",
+        "vietnamese": "Bạn đến trường bằng phương tiện gì? -> I went by bus / bicycle / car.",
+        "definition": "Past simple question about transport.",
+        "example": "How did you get to school? I went to school by bus.",
+        "category": "Flyers Structures",
+        "imageHint": "🚌"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_1",
+      "lesson": "Lesson 4.1",
+      "type": "multiple_choice",
+      "question": "I have ________ bananas in my bag.",
+      "options": [
+        "much",
+        "some",
+        "a little",
+        "any"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu khẳng định (+) nên ta dùng 'some'.",
+      "points": 100
+    },
+    {
+      "id": "ex_2",
+      "lesson": "Lesson 4.1",
+      "type": "multiple_choice",
+      "question": "We don’t have ________ cheese left in the fridge.",
+      "options": [
+        "many",
+        "some",
+        "a few",
+        "any"
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu phủ định (don't have) phải dùng 'any'.",
+      "points": 100
+    },
+    {
+      "id": "ex_3",
+      "lesson": "Lesson 4.1",
+      "type": "multiple_choice",
+      "question": "Is there ________ bread left on the dining table?",
+      "options": [
+        "few",
+        "many",
+        "some",
+        "any"
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu hỏi nghi vấn (?) dùng 'any'.",
+      "points": 100
+    },
+    {
+      "id": "ex_4",
+      "lesson": "Lesson 4.1",
+      "type": "multiple_choice",
+      "question": "What is 'A soft, sweet tropical fruit with orange flesh'?",
+      "options": [
+        "papaya",
+        "cucumber",
+        "cheese",
+        "onion"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đu đủ (papaya) là trái cây nhiệt đới ngọt, ruột màu cam.",
+      "points": 100
+    },
+    {
+      "id": "ex_5",
+      "lesson": "Lesson 4.1",
+      "type": "multiple_choice",
+      "question": "Where do carrots and potatoes grow?",
+      "options": [
+        "Grows in the ground",
+        "Grows in the water",
+        "Grows on a tall tree",
+        "Grows on a flower"
+      ],
+      "correctIndex": 0,
+      "explanation": "Củ cà rốt và khoai tây mọc và phát triển dưới lòng đất (in the ground).",
+      "points": 100
+    },
+    {
+      "id": "ex_6",
+      "lesson": "Lesson 4.2",
+      "type": "multiple_choice",
+      "question": "Chocolate is made from ________, which grow on tropical trees.",
+      "options": [
+        "cabbage",
+        "cacao beans",
+        "vanilla",
+        "machetes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sô-cô-la được sản xuất từ hạt ca cao (cacao beans).",
+      "points": 100
+    },
+    {
+      "id": "ex_7",
+      "lesson": "Lesson 4.2",
+      "type": "multiple_choice",
+      "question": "Workers use large knives called ________ to cut the cacao pods.",
+      "options": [
+        "spoons",
+        "scissors",
+        "machetes",
+        "pots"
+      ],
+      "correctIndex": 2,
+      "explanation": "Công nhân dùng dao rựa lớn (machetes) để bổ vỏ quả ca cao.",
+      "points": 100
+    },
+    {
+      "id": "ex_8",
+      "lesson": "Lesson 4.2",
+      "type": "multiple_choice",
+      "question": "The roasted cacao beans are ________ into a thick, smooth mixture.",
+      "options": [
+        "watered",
+        "crushed",
+        "harvested",
+        "dropped"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hạt rang xong được nghiền nát (crushed) thành hỗn hợp sánh mịn.",
+      "points": 100
+    },
+    {
+      "id": "ex_9",
+      "lesson": "Lesson 4.2",
+      "type": "multiple_choice",
+      "question": "What ingredient gives chocolate its smooth, creamy texture?",
+      "options": [
+        "cocoa butter",
+        "water",
+        "pepper",
+        "sugar only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bơ ca cao (cocoa butter) tạo nên độ mịn màng, béo ngậy cho sô-cô-la.",
+      "points": 100
+    },
+    {
+      "id": "ex_10",
+      "lesson": "Lesson 4.2",
+      "type": "multiple_choice",
+      "question": "There are ________ spices used in spicy dishes.",
+      "options": [
+        "many",
+        "a little",
+        "much",
+        "little"
+      ],
+      "correctIndex": 0,
+      "explanation": "Spices là danh từ đếm được số nhiều, dùng 'many'.",
+      "points": 100
+    },
+    {
+      "id": "ex_11",
+      "lesson": "Lesson 4.2",
+      "type": "multiple_choice",
+      "question": "There isn’t ________ sugar in dark chocolate.",
+      "options": [
+        "much",
+        "many",
+        "a few",
+        "few"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sugar là danh từ không đếm được, trong câu phủ định dùng 'much'.",
+      "points": 100
+    },
+    {
+      "id": "ex_12",
+      "lesson": "Lesson 4.2",
+      "type": "multiple_choice",
+      "question": "Cacao beans ________ in warm tropical countries.",
+      "options": [
+        "grown",
+        "are grown",
+        "is grown",
+        "grows"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dạng bị động số nhiều: are + V3 (grown).",
+      "points": 100
+    },
+    {
+      "id": "ex_13",
+      "lesson": "Lesson 4.3",
+      "type": "multiple_choice",
+      "question": "Unscramble the letters to find a word for planting: S D E E S",
+      "options": [
+        "sends",
+        "seeds",
+        "deeds",
+        "sheds"
+      ],
+      "correctIndex": 1,
+      "explanation": "S D E E S sắp xếp lại là SEEDS (hạt giống).",
+      "points": 100
+    },
+    {
+      "id": "ex_14",
+      "lesson": "Lesson 4.3",
+      "type": "multiple_choice",
+      "question": "Unscramble the letters: I L S O",
+      "options": [
+        "soil",
+        "sole",
+        "silo",
+        "sail"
+      ],
+      "correctIndex": 0,
+      "explanation": "I L S O sắp xếp lại là SOIL (đất trồng).",
+      "points": 100
+    },
+    {
+      "id": "ex_15",
+      "lesson": "Lesson 4.3",
+      "type": "multiple_choice",
+      "question": "________ you put the seeds in, press the cotton wool down gently.",
+      "options": [
+        "After that",
+        "When",
+        "Finally",
+        "Before"
+      ],
+      "correctIndex": 3,
+      "explanation": "Trước khi gieo hạt, hãy ấn nhẹ bông gòn xuống (Before).",
+      "points": 100
+    },
+    {
+      "id": "ex_16",
+      "lesson": "Lesson 4.3",
+      "type": "multiple_choice",
+      "question": "Water the seeds every day. ________ put the pot in a sunny place.",
+      "options": [
+        "Because",
+        "Then",
+        "While",
+        "Before"
+      ],
+      "correctIndex": 1,
+      "explanation": "Từ nối diễn tả bước kế tiếp: Then (Sau đó).",
+      "points": 100
+    },
+    {
+      "id": "ex_17",
+      "lesson": "Lesson 4.3",
+      "type": "multiple_choice",
+      "question": "________ the plant is big enough, you can harvest and eat it.",
+      "options": [
+        "Then",
+        "When",
+        "Before",
+        "First"
+      ],
+      "correctIndex": 1,
+      "explanation": "When (Khi) cây đã đủ lớn, bạn có thể thu hoạch.",
+      "points": 100
+    },
+    {
+      "id": "ex_18",
+      "lesson": "Flyers & MOET",
+      "type": "multiple_choice",
+      "question": "How did you get to school this morning? — I went to school ________ bus.",
+      "options": [
+        "on",
+        "with",
+        "by",
+        "in"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đi bằng phương tiện giao thông dùng giới từ 'by' (by bus, by car).",
+      "points": 100
+    }
+  ]
+}

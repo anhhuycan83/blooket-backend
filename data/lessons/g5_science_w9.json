@@ -1,0 +1,111 @@
+{
+  "id": "g5_science_w9",
+  "grade": 5,
+  "subject": "science",
+  "subjectName": "Khoa Học (Science)",
+  "week": 9,
+  "title": "Unit 2: Sound & Musical Instruments",
+  "subTitle": "Stringed & Wind instruments, Pitch and Tuning",
+  "theory": {
+    "totalCards": 5,
+    "cards": [
+      {
+        "id": "sc_1",
+        "term": "stringed instruments",
+        "phonetic": "/ˈstrɪŋd ˈɪn.strə.mənt/",
+        "vietnamese": "Nhạc cụ dây (đàn ghita, vĩ cầm, đàn tranh...)",
+        "definition": "Musical instruments that produce sound from vibrating strings.",
+        "example": "Violin and guitar are stringed instruments.",
+        "category": "Science Vocabulary",
+        "imageHint": "🎸"
+      },
+      {
+        "id": "sc_2",
+        "term": "wind instruments",
+        "phonetic": "/wɪnd ˈɪn.strə.mənt/",
+        "vietnamese": "Nhạc cụ hơi/thổi (sáo, kèn trumpet, kèn clarinet...)",
+        "definition": "Musical instruments that contain a resonator in which a column of air is set into vibration by the player blowing.",
+        "example": "Flutes and trumpets are wind instruments.",
+        "category": "Science Vocabulary",
+        "imageHint": "🎺"
+      },
+      {
+        "id": "sc_3",
+        "term": "tighten",
+        "phonetic": "/ˈtaɪ.tən/",
+        "vietnamese": "Vặn chặt, làm căng dây (làm tăng cao độ/pitch)",
+        "definition": "To make a string or screw firmer or more secure.",
+        "example": "Tightening a guitar string makes the sound higher in pitch.",
+        "category": "Science Concepts",
+        "imageHint": "🔧"
+      },
+      {
+        "id": "sc_4",
+        "term": "loose",
+        "phonetic": "/luːs/",
+        "vietnamese": "Chùng, lỏng (dây chùng tạo âm trầm hơn/lower pitch)",
+        "definition": "Not fitting tightly or not firmly attached.",
+        "example": "A loose guitar string produces a lower pitch.",
+        "category": "Science Concepts",
+        "imageHint": "〰️"
+      },
+      {
+        "id": "sc_5",
+        "term": "tune",
+        "phonetic": "/tjuːn/",
+        "vietnamese": "Chỉnh âm, lên dây đàn cho đúng nốt",
+        "definition": "To adjust a musical instrument to the correct pitch.",
+        "example": "Musicians tune their instruments before a concert.",
+        "category": "Science Concepts",
+        "imageHint": "🎼"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "scex_1",
+      "lesson": "Sound",
+      "type": "multiple_choice",
+      "question": "Which of these is a STRINGED instrument?",
+      "options": [
+        "Trumpet",
+        "Drum",
+        "Flute",
+        "Guitar / Violin"
+      ],
+      "correctIndex": 3,
+      "explanation": "Guitar và Violin tạo ra âm thanh từ dây rung (stringed instruments).",
+      "points": 100
+    },
+    {
+      "id": "scex_2",
+      "lesson": "Sound",
+      "type": "multiple_choice",
+      "question": "What happens to the pitch when you TIGHTEN a guitar string?",
+      "options": [
+        "The pitch becomes lower",
+        "No sound is produced",
+        "The pitch becomes higher",
+        "Sound stops"
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi kéo căng dây đàn (tighten), dây rung nhanh hơn làm âm thanh cao hơn (higher pitch).",
+      "points": 100
+    },
+    {
+      "id": "scex_3",
+      "lesson": "Sound",
+      "type": "multiple_choice",
+      "question": "Which of these is a WIND instrument (nhạc cụ hơi)?",
+      "options": [
+        "Cello",
+        "Violin",
+        "Piano",
+        "Flute (Sáo)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Flute (cây sáo) là nhạc cụ hơi được thổi bằng cột không khí (wind instrument).",
+      "points": 100
+    }
+  ]
+}

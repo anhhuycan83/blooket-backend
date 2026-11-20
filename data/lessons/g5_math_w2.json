@@ -1,0 +1,66 @@
+{
+  "id": "g5_math_w2",
+  "grade": 5,
+  "subject": "math",
+  "subjectName": "Toán",
+  "week": 2,
+  "title": "Tuần 2: Kiến thức & Ôn tập tuần 2",
+  "subTitle": "Ôn tập kiến thức trọng tâm tuần 2",
+  "theory": {
+    "totalCards": 3,
+    "cards": [
+      {
+        "id": "th_math_w2_1",
+        "term": "Tuần 2 - Thẻ mẫu 1",
+        "phonetic": "[Preview]",
+        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 2",
+        "definition": "Core concept for Week 2.",
+        "example": "This is an example for Week 2.",
+        "category": "Tuần 2",
+        "imageHint": "📚"
+      },
+      {
+        "id": "th_math_w2_2",
+        "term": "Tuần 2 - Thẻ mẫu 2",
+        "phonetic": "[Preview]",
+        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 2",
+        "definition": "Grammar pattern for Week 2.",
+        "example": "Practice example for Week 2.",
+        "category": "Tuần 2",
+        "imageHint": "💡"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_math_w2_1",
+      "lesson": "Tuần 2",
+      "type": "multiple_choice",
+      "question": "Câu hỏi ôn tập số 1 cho Tuần 2 (Math): Đâu là câu trả lời chính xác?",
+      "options": [
+        "Đáp án B",
+        "Đáp án A (Chính xác)",
+        "Đáp án C",
+        "Đáp án D"
+      ],
+      "correctIndex": 1,
+      "explanation": "Giải thích cho câu hỏi tuần 2.",
+      "points": 100
+    },
+    {
+      "id": "ex_math_w2_2",
+      "lesson": "Tuần 2",
+      "type": "multiple_choice",
+      "question": "Câu hỏi ôn tập số 2 cho Tuần 2 (Math): Hãy chọn phương án đúng.",
+      "options": [
+        "Phương án 3",
+        "Phương án 4",
+        "Phương án 2",
+        "Phương án 1 (Chính xác)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Giải thích chi tiết phương án 1.",
+      "points": 100
+    }
+  ]
+}

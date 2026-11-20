@@ -1,0 +1,116 @@
+{
+  "id": "g5_math_w9",
+  "grade": 5,
+  "subject": "math",
+  "subjectName": "Toán (Maths)",
+  "week": 9,
+  "title": "Unit 7: Fractions & Decimals",
+  "subTitle": "Numerator, Denominator, Proper & Improper Fractions",
+  "theory": {
+    "totalCards": 4,
+    "cards": [
+      {
+        "id": "m_1",
+        "term": "Numerator",
+        "phonetic": "/ˈnjuː.mə.reɪ.tər/",
+        "vietnamese": "Tử số: Số nằm ở phía trên đường kẻ ngang phân số.",
+        "definition": "The number above the line in a fraction.",
+        "example": "In 3/4, the numerator is 3.",
+        "category": "Maths Vocabulary",
+        "imageHint": "🔝"
+      },
+      {
+        "id": "m_2",
+        "term": "Denominator",
+        "phonetic": "/dɪˈnɒm.ɪ.neɪ.tər/",
+        "vietnamese": "Mẫu số: Số nằm ở phía dưới đường kẻ ngang phân số (khác 0).",
+        "definition": "The number below the line in a fraction.",
+        "example": "In 3/4, the denominator is 4.",
+        "category": "Maths Vocabulary",
+        "imageHint": "🔻"
+      },
+      {
+        "id": "m_3",
+        "term": "Proper fraction",
+        "phonetic": "/ˈprɒp.ər ˈfræk.ʃən/",
+        "vietnamese": "Phân số thực sự (nhỏ hơn 1): Tử số bé hơn mẫu số.",
+        "definition": "A fraction with a numerator smaller than the denominator.",
+        "example": "2/5 is a proper fraction (< 1).",
+        "category": "Fraction Concept",
+        "imageHint": "🍰"
+      },
+      {
+        "id": "m_4",
+        "term": "Improper fraction",
+        "phonetic": "/ɪmˈprɒp.ər ˈfræk.ʃən/",
+        "vietnamese": "Phân số không thực sự (lớn hơn hoặc bằng 1): Tử số lớn hơn hoặc bằng mẫu số.",
+        "definition": "A fraction with a numerator greater than or equal to the denominator.",
+        "example": "7/4 and 5/5 are improper fractions.",
+        "category": "Fraction Concept",
+        "imageHint": "🍕"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "mex_1",
+      "lesson": "Fractions",
+      "type": "multiple_choice",
+      "question": "What is the number ABOVE the line in a fraction called?",
+      "options": [
+        "Quotient",
+        "Decimal",
+        "Denominator (Mẫu số)",
+        "Numerator (Tử số)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Số ở trên vạch kẻ phân số gọi là Numerator (Tử số).",
+      "points": 100
+    },
+    {
+      "id": "mex_2",
+      "lesson": "Fractions",
+      "type": "multiple_choice",
+      "question": "In the fraction 5/8, which number is the Denominator?",
+      "options": [
+        "13",
+        "3",
+        "8",
+        "5"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu số nằm ở dưới, do đó 8 là Denominator.",
+      "points": 100
+    },
+    {
+      "id": "mex_3",
+      "lesson": "Fractions",
+      "type": "multiple_choice",
+      "question": "Which of the following is a Proper Fraction (Tử số < Mẫu số)?",
+      "options": [
+        "8/8",
+        "3/7",
+        "9/4",
+        "6/5"
+      ],
+      "correctIndex": 1,
+      "explanation": "3/7 có tử số 3 < mẫu số 7 nên là Proper fraction.",
+      "points": 100
+    },
+    {
+      "id": "mex_4",
+      "lesson": "Fractions",
+      "type": "multiple_choice",
+      "question": "Which fraction is an Improper Fraction (Tử số >= Mẫu số)?",
+      "options": [
+        "1/6",
+        "9/5",
+        "4/7",
+        "2/9"
+      ],
+      "correctIndex": 1,
+      "explanation": "9/5 có tử số 9 > mẫu số 5 nên là Improper fraction.",
+      "points": 100
+    }
+  ]
+}

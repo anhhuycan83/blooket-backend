@@ -1,0 +1,32 @@
+name: blooket-backend-stack
+
+services:
+    cloudflared:
+        container_name: blooket-tunnel
+        image: cloudflare/cloudflared:latest
+        command: tunnel --no-autoupdate run --token ${TUNNEL_TOKEN}
+        restart: always
+        networks:
+            - app-network
+
+    blooket-api:
+        container_name: blooket-api
+        build:
+            context: .
+            dockerfile: Dockerfile
+        image: blooket-api:latest
+        restart: always
+        environment:
+            - PORT=3000
+            - DATA_DIR=/app/data
+        volumes:
+            - ./data:/app/data
+        ports:
+            - "3005:3000"
+        networks:
+            - app-network
+
+networks:
+    app-network:
+        external: true
+        name: app-network

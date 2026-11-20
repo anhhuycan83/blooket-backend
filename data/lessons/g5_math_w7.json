@@ -1,0 +1,66 @@
+{
+  "id": "g5_math_w7",
+  "grade": 5,
+  "subject": "math",
+  "subjectName": "Toán",
+  "week": 7,
+  "title": "Tuần 7: Kiến thức & Ôn tập tuần 7",
+  "subTitle": "Ôn tập kiến thức trọng tâm tuần 7",
+  "theory": {
+    "totalCards": 3,
+    "cards": [
+      {
+        "id": "th_math_w7_1",
+        "term": "Tuần 7 - Thẻ mẫu 1",
+        "phonetic": "[Preview]",
+        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 7",
+        "definition": "Core concept for Week 7.",
+        "example": "This is an example for Week 7.",
+        "category": "Tuần 7",
+        "imageHint": "📚"
+      },
+      {
+        "id": "th_math_w7_2",
+        "term": "Tuần 7 - Thẻ mẫu 2",
+        "phonetic": "[Preview]",
+        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 7",
+        "definition": "Grammar pattern for Week 7.",
+        "example": "Practice example for Week 7.",
+        "category": "Tuần 7",
+        "imageHint": "💡"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_math_w7_1",
+      "lesson": "Tuần 7",
+      "type": "multiple_choice",
+      "question": "Câu hỏi ôn tập số 1 cho Tuần 7 (Math): Đâu là câu trả lời chính xác?",
+      "options": [
+        "Đáp án D",
+        "Đáp án C",
+        "Đáp án B",
+        "Đáp án A (Chính xác)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Giải thích cho câu hỏi tuần 7.",
+      "points": 100
+    },
+    {
+      "id": "ex_math_w7_2",
+      "lesson": "Tuần 7",
+      "type": "multiple_choice",
+      "question": "Câu hỏi ôn tập số 2 cho Tuần 7 (Math): Hãy chọn phương án đúng.",
+      "options": [
+        "Phương án 1 (Chính xác)",
+        "Phương án 3",
+        "Phương án 4",
+        "Phương án 2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Giải thích chi tiết phương án 1.",
+      "points": 100
+    }
+  ]
+}

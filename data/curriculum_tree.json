@@ -1,0 +1,58 @@
+{
+  "grades": [
+    {
+      "id": "g5",
+      "name": "Lớp 5",
+      "gradeNumber": 5,
+      "enabled": true,
+      "subjects": [
+        {
+          "id": "english",
+          "name": "Anh Văn",
+          "englishName": "English",
+          "icon": "school",
+          "color": "#4F46E5",
+          "accentColor": "#EEF2FF",
+          "description": "General English Unit 4, MOET & Flyers",
+          "totalWeeks": 9
+        },
+        {
+          "id": "math",
+          "name": "Toán (Maths)",
+          "englishName": "Mathematics",
+          "icon": "calculate",
+          "color": "#059669",
+          "accentColor": "#ECFDF5",
+          "description": "Cambridge Primary Mathematics: Fractions",
+          "totalWeeks": 9
+        },
+        {
+          "id": "science",
+          "name": "Khoa Học (Science)",
+          "englishName": "Science",
+          "icon": "science",
+          "color": "#D97706",
+          "accentColor": "#FFFBEB",
+          "description": "Sound, Musical Instruments & Pitch",
+          "totalWeeks": 9
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "name": "Lớp 6",
+      "gradeNumber": 6,
+      "enabled": false,
+      "badge": "Sắp ra mắt",
+      "subjects": []
+    },
+    {
+      "id": "g7",
+      "name": "Lớp 7",
+      "gradeNumber": 7,
+      "enabled": false,
+      "badge": "Sắp ra mắt",
+      "subjects": []
+    }
+  ]
+}

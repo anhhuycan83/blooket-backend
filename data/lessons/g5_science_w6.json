@@ -1,0 +1,66 @@
+{
+  "id": "g5_science_w6",
+  "grade": 5,
+  "subject": "science",
+  "subjectName": "Khoa Học",
+  "week": 6,
+  "title": "Tuần 6: Kiến thức & Ôn tập tuần 6",
+  "subTitle": "Ôn tập kiến thức trọng tâm tuần 6",
+  "theory": {
+    "totalCards": 3,
+    "cards": [
+      {
+        "id": "th_science_w6_1",
+        "term": "Tuần 6 - Thẻ mẫu 1",
+        "phonetic": "[Preview]",
+        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 6",
+        "definition": "Core concept for Week 6.",
+        "example": "This is an example for Week 6.",
+        "category": "Tuần 6",
+        "imageHint": "📚"
+      },
+      {
+        "id": "th_science_w6_2",
+        "term": "Tuần 6 - Thẻ mẫu 2",
+        "phonetic": "[Preview]",
+        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 6",
+        "definition": "Grammar pattern for Week 6.",
+        "example": "Practice example for Week 6.",
+        "category": "Tuần 6",
+        "imageHint": "💡"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_science_w6_1",
+      "lesson": "Tuần 6",
+      "type": "multiple_choice",
+      "question": "Câu hỏi ôn tập số 1 cho Tuần 6 (Science): Đâu là câu trả lời chính xác?",
+      "options": [
+        "Đáp án B",
+        "Đáp án A (Chính xác)",
+        "Đáp án D",
+        "Đáp án C"
+      ],
+      "correctIndex": 1,
+      "explanation": "Giải thích cho câu hỏi tuần 6.",
+      "points": 100
+    },
+    {
+      "id": "ex_science_w6_2",
+      "lesson": "Tuần 6",
+      "type": "multiple_choice",
+      "question": "Câu hỏi ôn tập số 2 cho Tuần 6 (Science): Hãy chọn phương án đúng.",
+      "options": [
+        "Phương án 3",
+        "Phương án 2",
+        "Phương án 4",
+        "Phương án 1 (Chính xác)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Giải thích chi tiết phương án 1.",
+      "points": 100
+    }
+  ]
+}

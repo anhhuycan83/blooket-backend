@@ -1,0 +1,66 @@
+{
+  "id": "g5_science_w3",
+  "grade": 5,
+  "subject": "science",
+  "subjectName": "Khoa Học",
+  "week": 3,
+  "title": "Tuần 3: Kiến thức & Ôn tập tuần 3",
+  "subTitle": "Ôn tập kiến thức trọng tâm tuần 3",
+  "theory": {
+    "totalCards": 3,
+    "cards": [
+      {
+        "id": "th_science_w3_1",
+        "term": "Tuần 3 - Thẻ mẫu 1",
+        "phonetic": "[Preview]",
+        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 3",
+        "definition": "Core concept for Week 3.",
+        "example": "This is an example for Week 3.",
+        "category": "Tuần 3",
+        "imageHint": "📚"
+      },
+      {
+        "id": "th_science_w3_2",
+        "term": "Tuần 3 - Thẻ mẫu 2",
+        "phonetic": "[Preview]",
+        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 3",
+        "definition": "Grammar pattern for Week 3.",
+        "example": "Practice example for Week 3.",
+        "category": "Tuần 3",
+        "imageHint": "💡"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_science_w3_1",
+      "lesson": "Tuần 3",
+      "type": "multiple_choice",
+      "question": "Câu hỏi ôn tập số 1 cho Tuần 3 (Science): Đâu là câu trả lời chính xác?",
+      "options": [
+        "Đáp án C",
+        "Đáp án D",
+        "Đáp án B",
+        "Đáp án A (Chính xác)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Giải thích cho câu hỏi tuần 3.",
+      "points": 100
+    },
+    {
+      "id": "ex_science_w3_2",
+      "lesson": "Tuần 3",
+      "type": "multiple_choice",
+      "question": "Câu hỏi ôn tập số 2 cho Tuần 3 (Science): Hãy chọn phương án đúng.",
+      "options": [
+        "Phương án 1 (Chính xác)",
+        "Phương án 2",
+        "Phương án 4",
+        "Phương án 3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Giải thích chi tiết phương án 1.",
+      "points": 100
+    }
+  ]
+}
