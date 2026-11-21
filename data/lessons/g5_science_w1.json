@@ -2,64 +2,89 @@
   "id": "g5_science_w1",
   "grade": 5,
   "subject": "science",
-  "subjectName": "Khoa Học",
+  "subjectName": "Khoa Học (Science)",
   "week": 1,
-  "title": "Tuần 1: Kiến thức & Ôn tập tuần 1",
-  "subTitle": "Ôn tập kiến thức trọng tâm tuần 1",
+  "title": "Unit 1: Plant Life Cycles & Germination",
+  "subTitle": "How seeds germinate and conditions required",
   "theory": {
     "totalCards": 3,
     "cards": [
       {
-        "id": "th_science_w1_1",
-        "term": "Tuần 1 - Thẻ mẫu 1",
-        "phonetic": "[Preview]",
-        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 1",
-        "definition": "Core concept for Week 1.",
-        "example": "This is an example for Week 1.",
-        "category": "Tuần 1",
-        "imageHint": "📚"
+        "id": "w1_s_th1",
+        "term": "Germination",
+        "phonetic": "/ˌdʒɜː.mɪˈneɪ.ʃən/",
+        "vietnamese": "Sự nảy mầm: Quá trình hạt giống bắt đầu phát triển thành cây con",
+        "definition": "The process by which a seed begins to grow and develop into a plant.",
+        "example": "Germination starts when the seed takes in water.",
+        "category": "Science Vocabulary",
+        "imageHint": "🌱"
       },
       {
-        "id": "th_science_w1_2",
-        "term": "Tuần 1 - Thẻ mẫu 2",
-        "phonetic": "[Preview]",
-        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 1",
-        "definition": "Grammar pattern for Week 1.",
-        "example": "Practice example for Week 1.",
-        "category": "Tuần 1",
-        "imageHint": "💡"
+        "id": "w1_s_th2",
+        "term": "Seed shrivels",
+        "phonetic": "[Shrinking cotyledon]",
+        "vietnamese": "Hạt teo nhỏ lại sau khi chất dinh dưỡng đã nuôi mầm cây",
+        "definition": "The seed becomes wrinkled and small because food stores are used up.",
+        "example": "The seed shrivels and becomes small after germination.",
+        "category": "Science Concepts",
+        "imageHint": "🫘"
+      },
+      {
+        "id": "w1_s_th3",
+        "term": "Conditions for germination",
+        "phonetic": "[Water, Oxygen, Warmth]",
+        "vietnamese": "Điều kiện cần cho hạt nảy mầm: Nước, Không khí (Oxy) và Độ ấm thích hợp",
+        "definition": "Water, air, and warmth are needed for germination. Most seeds do not need light to germinate.",
+        "example": "Seeds need water and warmth to start growing.",
+        "category": "Science Concepts",
+        "imageHint": "☀️"
       }
     ]
   },
   "exercises": [
     {
-      "id": "ex_science_w1_1",
-      "lesson": "Tuần 1",
+      "id": "w1_sex1",
+      "lesson": "Germination",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 1 cho Tuần 1 (Science): Đâu là câu trả lời chính xác?",
+      "question": "What triggers the start of seed germination?",
       "options": [
-        "Đáp án B",
-        "Đáp án A (Chính xác)",
-        "Đáp án D",
-        "Đáp án C"
+        "Absorbing water",
+        "Excessive heat",
+        "Sunlight only",
+        "Wind"
       ],
-      "correctIndex": 1,
-      "explanation": "Giải thích cho câu hỏi tuần 1.",
+      "correctIndex": 0,
+      "explanation": "Hạt nảy mầm khi nó hút hoặc hấp thụ nước (absorbs water).",
       "points": 100
     },
     {
-      "id": "ex_science_w1_2",
-      "lesson": "Tuần 1",
+      "id": "w1_sex2",
+      "lesson": "Germination",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 2 cho Tuần 1 (Science): Hãy chọn phương án đúng.",
+      "question": "What happens to the seed after germination when its food is used up?",
       "options": [
-        "Phương án 3",
-        "Phương án 4",
-        "Phương án 1 (Chính xác)",
-        "Phương án 2"
+        "It disappears immediately",
+        "It doubles in size",
+        "It turns into a rock",
+        "It shrivels and becomes small"
       ],
-      "correctIndex": 2,
-      "explanation": "Giải thích chi tiết phương án 1.",
+      "correctIndex": 3,
+      "explanation": "Hạt teo lại (shrivels) sau khi dưỡng chất dự trữ được mầm cây sử dụng hết.",
+      "points": 100
+    },
+    {
+      "id": "w1_sex3",
+      "lesson": "Germination",
+      "type": "multiple_choice",
+      "question": "Do most seeds require light to germinate?",
+      "options": [
+        "Only green seeds need light",
+        "Yes, they cannot grow in soil",
+        "Yes, they need direct sun",
+        "No, they need water, air and warmth"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hầu hết các hạt giống nảy mầm dưới lòng đất nên chỉ cần nước, oxy và nhiệt độ ấm thích hợp.",
       "points": 100
     }
   ]

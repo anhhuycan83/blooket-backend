@@ -2,64 +2,89 @@
   "id": "g5_science_w8",
   "grade": 5,
   "subject": "science",
-  "subjectName": "Khoa Học",
+  "subjectName": "Khoa Học (Science)",
   "week": 8,
-  "title": "Tuần 8: Kiến thức & Ôn tập tuần 8",
-  "subTitle": "Ôn tập kiến thức trọng tâm tuần 8",
+  "title": "Unit 2: Protecting Ears & Muffling Sound",
+  "subTitle": "Ear defenders, silencers and sound insulation",
   "theory": {
     "totalCards": 3,
     "cards": [
       {
-        "id": "th_science_w8_1",
-        "term": "Tuần 8 - Thẻ mẫu 1",
-        "phonetic": "[Preview]",
-        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 8",
-        "definition": "Core concept for Week 8.",
-        "example": "This is an example for Week 8.",
-        "category": "Tuần 8",
-        "imageHint": "📚"
+        "id": "w8_s_th1",
+        "term": "Ear defenders",
+        "phonetic": "/ˈɪər dɪˌfen.dərz/",
+        "vietnamese": "Tai nghe bảo vệ chống ồn: Dụng cụ đệm bảo vệ tai khỏi tiếng ồn nguy hiểm",
+        "definition": "Padded protection worn over the ears to protect hearing against very loud sounds.",
+        "example": "Airport ground staff wear ear defenders to protect their hearing from jet engines.",
+        "category": "Hearing Protection",
+        "imageHint": "🎧"
       },
       {
-        "id": "th_science_w8_2",
-        "term": "Tuần 8 - Thẻ mẫu 2",
-        "phonetic": "[Preview]",
-        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 8",
-        "definition": "Grammar pattern for Week 8.",
-        "example": "Practice example for Week 8.",
-        "category": "Tuần 8",
-        "imageHint": "💡"
+        "id": "w8_s_th2",
+        "term": "Silencer",
+        "phonetic": "/ˈsaɪ.lən.sər/",
+        "vietnamese": "Bộ giảm thanh / Ống pô giảm tiếng ồn lắp trên xe máy, ô tô",
+        "definition": "Equipment fitted to an exhaust pipe to make engine sounds quieter.",
+        "example": "Motorbikes have silencers to reduce exhaust noise.",
+        "category": "Sound Reduction",
+        "imageHint": "🛵"
+      },
+      {
+        "id": "w8_s_th3",
+        "term": "Muffle",
+        "phonetic": "/ˈmʌf.əl/",
+        "vietnamese": "Làm nghẹt, làm giảm âm lượng và độ vang của âm thanh",
+        "definition": "To decrease the volume and clarity of a sound by covering or insulating.",
+        "example": "Putting a cushion over a ringing alarm clock will muffle the sound.",
+        "category": "Acoustic Action",
+        "imageHint": "🔇"
       }
     ]
   },
   "exercises": [
     {
-      "id": "ex_science_w8_1",
-      "lesson": "Tuần 8",
+      "id": "w8_sex1",
+      "lesson": "Protection",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 1 cho Tuần 8 (Science): Đâu là câu trả lời chính xác?",
+      "question": "What protective equipment do workers wear around loud airplane engines?",
       "options": [
-        "Đáp án C",
-        "Đáp án A (Chính xác)",
-        "Đáp án D",
-        "Đáp án B"
+        "Sunglasses",
+        "Cap",
+        "Gloves only",
+        "Ear defenders"
       ],
-      "correctIndex": 1,
-      "explanation": "Giải thích cho câu hỏi tuần 8.",
+      "correctIndex": 3,
+      "explanation": "Tai nghe giảm ồn (ear defenders) bảo vệ màng nhĩ khỏi âm thanh quá lớn.",
       "points": 100
     },
     {
-      "id": "ex_science_w8_2",
-      "lesson": "Tuần 8",
+      "id": "w8_sex2",
+      "lesson": "Equipment",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 2 cho Tuần 8 (Science): Hãy chọn phương án đúng.",
+      "question": "What is fitted to motorbike exhausts to reduce loud engine noise?",
       "options": [
-        "Phương án 2",
-        "Phương án 3",
-        "Phương án 4",
-        "Phương án 1 (Chính xác)"
+        "Carburetors only",
+        "Vibration bells",
+        "Silencers (Bộ giảm thanh)",
+        "Speakers"
       ],
-      "correctIndex": 3,
-      "explanation": "Giải thích chi tiết phương án 1.",
+      "correctIndex": 2,
+      "explanation": "Silencers (bộ giảm thanh) làm giảm tiếng nổ phát ra từ động cơ.",
+      "points": 100
+    },
+    {
+      "id": "w8_sex3",
+      "lesson": "Action",
+      "type": "multiple_choice",
+      "question": "What does 'muffle' a sound mean?",
+      "options": [
+        "To make it louder",
+        "To make it quieter and less clear",
+        "To change its pitch higher",
+        "To double the frequency"
+      ],
+      "correctIndex": 1,
+      "explanation": "Muffle nghĩa là làm dịu bớt, làm nghẹt âm thanh bằng vật cản/tiêu âm.",
       "points": 100
     }
   ]

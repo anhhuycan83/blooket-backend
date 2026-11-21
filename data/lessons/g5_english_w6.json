@@ -4,62 +4,157 @@
   "subject": "english",
   "subjectName": "Anh Văn",
   "week": 6,
-  "title": "Tuần 6: Kiến thức & Ôn tập tuần 6",
-  "subTitle": "Ôn tập kiến thức trọng tâm tuần 6",
+  "title": "Unit 3: Where We Live & Eco-Houses",
+  "subTitle": "Lessons 3.1 - 3.3: Homes, Infinitive of Purpose & Modal Verbs",
   "theory": {
-    "totalCards": 3,
+    "totalCards": 7,
     "cards": [
       {
-        "id": "th_english_w6_1",
-        "term": "Tuần 6 - Thẻ mẫu 1",
-        "phonetic": "[Preview]",
-        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 6",
-        "definition": "Core concept for Week 6.",
-        "example": "This is an example for Week 6.",
-        "category": "Tuần 6",
-        "imageHint": "📚"
+        "id": "w6_th1",
+        "term": "stilt house",
+        "phonetic": "/stɪlt haʊs/",
+        "vietnamese": "Nhà sàn (nhà xây trên các cọc gỗ cao trên mặt đất hoặc mặt nước)",
+        "definition": "A house raised on stilts over the surface of the soil or a body of water.",
+        "example": "Ethnic minorities in northern Vietnam often live in traditional stilt houses.",
+        "category": "Types of Homes",
+        "imageHint": "🏡"
       },
       {
-        "id": "th_english_w6_2",
-        "term": "Tuần 6 - Thẻ mẫu 2",
-        "phonetic": "[Preview]",
-        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 6",
-        "definition": "Grammar pattern for Week 6.",
-        "example": "Practice example for Week 6.",
-        "category": "Tuần 6",
-        "imageHint": "💡"
+        "id": "w6_th2",
+        "term": "eco-house",
+        "phonetic": "/ˈiː.kəʊ ˌhaʊs/",
+        "vietnamese": "Nhà sinh thái (ngôi nhà thân thiện với môi trường, tiết kiệm năng lượng)",
+        "definition": "An environmentally friendly home designed to have low impact on nature.",
+        "example": "An eco-house uses solar panels and recycled materials.",
+        "category": "Types of Homes",
+        "imageHint": "🌱"
+      },
+      {
+        "id": "w6_th3",
+        "term": "solar panel",
+        "phonetic": "/ˈsəʊ.lə ˌpæn.əl/",
+        "vietnamese": "Tấm pin năng lượng mặt trời",
+        "definition": "A panel designed to absorb the sun's rays as a source of energy for generating electricity.",
+        "example": "They installed solar panels on the roof to generate green energy.",
+        "category": "Eco Vocabulary",
+        "imageHint": "☀️"
+      },
+      {
+        "id": "w6_th4",
+        "term": "Infinitive of Purpose",
+        "phonetic": "[to + V]",
+        "vietnamese": "Động từ nguyên mẫu chỉ mục đích: Để làm việc gì đó (to + V)",
+        "definition": "Used to express the purpose or reason why someone does an action.",
+        "example": "They have solar panels to provide clean electricity.",
+        "category": "Grammar",
+        "imageHint": "🎯"
+      },
+      {
+        "id": "w6_th5",
+        "term": "spacious",
+        "phonetic": "/ˈspeɪ.ʃəs/",
+        "vietnamese": "Rộng rãi, thoáng đãng (nhiều không gian)",
+        "definition": "Having ample space; roomy.",
+        "example": "Their new living room is very spacious and bright.",
+        "category": "Adjectives",
+        "imageHint": "🛋️"
+      },
+      {
+        "id": "w6_th6",
+        "term": "unplug charger",
+        "phonetic": "/ʌnˈplʌɡ ˈtʃɑː.dʒər/",
+        "vietnamese": "Rút phích cắm sạc khi sạc xong để tiết kiệm điện",
+        "definition": "To disconnect an electronic charger from the electrical wall outlet.",
+        "example": "Always unplug your phone charger to save energy.",
+        "category": "Saving Energy",
+        "imageHint": "🔌"
+      },
+      {
+        "id": "w6_th7",
+        "term": "Asking for directions",
+        "phonetic": "[Could you tell me the way to...?]",
+        "vietnamese": "Hỏi đường: Could you tell me the way to...? -> Go along / Go past...",
+        "definition": "Polite structures used to ask and give directions in towns or schools.",
+        "example": "Could you tell me the way to the library, please? - Go along this corridor.",
+        "category": "MOET Unit 6",
+        "imageHint": "🗺️"
       }
     ]
   },
   "exercises": [
     {
-      "id": "ex_english_w6_1",
-      "lesson": "Tuần 6",
+      "id": "w6_ex1",
+      "lesson": "Homes",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 1 cho Tuần 6 (English): Đâu là câu trả lời chính xác?",
+      "question": "What type of house is built on tall wooden poles above ground?",
       "options": [
-        "Đáp án C",
-        "Đáp án B",
-        "Đáp án D",
-        "Đáp án A (Chính xác)"
+        "tree house",
+        "bungalow",
+        "stilt house",
+        "apartment"
       ],
-      "correctIndex": 3,
-      "explanation": "Giải thích cho câu hỏi tuần 6.",
+      "correctIndex": 2,
+      "explanation": "Nhà dựng trên cọc cao gọi là stilt house (nhà sàn).",
       "points": 100
     },
     {
-      "id": "ex_english_w6_2",
-      "lesson": "Tuần 6",
+      "id": "w6_ex2",
+      "lesson": "Grammar",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 2 cho Tuần 6 (English): Hãy chọn phương án đúng.",
+      "question": "They installed solar panels on the roof ________ energy for heating.",
       "options": [
-        "Phương án 4",
-        "Phương án 3",
-        "Phương án 1 (Chính xác)",
-        "Phương án 2"
+        "to provide",
+        "providing",
+        "provided",
+        "provides"
       ],
-      "correctIndex": 2,
-      "explanation": "Giải thích chi tiết phương án 1.",
+      "correctIndex": 0,
+      "explanation": "Dùng to + V (Infinitive of purpose) để chỉ mục đích.",
+      "points": 100
+    },
+    {
+      "id": "w6_ex3",
+      "lesson": "Environment",
+      "type": "multiple_choice",
+      "question": "Which action helps save electricity at home?",
+      "options": [
+        "Unplugging chargers when not in use",
+        "Opening fridge constantly",
+        "Leaving lights on all night",
+        "Wasting warm water"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rút sạc khi không sử dụng giúp giảm tiêu hao điện năng.",
+      "points": 100
+    },
+    {
+      "id": "w6_ex4",
+      "lesson": "Directions",
+      "type": "multiple_choice",
+      "question": "Could you tell me the way to the computer room, please? — ________ the corridor and turn left.",
+      "options": [
+        "Go along",
+        "Stop",
+        "Stay",
+        "Sit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cụm chỉ đường: Go along the corridor (Đi dọc theo hành lang).",
+      "points": 100
+    },
+    {
+      "id": "w6_ex5",
+      "lesson": "Vocabulary",
+      "type": "multiple_choice",
+      "question": "A house that has plenty of room and space is called ________.",
+      "options": [
+        "cramped",
+        "spacious",
+        "tiny",
+        "narrow"
+      ],
+      "correctIndex": 1,
+      "explanation": "Spacious có nghĩa là rộng rãi, thoáng mát.",
       "points": 100
     }
   ]

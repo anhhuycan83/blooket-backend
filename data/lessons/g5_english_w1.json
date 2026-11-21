@@ -4,62 +4,167 @@
   "subject": "english",
   "subjectName": "Anh Văn",
   "week": 1,
-  "title": "Tuần 1: Kiến thức & Ôn tập tuần 1",
-  "subTitle": "Ôn tập kiến thức trọng tâm tuần 1",
+  "title": "Unit 2: Planet Earth & Natural Miracles",
+  "subTitle": "Lessons 2.1 - 2.3: Comparatives, Superlatives & Space",
   "theory": {
-    "totalCards": 3,
+    "totalCards": 8,
     "cards": [
       {
-        "id": "th_english_w1_1",
-        "term": "Tuần 1 - Thẻ mẫu 1",
-        "phonetic": "[Preview]",
-        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 1",
-        "definition": "Core concept for Week 1.",
-        "example": "This is an example for Week 1.",
-        "category": "Tuần 1",
-        "imageHint": "📚"
+        "id": "w1_th1",
+        "term": "the tropical rainforest",
+        "phonetic": "/ˌtrɒp.ɪ.kəl ˈreɪn.fɒr.ɪst/",
+        "vietnamese": "Rừng mưa nhiệt đới (nơi ẩm ướt, nhiều cây xanh)",
+        "definition": "A dense forest with high annual rainfall in tropical regions.",
+        "example": "The Amazon is the largest tropical rainforest in the world.",
+        "category": "Lesson 2.1 Vocabulary",
+        "imageHint": "🌴"
       },
       {
-        "id": "th_english_w1_2",
-        "term": "Tuần 1 - Thẻ mẫu 2",
-        "phonetic": "[Preview]",
-        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 1",
-        "definition": "Grammar pattern for Week 1.",
-        "example": "Practice example for Week 1.",
-        "category": "Tuần 1",
-        "imageHint": "💡"
+        "id": "w1_th2",
+        "term": "humid",
+        "phonetic": "/ˈhjuː.mɪd/",
+        "vietnamese": "Ẩm ướt, có độ ẩm cao trong không khí",
+        "definition": "Having a high level of water vapor in the atmosphere.",
+        "example": "The weather is very hot and humid in summer.",
+        "category": "Lesson 2.1 Vocabulary",
+        "imageHint": "💧"
+      },
+      {
+        "id": "w1_th3",
+        "term": "Comparatives",
+        "phonetic": "[adj + -er than / more + adj than]",
+        "vietnamese": "So sánh hơn: Tính từ ngắn thêm -er, tính từ dài dùng more",
+        "definition": "Used to compare differences between the two objects they modify.",
+        "example": "The Namib Desert is older than the Sahara. It is more dangerous than you think.",
+        "category": "Lesson 2.1 Grammar",
+        "imageHint": "⚖️"
+      },
+      {
+        "id": "w1_th4",
+        "term": "orbit",
+        "phonetic": "/ˈɔː.bɪt/",
+        "vietnamese": "Quỹ đạo, di chuyển quanh một thiên thể trong không gian",
+        "definition": "The curved path of a celestial object or spacecraft around a star or planet.",
+        "example": "The Earth orbits around the Sun once a year.",
+        "category": "Lesson 2.2 Vocabulary",
+        "imageHint": "🪐"
+      },
+      {
+        "id": "w1_th5",
+        "term": "Superlatives",
+        "phonetic": "[the + adj-est / the most + adj]",
+        "vietnamese": "So sánh nhất: the + tính từ ngắn + est / the most + tính từ dài",
+        "definition": "Used to describe an object which is at the upper or lower limit of a quality.",
+        "example": "Mercury is the nearest planet to the Sun.",
+        "category": "Lesson 2.2 Grammar",
+        "imageHint": "🥇"
+      },
+      {
+        "id": "w1_th6",
+        "term": "northern lights",
+        "phonetic": "/ˌnɔː.ðən ˈlaɪts/",
+        "vietnamese": "Cực quang (ánh sáng phương bắc tuyệt đẹp trên bầu trời)",
+        "definition": "Patterns of colored light seen in the sky at night in northern regions.",
+        "example": "We travelled to Norway to watch the northern lights.",
+        "category": "Lesson 2.3 Vocabulary",
+        "imageHint": "🌌"
+      },
+      {
+        "id": "w1_th7",
+        "term": "constellation",
+        "phonetic": "/ˌkɒn.stəˈleɪ.ʃən/",
+        "vietnamese": "Chòm sao (tập hợp các ngôi sao tạo thành hình dạng)",
+        "definition": "A group of stars forming a recognizable pattern.",
+        "example": "Sailors used constellations to find their way at night.",
+        "category": "Lesson 2.3 Vocabulary",
+        "imageHint": "✨"
+      },
+      {
+        "id": "w1_th8",
+        "term": "Present continuous",
+        "phonetic": "[S + am/is/are + V-ing]",
+        "vietnamese": "Thì hiện tại tiếp diễn: Diễn tả hành động đang diễn ra tại thời điểm nói",
+        "definition": "Used for actions happening right now or around the present time.",
+        "example": "I am looking at the stars through my telescope.",
+        "category": "Lesson 2.3 Grammar",
+        "imageHint": "⏳"
       }
     ]
   },
   "exercises": [
     {
-      "id": "ex_english_w1_1",
-      "lesson": "Tuần 1",
+      "id": "w1_ex1",
+      "lesson": "Lesson 2.1",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 1 cho Tuần 1 (English): Đâu là câu trả lời chính xác?",
+      "question": "The Sahara Desert is ________ than the Namib Desert.",
       "options": [
-        "Đáp án B",
-        "Đáp án C",
-        "Đáp án A (Chính xác)",
-        "Đáp án D"
+        "hottest",
+        "more hot",
+        "hot",
+        "hotter"
       ],
-      "correctIndex": 2,
-      "explanation": "Giải thích cho câu hỏi tuần 1.",
+      "correctIndex": 3,
+      "explanation": "Tính từ ngắn 'hot' gấp đôi phụ âm: hotter than.",
       "points": 100
     },
     {
-      "id": "ex_english_w1_2",
-      "lesson": "Tuần 1",
+      "id": "w1_ex2",
+      "lesson": "Lesson 2.1",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 2 cho Tuần 1 (English): Hãy chọn phương án đúng.",
+      "question": "Is exploring space ________ than you think?",
       "options": [
-        "Phương án 3",
-        "Phương án 1 (Chính xác)",
-        "Phương án 2",
-        "Phương án 4"
+        "most dangerous",
+        "dangerouser",
+        "dangerous",
+        "more dangerous"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tính từ dài dùng cấu trúc: more + adj + than.",
+      "points": 100
+    },
+    {
+      "id": "w1_ex3",
+      "lesson": "Lesson 2.2",
+      "type": "multiple_choice",
+      "question": "Mercury is the ________ planet to the Sun.",
+      "options": [
+        "nearest",
+        "nearer",
+        "near",
+        "most near"
+      ],
+      "correctIndex": 0,
+      "explanation": "So sánh nhất tính từ ngắn: the nearest.",
+      "points": 100
+    },
+    {
+      "id": "w1_ex4",
+      "lesson": "Lesson 2.2",
+      "type": "multiple_choice",
+      "question": "What does 'orbit' mean?",
+      "options": [
+        "To fall down to Earth",
+        "To travel around an object in space",
+        "To shine bright in the sky",
+        "To stop moving"
       ],
       "correctIndex": 1,
-      "explanation": "Giải thích chi tiết phương án 1.",
+      "explanation": "Orbit nghĩa là chuyển động theo quỹ đạo xung quanh một vật thể.",
+      "points": 100
+    },
+    {
+      "id": "w1_ex5",
+      "lesson": "Lesson 2.3",
+      "type": "multiple_choice",
+      "question": "Look! She ________ at the beautiful rainbow outside.",
+      "options": [
+        "looked",
+        "is looking",
+        "look",
+        "looks"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hành động đang diễn ra tại thời điểm nói: is + V-ing.",
       "points": 100
     }
   ]

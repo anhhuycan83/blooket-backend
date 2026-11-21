@@ -2,64 +2,89 @@
   "id": "g5_science_w2",
   "grade": 5,
   "subject": "science",
-  "subjectName": "Khoa Học",
+  "subjectName": "Khoa Học (Science)",
   "week": 2,
-  "title": "Tuần 2: Kiến thức & Ôn tập tuần 2",
-  "subTitle": "Ôn tập kiến thức trọng tâm tuần 2",
+  "title": "Unit 2: Sound & Vibrations",
+  "subTitle": "How sound is produced and how it travels through mediums",
   "theory": {
     "totalCards": 3,
     "cards": [
       {
-        "id": "th_science_w2_1",
-        "term": "Tuần 2 - Thẻ mẫu 1",
-        "phonetic": "[Preview]",
-        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 2",
-        "definition": "Core concept for Week 2.",
-        "example": "This is an example for Week 2.",
-        "category": "Tuần 2",
-        "imageHint": "📚"
+        "id": "w2_s_th1",
+        "term": "Vibration",
+        "phonetic": "/vaɪˈbreɪ.ʃən/",
+        "vietnamese": "Sự rung động: Chuyển động qua lại rất nhanh tạo ra âm thanh",
+        "definition": "A continuous, rapid shaking movement back and forth that produces sound.",
+        "example": "Sounds are made when things vibrate.",
+        "category": "Sound Concepts",
+        "imageHint": "🔊"
       },
       {
-        "id": "th_science_w2_2",
-        "term": "Tuần 2 - Thẻ mẫu 2",
-        "phonetic": "[Preview]",
-        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 2",
-        "definition": "Grammar pattern for Week 2.",
-        "example": "Practice example for Week 2.",
-        "category": "Tuần 2",
-        "imageHint": "💡"
+        "id": "w2_s_th2",
+        "term": "Pluck a string",
+        "phonetic": "/plʌk ə strɪŋ/",
+        "vietnamese": "Gảy dây đàn làm dây rung lên và phát ra nốt nhạc",
+        "definition": "To pull and quickly release a musical string to produce sound.",
+        "example": "You can see guitar strings vibrate when you pluck them.",
+        "category": "Musical Acoustics",
+        "imageHint": "🎸"
+      },
+      {
+        "id": "w2_s_th3",
+        "term": "Speed of sound in solids",
+        "phonetic": "[Solids > Liquids > Gases]",
+        "vietnamese": "Âm thanh truyền nhanh nhất trong chất rắn (nhờ các phân tử xếp sát nhau)",
+        "definition": "Sound travels fastest through solids because particles are packed tightly.",
+        "example": "Sound travels fastest through solids, slower in water, and slowest in air.",
+        "category": "Sound Transmission",
+        "imageHint": "🧱"
       }
     ]
   },
   "exercises": [
     {
-      "id": "ex_science_w2_1",
-      "lesson": "Tuần 2",
+      "id": "w2_sex1",
+      "lesson": "Sound",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 1 cho Tuần 2 (Science): Đâu là câu trả lời chính xác?",
+      "question": "How is sound produced?",
       "options": [
-        "Đáp án B",
-        "Đáp án A (Chính xác)",
-        "Đáp án D",
-        "Đáp án C"
+        "When objects vibrate back and forth",
+        "By silence",
+        "When air stops moving",
+        "When light reflects"
       ],
-      "correctIndex": 1,
-      "explanation": "Giải thích cho câu hỏi tuần 2.",
+      "correctIndex": 0,
+      "explanation": "Âm thanh luôn sinh ra khi vật thể rung động qua lại (vibrations).",
       "points": 100
     },
     {
-      "id": "ex_science_w2_2",
-      "lesson": "Tuần 2",
+      "id": "w2_sex2",
+      "lesson": "Mediums",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 2 cho Tuần 2 (Science): Hãy chọn phương án đúng.",
+      "question": "Through which state of matter does sound travel FASTEST?",
       "options": [
-        "Phương án 1 (Chính xác)",
-        "Phương án 2",
-        "Phương án 3",
-        "Phương án 4"
+        "Liquids (Chất lỏng)",
+        "Vacuum (Chân không)",
+        "Gases (Chất khí)",
+        "Solids (Chất rắn)"
       ],
-      "correctIndex": 0,
-      "explanation": "Giải thích chi tiết phương án 1.",
+      "correctIndex": 3,
+      "explanation": "Âm thanh truyền nhanh nhất qua chất rắn vì mật độ phân tử xếp rất chặt.",
+      "points": 100
+    },
+    {
+      "id": "w2_sex3",
+      "lesson": "Acoustics",
+      "type": "multiple_choice",
+      "question": "Can sound travel through an empty vacuum (no particles)?",
+      "options": [
+        "Yes, sound travels faster in vacuum",
+        "Yes, sound needs only light",
+        "No, sound needs a medium to travel",
+        "Only loud sounds can"
+      ],
+      "correctIndex": 2,
+      "explanation": "Âm thanh là sóng cơ học nên cần môi trường vật chất để truyền tải, không truyền được trong chân không.",
       "points": 100
     }
   ]

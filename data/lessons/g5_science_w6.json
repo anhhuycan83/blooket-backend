@@ -2,64 +2,89 @@
   "id": "g5_science_w6",
   "grade": 5,
   "subject": "science",
-  "subjectName": "Khoa Học",
+  "subjectName": "Khoa Học (Science)",
   "week": 6,
-  "title": "Tuần 6: Kiến thức & Ôn tập tuần 6",
-  "subTitle": "Ôn tập kiến thức trọng tâm tuần 6",
+  "title": "Unit 2: Sound Reflection & Echoes",
+  "subTitle": "Echoes, sound absorption and acoustic materials",
   "theory": {
     "totalCards": 3,
     "cards": [
       {
-        "id": "th_science_w6_1",
-        "term": "Tuần 6 - Thẻ mẫu 1",
-        "phonetic": "[Preview]",
-        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 6",
-        "definition": "Core concept for Week 6.",
-        "example": "This is an example for Week 6.",
-        "category": "Tuần 6",
-        "imageHint": "📚"
+        "id": "w6_s_th1",
+        "term": "Echo",
+        "phonetic": "/ˈek.oʊ/",
+        "vietnamese": "Tiếng vang (tiếng vọng lại khi sóng âm đập vào bề mặt cứng)",
+        "definition": "A sound caused by the reflection of sound waves off a hard surface back to the listener.",
+        "example": "You can hear an echo when you shout in a large cave or empty hall.",
+        "category": "Acoustics",
+        "imageHint": "🗣️"
       },
       {
-        "id": "th_science_w6_2",
-        "term": "Tuần 6 - Thẻ mẫu 2",
-        "phonetic": "[Preview]",
-        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 6",
-        "definition": "Grammar pattern for Week 6.",
-        "example": "Practice example for Week 6.",
-        "category": "Tuần 6",
-        "imageHint": "💡"
+        "id": "w6_s_th2",
+        "term": "Sound absorption",
+        "phonetic": "[Soft & porous materials]",
+        "vietnamese": "Sự hấp thụ âm thanh: Vật liệu mềm xốp (thảm, rèm) hút âm làm giảm tiếng vang",
+        "definition": "The process by which soft materials take in sound energy rather than reflecting it.",
+        "example": "Cinemas use thick carpets and curtains to absorb sound and prevent echoes.",
+        "category": "Acoustic Materials",
+        "imageHint": "🧶"
+      },
+      {
+        "id": "w6_s_th3",
+        "term": "Hard surfaces vs Soft surfaces",
+        "phonetic": "[Reflect vs Absorb]",
+        "vietnamese": "Bề mặt cứng nhẵn (gạch, bê tông) dội âm tốt; bề mặt mềm gồ ghề hút âm tốt",
+        "definition": "Hard smooth surfaces reflect sound creating echoes; soft rough surfaces absorb sound.",
+        "example": "Tiles reflect sound whereas cushions absorb sound.",
+        "category": "Acoustics",
+        "imageHint": "🧱"
       }
     ]
   },
   "exercises": [
     {
-      "id": "ex_science_w6_1",
-      "lesson": "Tuần 6",
+      "id": "w6_sex1",
+      "lesson": "Echoes",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 1 cho Tuần 6 (Science): Đâu là câu trả lời chính xác?",
+      "question": "What is produced when sound reflects off a large hard wall?",
       "options": [
-        "Đáp án B",
-        "Đáp án A (Chính xác)",
-        "Đáp án D",
-        "Đáp án C"
+        "A shadow",
+        "A light flash",
+        "Complete silence",
+        "An echo (Tiếng vang)"
       ],
-      "correctIndex": 1,
-      "explanation": "Giải thích cho câu hỏi tuần 6.",
+      "correctIndex": 3,
+      "explanation": "Sóng âm đập vào mặt phẳng cứng phản xạ lại tạo thành tiếng vang (echo).",
       "points": 100
     },
     {
-      "id": "ex_science_w6_2",
-      "lesson": "Tuần 6",
+      "id": "w6_sex2",
+      "lesson": "Materials",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 2 cho Tuần 6 (Science): Hãy chọn phương án đúng.",
+      "question": "Which material is best for ABSORBING sound in a recording studio?",
       "options": [
-        "Phương án 3",
-        "Phương án 2",
-        "Phương án 4",
-        "Phương án 1 (Chính xác)"
+        "Thick foam / Curtains",
+        "Metal sheet",
+        "Glass window",
+        "Ceramic tile"
       ],
-      "correctIndex": 3,
-      "explanation": "Giải thích chi tiết phương án 1.",
+      "correctIndex": 0,
+      "explanation": "Mút xốp và rèm dày có nhiều lỗ khí giúp tiêu âm và hút âm tốt nhất.",
+      "points": 100
+    },
+    {
+      "id": "w6_sex3",
+      "lesson": "Acoustics",
+      "type": "multiple_choice",
+      "question": "Why do empty rooms echo more than furnished rooms?",
+      "options": [
+        "Furniture creates more echoes",
+        "Furnished rooms have soft carpets and furniture to absorb sound",
+        "Empty rooms have higher temperature",
+        "Walls in empty rooms are thinner"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đồ đạc, sofa, thảm trải sàn trong phòng giúp hấp thụ âm thanh, giảm tiếng vang.",
       "points": 100
     }
   ]

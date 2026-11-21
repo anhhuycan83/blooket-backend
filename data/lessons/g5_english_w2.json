@@ -4,62 +4,157 @@
   "subject": "english",
   "subjectName": "Anh Văn",
   "week": 2,
-  "title": "Tuần 2: Kiến thức & Ôn tập tuần 2",
-  "subTitle": "Ôn tập kiến thức trọng tâm tuần 2",
+  "title": "Unit 2: Space Exploration & Hobbies",
+  "subTitle": "Lessons 2.4 - 2.5: Present Simple, Both/But/Too & Adverbs of frequency",
   "theory": {
-    "totalCards": 3,
+    "totalCards": 7,
     "cards": [
       {
-        "id": "th_english_w2_1",
-        "term": "Tuần 2 - Thẻ mẫu 1",
-        "phonetic": "[Preview]",
-        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 2",
-        "definition": "Core concept for Week 2.",
-        "example": "This is an example for Week 2.",
-        "category": "Tuần 2",
-        "imageHint": "📚"
+        "id": "w2_th1",
+        "term": "space shuttle",
+        "phonetic": "/ˈspeɪs ˌʃʌt.əl/",
+        "vietnamese": "Tàu con thoi (tàu vũ trụ có thể tái sử dụng)",
+        "definition": "A spacecraft designed to transport people and cargo between Earth and space.",
+        "example": "Astronauts travelled to the space station in a space shuttle.",
+        "category": "Space Technology",
+        "imageHint": "🚀"
       },
       {
-        "id": "th_english_w2_2",
-        "term": "Tuần 2 - Thẻ mẫu 2",
-        "phonetic": "[Preview]",
-        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 2",
-        "definition": "Grammar pattern for Week 2.",
-        "example": "Practice example for Week 2.",
-        "category": "Tuần 2",
-        "imageHint": "💡"
+        "id": "w2_th2",
+        "term": "rover",
+        "phonetic": "/ˈroʊ.vər/",
+        "vietnamese": "Xe thám hiểm tự hành trên các hành tinh khác",
+        "definition": "A vehicle used for exploring the surface of an extraterrestrial planet.",
+        "example": "The Curiosity rover is exploring the rocky surface of Mars.",
+        "category": "Space Technology",
+        "imageHint": "🤖"
+      },
+      {
+        "id": "w2_th3",
+        "term": "satellite",
+        "phonetic": "/ˈsæt.əl.aɪt/",
+        "vietnamese": "Vệ tinh nhân tạo bay quanh Trái Đất",
+        "definition": "An artificial body placed in orbit around the earth or moon to collect information.",
+        "example": "Satellites send television signals and weather data to Earth.",
+        "category": "Space Technology",
+        "imageHint": "🛰️"
+      },
+      {
+        "id": "w2_th4",
+        "term": "Present Simple for Facts",
+        "phonetic": "[S + V(s/es)]",
+        "vietnamese": "Thì hiện tại đơn diễn tả sự thật hiển nhiên hoặc thói quen hàng ngày",
+        "definition": "Used to describe general truths, facts, or regular habits.",
+        "example": "The Earth moves around the Sun. He washes his bike every day.",
+        "category": "Grammar",
+        "imageHint": "📖"
+      },
+      {
+        "id": "w2_th5",
+        "term": "Both vs But vs Too",
+        "phonetic": "[Connectives]",
+        "vietnamese": "Both: cả hai. But: nhưng (nêu sự đối lập). Too: cũng (cuối câu khẳng định)",
+        "definition": "Conjunctions used to connect ideas, show contrast, or add similar information.",
+        "example": "We both like space. My cousin has a cat, but I haven't. I have a dog too.",
+        "category": "Grammar",
+        "imageHint": "🔗"
+      },
+      {
+        "id": "w2_th6",
+        "term": "Adverbs of frequency",
+        "phonetic": "[always, usually, often, sometimes, rarely, never]",
+        "vietnamese": "Trạng từ chỉ tần suất: Always (100%), Usually (90%), Often (70%), Never (0%)",
+        "definition": "Words that describe how often an action happens.",
+        "example": "She often plays the violin in her free time.",
+        "category": "MOET Unit 4",
+        "imageHint": "📊"
+      },
+      {
+        "id": "w2_th7",
+        "term": "play the violin",
+        "phonetic": "/pleɪ ðə ˌvaɪəˈlɪn/",
+        "vietnamese": "Chơi đàn vĩ cầm (đàn violin)",
+        "definition": "To play music on a string instrument using a bow.",
+        "example": "What do you like doing in your free time? - I like playing the violin.",
+        "category": "Hobbies Vocabulary",
+        "imageHint": "🎻"
       }
     ]
   },
   "exercises": [
     {
-      "id": "ex_english_w2_1",
-      "lesson": "Tuần 2",
+      "id": "w2_ex1",
+      "lesson": "Space",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 1 cho Tuần 2 (English): Đâu là câu trả lời chính xác?",
+      "question": "What is an artificial vehicle sent to explore the surface of Mars called?",
       "options": [
-        "Đáp án A (Chính xác)",
-        "Đáp án C",
-        "Đáp án D",
-        "Đáp án B"
+        "satellite",
+        "space shuttle",
+        "rover",
+        "telescope"
       ],
-      "correctIndex": 0,
-      "explanation": "Giải thích cho câu hỏi tuần 2.",
+      "correctIndex": 2,
+      "explanation": "Rover là xe tự hành thám hiểm bề mặt các hành tinh.",
       "points": 100
     },
     {
-      "id": "ex_english_w2_2",
-      "lesson": "Tuần 2",
+      "id": "w2_ex2",
+      "lesson": "Grammar",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 2 cho Tuần 2 (English): Hãy chọn phương án đúng.",
+      "question": "He ________ his hands carefully before dinner every evening.",
       "options": [
-        "Phương án 2",
-        "Phương án 1 (Chính xác)",
-        "Phương án 4",
-        "Phương án 3"
+        "washes",
+        "is wash",
+        "wash",
+        "washing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chủ ngữ số ít 'He' ở hiện tại đơn thêm -es: washes.",
+      "points": 100
+    },
+    {
+      "id": "w2_ex3",
+      "lesson": "Connectives",
+      "type": "multiple_choice",
+      "question": "My sister likes orange juice, ________ I prefer fresh milk.",
+      "options": [
+        "so",
+        "but",
+        "both",
+        "too"
       ],
       "correctIndex": 1,
-      "explanation": "Giải thích chi tiết phương án 1.",
+      "explanation": "Dùng 'but' (nhưng) để nối hai mệnh đề thể hiện sự đối lập.",
+      "points": 100
+    },
+    {
+      "id": "w2_ex4",
+      "lesson": "Adverbs",
+      "type": "multiple_choice",
+      "question": "Which adverb of frequency means doing something 100% of the time?",
+      "options": [
+        "Always",
+        "Never",
+        "Rarely",
+        "Sometimes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Always có nghĩa là luôn luôn (100% tần suất).",
+      "points": 100
+    },
+    {
+      "id": "w2_ex5",
+      "lesson": "Vocabulary",
+      "type": "multiple_choice",
+      "question": "What do you do at the weekend? — I ________ the flowers in the garden.",
+      "options": [
+        "play",
+        "surf",
+        "water",
+        "ride"
+      ],
+      "correctIndex": 2,
+      "explanation": "Water the flowers nghĩa là tưới hoa cho vườn.",
       "points": 100
     }
   ]

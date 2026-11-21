@@ -2,64 +2,89 @@
   "id": "g5_math_w1",
   "grade": 5,
   "subject": "math",
-  "subjectName": "Toán",
+  "subjectName": "Toán (Maths)",
   "week": 1,
-  "title": "Tuần 1: Kiến thức & Ôn tập tuần 1",
-  "subTitle": "Ôn tập kiến thức trọng tâm tuần 1",
+  "title": "Unit 2: 2D Shapes & Symmetry",
+  "subTitle": "Symmetrical shapes and Lines of symmetry",
   "theory": {
     "totalCards": 3,
     "cards": [
       {
-        "id": "th_math_w1_1",
-        "term": "Tuần 1 - Thẻ mẫu 1",
-        "phonetic": "[Preview]",
-        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 1",
-        "definition": "Core concept for Week 1.",
-        "example": "This is an example for Week 1.",
-        "category": "Tuần 1",
-        "imageHint": "📚"
+        "id": "w1_m_th1",
+        "term": "Symmetry",
+        "phonetic": "/ˈsɪm.ə.tri/",
+        "vietnamese": "Tính đối xứng: Khi hai nửa của một hình trùng khít lên nhau",
+        "definition": "The quality of being made up of exactly similar parts facing each other.",
+        "example": "A butterfly has bilateral symmetry.",
+        "category": "Maths Vocabulary",
+        "imageHint": "🦋"
       },
       {
-        "id": "th_math_w1_2",
-        "term": "Tuần 1 - Thẻ mẫu 2",
-        "phonetic": "[Preview]",
-        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 1",
-        "definition": "Grammar pattern for Week 1.",
-        "example": "Practice example for Week 1.",
-        "category": "Tuần 1",
-        "imageHint": "💡"
+        "id": "w1_m_th2",
+        "term": "Line of symmetry",
+        "phonetic": "[Mirror line]",
+        "vietnamese": "Trục đối xứng: Đường phân chia hình làm 2 phần giống hệt nhau",
+        "definition": "The line that divides a shape into two identical halves.",
+        "example": "A square has 4 lines of symmetry.",
+        "category": "Geometry Concepts",
+        "imageHint": "📐"
+      },
+      {
+        "id": "w1_m_th3",
+        "term": "Symmetrical shape",
+        "phonetic": "/sɪˈmet.rɪ.kəl ʃeɪp/",
+        "vietnamese": "Hình đối xứng (hình có ít nhất một trục đối xứng)",
+        "definition": "A shape that can be divided into identical mirrored halves.",
+        "example": "A circle has infinite lines of symmetry.",
+        "category": "Geometry Concepts",
+        "imageHint": "⭕"
       }
     ]
   },
   "exercises": [
     {
-      "id": "ex_math_w1_1",
-      "lesson": "Tuần 1",
+      "id": "w1_mex1",
+      "lesson": "Geometry",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 1 cho Tuần 1 (Math): Đâu là câu trả lời chính xác?",
+      "question": "How many lines of symmetry does a SQUARE have?",
       "options": [
-        "Đáp án D",
-        "Đáp án A (Chính xác)",
-        "Đáp án B",
-        "Đáp án C"
+        "2",
+        "4",
+        "1",
+        "8"
       ],
       "correctIndex": 1,
-      "explanation": "Giải thích cho câu hỏi tuần 1.",
+      "explanation": "Hình vuông có 4 trục đối xứng (2 trục ngang/dọc và 2 trục chéo).",
       "points": 100
     },
     {
-      "id": "ex_math_w1_2",
-      "lesson": "Tuần 1",
+      "id": "w1_mex2",
+      "lesson": "Geometry",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 2 cho Tuần 1 (Math): Hãy chọn phương án đúng.",
+      "question": "How many lines of symmetry does a RECTANGLE have?",
       "options": [
-        "Phương án 4",
-        "Phương án 1 (Chính xác)",
-        "Phương án 3",
-        "Phương án 2"
+        "0",
+        "2",
+        "1",
+        "4"
       ],
       "correctIndex": 1,
-      "explanation": "Giải thích chi tiết phương án 1.",
+      "explanation": "Hình chữ nhật có 2 trục đối xứng đi qua trung điểm các cạnh đối diện.",
+      "points": 100
+    },
+    {
+      "id": "w1_mex3",
+      "lesson": "Geometry",
+      "type": "multiple_choice",
+      "question": "What is the line dividing a shape into two identical halves called?",
+      "options": [
+        "Perimeter",
+        "Diagonal only",
+        "Line of symmetry",
+        "Radius"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đường phân chia hình thành 2 nửa đối xứng gọi là Line of symmetry (trục đối xứng).",
       "points": 100
     }
   ]

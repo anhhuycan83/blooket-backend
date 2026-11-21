@@ -2,64 +2,89 @@
   "id": "g5_math_w8",
   "grade": 5,
   "subject": "math",
-  "subjectName": "Toán",
+  "subjectName": "Toán (Maths)",
   "week": 8,
-  "title": "Tuần 8: Kiến thức & Ôn tập tuần 8",
-  "subTitle": "Ôn tập kiến thức trọng tâm tuần 8",
+  "title": "Unit 6: 3D Shapes & Nets of Cubes",
+  "subTitle": "Recognizing nets that form closed and open cubes",
   "theory": {
     "totalCards": 3,
     "cards": [
       {
-        "id": "th_math_w8_1",
-        "term": "Tuần 8 - Thẻ mẫu 1",
-        "phonetic": "[Preview]",
-        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 8",
-        "definition": "Core concept for Week 8.",
-        "example": "This is an example for Week 8.",
-        "category": "Tuần 8",
-        "imageHint": "📚"
+        "id": "w8_m_th1",
+        "term": "Cube",
+        "phonetic": "/kjuːb/",
+        "vietnamese": "Hình lập phương: Hình 3D có 6 mặt là hình vuông bằng nhau",
+        "definition": "A 3D shape with 6 identical square faces, 12 equal edges, and 8 vertices.",
+        "example": "A playing dice is shaped like a cube.",
+        "category": "3D Geometry",
+        "imageHint": "🎲"
       },
       {
-        "id": "th_math_w8_2",
-        "term": "Tuần 8 - Thẻ mẫu 2",
-        "phonetic": "[Preview]",
-        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 8",
-        "definition": "Grammar pattern for Week 8.",
-        "example": "Practice example for Week 8.",
-        "category": "Tuần 8",
-        "imageHint": "💡"
+        "id": "w8_m_th2",
+        "term": "Net of a cube",
+        "phonetic": "[2D pattern]",
+        "vietnamese": "Hình trải (Net) của hình lập phương: Bản vẽ 2D phẳng có thể gấp lại thành khối",
+        "definition": "A flat 2D pattern of squares that can be folded to form a 3D cube.",
+        "example": "There are 11 different valid nets that can fold into a closed cube.",
+        "category": "Geometry Nets",
+        "imageHint": "📦"
+      },
+      {
+        "id": "w8_m_th3",
+        "term": "Open cube net",
+        "phonetic": "[5-square net]",
+        "vietnamese": "Hình trải của hình lập phương không nắp: Gồm 5 ô vuông",
+        "definition": "A net made of 5 square faces that folds into an open box without a top lid.",
+        "example": "An open cube net has exactly 5 square faces.",
+        "category": "Geometry Nets",
+        "imageHint": "📥"
       }
     ]
   },
   "exercises": [
     {
-      "id": "ex_math_w8_1",
-      "lesson": "Tuần 8",
+      "id": "w8_mex1",
+      "lesson": "3D Shapes",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 1 cho Tuần 8 (Math): Đâu là câu trả lời chính xác?",
+      "question": "How many square faces does a closed CUBE have?",
       "options": [
-        "Đáp án D",
-        "Đáp án C",
-        "Đáp án B",
-        "Đáp án A (Chính xác)"
+        "4",
+        "8",
+        "5",
+        "6"
       ],
       "correctIndex": 3,
-      "explanation": "Giải thích cho câu hỏi tuần 8.",
+      "explanation": "Hình lập phương hoàn chỉnh có 6 mặt hình vuông bằng nhau.",
       "points": 100
     },
     {
-      "id": "ex_math_w8_2",
-      "lesson": "Tuần 8",
+      "id": "w8_mex2",
+      "lesson": "Nets",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 2 cho Tuần 8 (Math): Hãy chọn phương án đúng.",
+      "question": "How many square faces are there in the net of an OPEN cube (no lid)?",
       "options": [
-        "Phương án 3",
-        "Phương án 4",
-        "Phương án 1 (Chính xác)",
-        "Phương án 2"
+        "4",
+        "5",
+        "7",
+        "6"
       ],
-      "correctIndex": 2,
-      "explanation": "Giải thích chi tiết phương án 1.",
+      "correctIndex": 1,
+      "explanation": "Hình lập phương không có nắp trên gồm đúng 5 mặt vuông.",
+      "points": 100
+    },
+    {
+      "id": "w8_mex3",
+      "lesson": "3D Shapes",
+      "type": "multiple_choice",
+      "question": "How many vertices (corners) does a cube have?",
+      "options": [
+        "8",
+        "4",
+        "6",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hình lập phương có 8 đỉnh (vertices) và 12 cạnh (edges).",
       "points": 100
     }
   ]

@@ -2,64 +2,89 @@
   "id": "g5_math_w6",
   "grade": 5,
   "subject": "math",
-  "subjectName": "Toán",
+  "subjectName": "Toán (Maths)",
   "week": 6,
-  "title": "Tuần 6: Kiến thức & Ôn tập tuần 6",
-  "subTitle": "Ôn tập kiến thức trọng tâm tuần 6",
+  "title": "Unit 4 & 5: Mode, Median & Decimals",
+  "subTitle": "Statistics concepts and decimal additions",
   "theory": {
     "totalCards": 3,
     "cards": [
       {
-        "id": "th_math_w6_1",
-        "term": "Tuần 6 - Thẻ mẫu 1",
-        "phonetic": "[Preview]",
-        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 6",
-        "definition": "Core concept for Week 6.",
-        "example": "This is an example for Week 6.",
-        "category": "Tuần 6",
-        "imageHint": "📚"
+        "id": "w6_m_th1",
+        "term": "Mode",
+        "phonetic": "[Most frequent value]",
+        "vietnamese": "Yếu vị (Mode): Giá trị xuất hiện nhiều lần nhất trong một tập hợp dữ liệu",
+        "definition": "The value that appears most frequently in a set of data.",
+        "example": "In 2, 3, 3, 5, 7, the mode is 3 (appears twice).",
+        "category": "Statistics",
+        "imageHint": "📊"
       },
       {
-        "id": "th_math_w6_2",
-        "term": "Tuần 6 - Thẻ mẫu 2",
-        "phonetic": "[Preview]",
-        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 6",
-        "definition": "Grammar pattern for Week 6.",
-        "example": "Practice example for Week 6.",
-        "category": "Tuần 6",
-        "imageHint": "💡"
+        "id": "w6_m_th2",
+        "term": "Median",
+        "phonetic": "[Middle value]",
+        "vietnamese": "Số trung vị (Median): Giá trị ở chính giữa sau khi đã sắp xếp dãy số theo thứ tự",
+        "definition": "The middle number in a sorted list of numbers.",
+        "example": "Order: 2, 3, 11, 13, 26, 34, 47 -> Median is 13.",
+        "category": "Statistics",
+        "imageHint": "📍"
+      },
+      {
+        "id": "w6_m_th3",
+        "term": "Decimal addition",
+        "phonetic": "[Align decimal points]",
+        "vietnamese": "Cộng số thập phân: Đặt các dấu phẩy thẳng cột với nhau rồi cộng như số tự nhiên",
+        "definition": "Line up the decimal points vertically before adding the numbers.",
+        "example": "9.75 + 13.42 = 23.17.",
+        "category": "Decimals",
+        "imageHint": "➕"
       }
     ]
   },
   "exercises": [
     {
-      "id": "ex_math_w6_1",
-      "lesson": "Tuần 6",
+      "id": "w6_mex1",
+      "lesson": "Statistics",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 1 cho Tuần 6 (Math): Đâu là câu trả lời chính xác?",
+      "question": "Find the MODE of the following set: 4, 7, 7, 8, 9, 7, 2",
       "options": [
-        "Đáp án D",
-        "Đáp án B",
-        "Đáp án C",
-        "Đáp án A (Chính xác)"
+        "9",
+        "4",
+        "8",
+        "7"
       ],
       "correctIndex": 3,
-      "explanation": "Giải thích cho câu hỏi tuần 6.",
+      "explanation": "Số 7 xuất hiện 3 lần (nhiều nhất), do đó mode = 7.",
       "points": 100
     },
     {
-      "id": "ex_math_w6_2",
-      "lesson": "Tuần 6",
+      "id": "w6_mex2",
+      "lesson": "Statistics",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 2 cho Tuần 6 (Math): Hãy chọn phương án đúng.",
+      "question": "Find the MEDIAN of the numbers: 5, 2, 9, 1, 8 (Hint: order first!)",
       "options": [
-        "Phương án 4",
-        "Phương án 1 (Chính xác)",
-        "Phương án 3",
-        "Phương án 2"
+        "5",
+        "9",
+        "8",
+        "2"
       ],
-      "correctIndex": 1,
-      "explanation": "Giải thích chi tiết phương án 1.",
+      "correctIndex": 0,
+      "explanation": "Sắp xếp dãy tăng dần: 1, 2, 5, 8, 9. Số ở chính giữa là 5.",
+      "points": 100
+    },
+    {
+      "id": "w6_mex3",
+      "lesson": "Decimals",
+      "type": "multiple_choice",
+      "question": "Calculate: 9.75 + 13.42 = ?",
+      "options": [
+        "24.17",
+        "22.17",
+        "23.17",
+        "23.07"
+      ],
+      "correctIndex": 2,
+      "explanation": "9.75 + 13.42 = 23.17.",
       "points": 100
     }
   ]

@@ -2,64 +2,89 @@
   "id": "g5_math_w2",
   "grade": 5,
   "subject": "math",
-  "subjectName": "Toán",
+  "subjectName": "Toán (Maths)",
   "week": 2,
-  "title": "Tuần 2: Kiến thức & Ôn tập tuần 2",
-  "subTitle": "Ôn tập kiến thức trọng tâm tuần 2",
+  "title": "Unit 3: Sequences, Square & Triangular Numbers",
+  "subTitle": "Linear sequences, Square numbers and patterns",
   "theory": {
     "totalCards": 3,
     "cards": [
       {
-        "id": "th_math_w2_1",
-        "term": "Tuần 2 - Thẻ mẫu 1",
-        "phonetic": "[Preview]",
-        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 2",
-        "definition": "Core concept for Week 2.",
-        "example": "This is an example for Week 2.",
-        "category": "Tuần 2",
-        "imageHint": "📚"
+        "id": "w2_m_th1",
+        "term": "Linear sequence",
+        "phonetic": "[Arithmetic sequence]",
+        "vietnamese": "Dãy số tuyến tính: Dãy số tăng hoặc giảm theo cùng một khoảng cách cố định",
+        "definition": "A number pattern that increases or decreases by the same amount each step.",
+        "example": "3, 7, 11, 15... (term-to-term rule: add 4).",
+        "category": "Sequences",
+        "imageHint": "📈"
       },
       {
-        "id": "th_math_w2_2",
-        "term": "Tuần 2 - Thẻ mẫu 2",
-        "phonetic": "[Preview]",
-        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 2",
-        "definition": "Grammar pattern for Week 2.",
-        "example": "Practice example for Week 2.",
-        "category": "Tuần 2",
-        "imageHint": "💡"
+        "id": "w2_m_th2",
+        "term": "Square numbers",
+        "phonetic": "[n x n]",
+        "vietnamese": "Số chính phương (số bình phương): Tích của một số tự nhiên nhân với chính nó",
+        "definition": "The number you get when you multiply a whole number by itself.",
+        "example": "1x1=1, 2x2=4, 3x3=9, 4x4=16, 5x5=25.",
+        "category": "Number Concepts",
+        "imageHint": "⏹️"
+      },
+      {
+        "id": "w2_m_th3",
+        "term": "Triangular numbers",
+        "phonetic": "[Dots forming triangle]",
+        "vietnamese": "Số tam giác: Số lượng chấm có thể xếp thành hình tam giác đều",
+        "definition": "Numbers that can be represented in the shape of an equilateral triangle.",
+        "example": "1, 3, 6, 10, 15... (+2, +3, +4, +5...).",
+        "category": "Number Concepts",
+        "imageHint": "🔺"
       }
     ]
   },
   "exercises": [
     {
-      "id": "ex_math_w2_1",
-      "lesson": "Tuần 2",
+      "id": "w2_mex1",
+      "lesson": "Sequences",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 1 cho Tuần 2 (Math): Đâu là câu trả lời chính xác?",
+      "question": "What is the term-to-term rule in the sequence: 5, 9, 13, 17, 21?",
       "options": [
-        "Đáp án B",
-        "Đáp án A (Chính xác)",
-        "Đáp án C",
-        "Đáp án D"
+        "Add 3",
+        "Multiply by 2",
+        "Add 4",
+        "Subtract 4"
       ],
-      "correctIndex": 1,
-      "explanation": "Giải thích cho câu hỏi tuần 2.",
+      "correctIndex": 2,
+      "explanation": "Khoảng cách giữa các số liên tiếp là +4: 9 - 5 = 4.",
       "points": 100
     },
     {
-      "id": "ex_math_w2_2",
-      "lesson": "Tuần 2",
+      "id": "w2_mex2",
+      "lesson": "Square Numbers",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 2 cho Tuần 2 (Math): Hãy chọn phương án đúng.",
+      "question": "Which of the following numbers is a SQUARE NUMBER?",
       "options": [
-        "Phương án 3",
-        "Phương án 4",
-        "Phương án 2",
-        "Phương án 1 (Chính xác)"
+        "25",
+        "20",
+        "30",
+        "22"
       ],
-      "correctIndex": 3,
-      "explanation": "Giải thích chi tiết phương án 1.",
+      "correctIndex": 0,
+      "explanation": "5 x 5 = 25 nên 25 là số chính phương (square number).",
+      "points": 100
+    },
+    {
+      "id": "w2_mex3",
+      "lesson": "Triangular Numbers",
+      "type": "multiple_choice",
+      "question": "What is the next triangular number in the sequence: 1, 3, 6, 10, ...?",
+      "options": [
+        "12",
+        "15",
+        "16",
+        "14"
+      ],
+      "correctIndex": 1,
+      "explanation": "Quy luật cộng tăng dần: 10 + 5 = 15.",
       "points": 100
     }
   ]

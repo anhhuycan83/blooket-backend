@@ -4,62 +4,147 @@
   "subject": "english",
   "subjectName": "Anh Văn",
   "week": 8,
-  "title": "Tuần 8: Kiến thức & Ôn tập tuần 8",
-  "subTitle": "Ôn tập kiến thức trọng tâm tuần 8",
+  "title": "Unit 3 Review & School Activities",
+  "subTitle": "Lessons 3.7 & MOET Unit 7: House Review, Modal Verbs & School Projects",
   "theory": {
-    "totalCards": 3,
+    "totalCards": 6,
     "cards": [
       {
-        "id": "th_english_w8_1",
-        "term": "Tuần 8 - Thẻ mẫu 1",
-        "phonetic": "[Preview]",
-        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 8",
-        "definition": "Core concept for Week 8.",
-        "example": "This is an example for Week 8.",
-        "category": "Tuần 8",
-        "imageHint": "📚"
+        "id": "w8_th1",
+        "term": "Modal verbs of possibility",
+        "phonetic": "[might, could, can't, must]",
+        "vietnamese": "Động từ khiếm khuyết chỉ khả năng: could / might (có thể), must (chắc chắn)",
+        "definition": "Verbs used to show how certain we are about a possibility in the present or future.",
+        "example": "It might be an eco-house because it has solar panels.",
+        "category": "Grammar",
+        "imageHint": "🤔"
       },
       {
-        "id": "th_english_w8_2",
-        "term": "Tuần 8 - Thẻ mẫu 2",
-        "phonetic": "[Preview]",
-        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 8",
-        "definition": "Grammar pattern for Week 8.",
-        "example": "Practice example for Week 8.",
-        "category": "Tuần 8",
+        "id": "w8_th2",
+        "term": "solve maths problems",
+        "phonetic": "/sɒlv mæθs ˈprɒb.ləmz/",
+        "vietnamese": "Giải các bài toán, tính toán số học",
+        "definition": "To find an answer or solution to mathematical exercises.",
+        "example": "I like maths because I enjoy solving challenging problems.",
+        "category": "School Activities",
+        "imageHint": "🧮"
+      },
+      {
+        "id": "w8_th3",
+        "term": "useful",
+        "phonetic": "/ˈjuːs.fəl/",
+        "vietnamese": "Hữu ích, có ích",
+        "definition": "Able to be used for a practical purpose or in several ways.",
+        "example": "I think a bilingual dictionary is very useful for learning new words.",
+        "category": "Adjectives",
         "imageHint": "💡"
+      },
+      {
+        "id": "w8_th4",
+        "term": "good for group work",
+        "phonetic": "[Collaborative activity]",
+        "vietnamese": "Tốt cho hoạt động làm việc nhóm",
+        "definition": "Beneficial for collaborating with classmates.",
+        "example": "Team sports and science projects are very good for group work.",
+        "category": "School Structures",
+        "imageHint": "👥"
+      },
+      {
+        "id": "w8_th5",
+        "term": "Asking reasons for activities",
+        "phonetic": "[Why does he like...? - Because he thinks it's...]",
+        "vietnamese": "Hỏi lý do thích hoạt động: Why do you like...? - Because I think it's interesting.",
+        "definition": "Expressing opinions about why someone enjoys a particular activity.",
+        "example": "Why does she like reading? - Because she thinks it's interesting.",
+        "category": "MOET Unit 7",
+        "imageHint": "💬"
+      },
+      {
+        "id": "w8_th6",
+        "term": "do projects",
+        "phonetic": "/duː ˈprɒdʒ.ekts/",
+        "vietnamese": "Làm dự án học tập, nghiên cứu theo nhóm",
+        "definition": "To work on an educational assignment over a period of time.",
+        "example": "Students do science projects together in class.",
+        "category": "School Activities",
+        "imageHint": "🔬"
       }
     ]
   },
   "exercises": [
     {
-      "id": "ex_english_w8_1",
-      "lesson": "Tuần 8",
+      "id": "w8_ex1",
+      "lesson": "Grammar",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 1 cho Tuần 8 (English): Đâu là câu trả lời chính xác?",
+      "question": "Look at the dark clouds! It ________ rain later this afternoon.",
       "options": [
-        "Đáp án B",
-        "Đáp án A (Chính xác)",
-        "Đáp án D",
-        "Đáp án C"
+        "is",
+        "might",
+        "can't",
+        "must not"
       ],
       "correctIndex": 1,
-      "explanation": "Giải thích cho câu hỏi tuần 8.",
+      "explanation": "Dùng modal verb 'might' để diễn tả khả năng có thể xảy ra trong tương lai.",
       "points": 100
     },
     {
-      "id": "ex_english_w8_2",
-      "lesson": "Tuần 8",
+      "id": "w8_ex2",
+      "lesson": "School",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 2 cho Tuần 8 (English): Hãy chọn phương án đúng.",
+      "question": "What school activity does Linda like? — She likes ________ maths problems.",
       "options": [
-        "Phương án 2",
-        "Phương án 4",
-        "Phương án 3",
-        "Phương án 1 (Chính xác)"
+        "solving",
+        "solve",
+        "solves",
+        "solved"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sau động từ like dùng V-ing: likes solving.",
+      "points": 100
+    },
+    {
+      "id": "w8_ex3",
+      "lesson": "Opinion",
+      "type": "multiple_choice",
+      "question": "Why does Nam like reading comic books? — ________ he thinks it's entertaining.",
+      "options": [
+        "Unless",
+        "So",
+        "Because",
+        "Although"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hỏi với 'Why' trả lời bắt đầu bằng 'Because'.",
+      "points": 100
+    },
+    {
+      "id": "w8_ex4",
+      "lesson": "Vocabulary",
+      "type": "multiple_choice",
+      "question": "A dictionary is very ________ for looking up unknown English words.",
+      "options": [
+        "boring",
+        "useless",
+        "useful",
+        "dangerous"
+      ],
+      "correctIndex": 2,
+      "explanation": "Useful có nghĩa là hữu ích, có giá trị sử dụng.",
+      "points": 100
+    },
+    {
+      "id": "w8_ex5",
+      "lesson": "School",
+      "type": "multiple_choice",
+      "question": "Doing science projects together is very good for ________.",
+      "options": [
+        "running alone",
+        "sleeping",
+        "fighting",
+        "group work"
       ],
       "correctIndex": 3,
-      "explanation": "Giải thích chi tiết phương án 1.",
+      "explanation": "Làm dự án khoa học theo đội rất tốt cho kỹ năng làm việc nhóm (group work).",
       "points": 100
     }
   ]
