@@ -269,7 +269,175 @@
       "enabled": false,
       "badge": "Sắp ra mắt",
       "subjects": []
+    },
+    {
+      "id": "toeic",
+      "name": "TOEIC",
+      "gradeNumber": 0,
+      "enabled": true,
+      "badge": "Mới 🔥",
+      "subjects": [
+        {
+          "id": "ets_2026_lc",
+          "name": "ETS 2026 - Listening",
+          "englishName": "Listening Comprehension (Part 1–4)",
+          "icon": "school",
+          "color": "#0284C7",
+          "accentColor": "#F0F9FF",
+          "description": "50 cụm từ bẫy nghe, paraphrase thực tế và hội thoại công sở 750+",
+          "totalWeeks": 4,
+          "weeks": [
+            {
+              "weekNumber": 1,
+              "title": "W1",
+              "subTitle": "Part 1 & 2: Mô Tả Tranh & Phản Xạ Gián Tiếp",
+              "badge": "12 Cụm từ",
+              "emoji": "🎧",
+              "color": "#0284C7",
+              "bgColor": "#F0F9FF",
+              "borderColor": "#0284C7",
+              "isHighlighted": true
+            },
+            {
+              "weekNumber": 2,
+              "title": "W2",
+              "subTitle": "Part 3: Hội Thoại Nhân Sự & Học Việc",
+              "badge": "12 Cụm từ",
+              "emoji": "👥",
+              "color": "#0284C7",
+              "bgColor": "#F0F9FF",
+              "borderColor": "#0284C7",
+              "isHighlighted": false
+            },
+            {
+              "weekNumber": 3,
+              "title": "W3",
+              "subTitle": "Part 3: Quản Lý Dự Án & Chi Phí",
+              "badge": "13 Cụm từ",
+              "emoji": "💼",
+              "color": "#0284C7",
+              "bgColor": "#F0F9FF",
+              "borderColor": "#0284C7",
+              "isHighlighted": false
+            },
+            {
+              "weekNumber": 4,
+              "title": "W4",
+              "subTitle": "Part 4: Thông Báo & Bài Nói Độc Thoại",
+              "badge": "13 Cụm từ",
+              "emoji": "📢",
+              "color": "#0284C7",
+              "bgColor": "#F0F9FF",
+              "borderColor": "#0284C7",
+              "isHighlighted": true
+            }
+          ]
+        },
+        {
+          "id": "ets_2026_rc",
+          "name": "ETS 2026 - Reading",
+          "englishName": "Reading Comprehension (Part 5–6)",
+          "icon": "school",
+          "color": "#7C3AED",
+          "accentColor": "#FAF5FF",
+          "description": "36 câu bẫy từ loại, liên từ, collocations & hoàn thành văn bản 750+",
+          "totalWeeks": 3,
+          "weeks": [
+            {
+              "weekNumber": 1,
+              "title": "W1",
+              "subTitle": "Part 5: Từ Loại & Collocations Doanh Nghiệp (P1)",
+              "badge": "12 Cụm từ",
+              "emoji": "📑",
+              "color": "#7C3AED",
+              "bgColor": "#FAF5FF",
+              "borderColor": "#7C3AED",
+              "isHighlighted": true
+            },
+            {
+              "weekNumber": 2,
+              "title": "W2",
+              "subTitle": "Part 5: Ngữ Pháp Chọn Lọc & Bẫy Cấu Trúc (P2)",
+              "badge": "12 Cụm từ",
+              "emoji": "🎯",
+              "color": "#7C3AED",
+              "bgColor": "#FAF5FF",
+              "borderColor": "#7C3AED",
+              "isHighlighted": false
+            },
+            {
+              "weekNumber": 3,
+              "title": "W3",
+              "subTitle": "Part 6: Điền Đoạn Văn & Từ Nối Mạch Lạc",
+              "badge": "12 Cụm từ",
+              "emoji": "🔗",
+              "color": "#7C3AED",
+              "bgColor": "#FAF5FF",
+              "borderColor": "#7C3AED",
+              "isHighlighted": true
+            }
+          ]
+        },
+        {
+          "id": "ets_2026_all",
+          "name": "ETS 2026 - Blooket Master",
+          "englishName": "ETS 2026 750+ All-Star Challenge",
+          "icon": "calculate",
+          "color": "#EA580C",
+          "accentColor": "#FFF7ED",
+          "description": "Đấu trường Blooket 86 câu hỏi tổng hợp toàn bộ ETS 2026 bứt phá 750+",
+          "totalWeeks": 2,
+          "weeks": [
+            {
+              "weekNumber": 1,
+              "title": "W1",
+              "subTitle": "Đấu Trường Listening 750+ (25 Câu Trắc Nghiệm)",
+              "badge": "👑 Đấu Trường LC",
+              "emoji": "👑",
+              "color": "#EA580C",
+              "bgColor": "#FFF7ED",
+              "borderColor": "#EA580C",
+              "isHighlighted": true
+            },
+            {
+              "weekNumber": 2,
+              "title": "W2",
+              "subTitle": "Đấu Trường Reading 750+ (36 Câu Trắc Nghiệm)",
+              "badge": "👑 Đấu Trường RC",
+              "emoji": "👑",
+              "color": "#EA580C",
+              "bgColor": "#FFF7ED",
+              "borderColor": "#EA580C",
+              "isHighlighted": true
+            }
+          ]
+        },
+        {
+          "id": "ets_2024",
+          "name": "ETS 2024",
+          "englishName": "ETS TOEIC 2024 Regular Test",
+          "icon": "school",
+          "color": "#64748B",
+          "accentColor": "#F8FAFC",
+          "description": "Ngân hàng câu hỏi ETS 2024 chuẩn quốc tế",
+          "badge": "Sắp ra mắt",
+          "totalWeeks": 0,
+          "weeks": []
+        },
+        {
+          "id": "ets_2023",
+          "name": "ETS 2023",
+          "englishName": "ETS TOEIC 2023 Regular Test",
+          "icon": "school",
+          "color": "#64748B",
+          "accentColor": "#F8FAFC",
+          "description": "Ngân hàng câu hỏi ETS 2023 chuẩn quốc tế",
+          "badge": "Sắp ra mắt",
+          "totalWeeks": 0,
+          "weeks": []
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-11-22T08:30:00Z"
+  "lastUpdated": "2026-11-22T09:30:00Z"
 }

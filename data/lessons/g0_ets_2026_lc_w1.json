@@ -1,0 +1,316 @@
+{
+  "id": "g0_ets_2026_lc_w1",
+  "grade": 0,
+  "subject": "ets_2026_lc",
+  "subjectName": "TOEIC",
+  "week": 1,
+  "title": "ETS 2026 LC - Tuần 1",
+  "subTitle": "Part 1 & 2: Mô Tả Tranh & Phản Xạ Gián Tiếp",
+  "theory": {
+    "totalCards": 12,
+    "cards": [
+      {
+        "id": "th_g0_ets_2026_lc_w1_1",
+        "term": "undergo renovations",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Trải qua quá trình tu sửa, cải tạo. [Part 4 - Test 1/Test 10] Bẫy thường gặp trong thông báo đóng cửa hoặc thay đổi địa điểm.",
+        "definition": "Key collocation/phrase in Part 4 - Talks.",
+        "example": "Visitor access to the park will be limited while our facilities are undergoing renovations.",
+        "category": "Part 4 - Talks",
+        "imageHint": "🏢"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w1_2",
+        "term": "give a demonstration",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Trình diễn, làm mẫu cách vận hành. [Part 4 - Test 1] Paraphrase của cụm 'show you how they work' trong bài nghe.",
+        "definition": "Key collocation/phrase in Part 4 - Talks.",
+        "example": "She will give a demonstration of our new software at the afternoon session.",
+        "category": "Part 4 - Talks",
+        "imageHint": "📊"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w1_3",
+        "term": "implement a peer-training program",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Triển khai chương trình đào tạo đồng cấp. [Part 3 - Test 1] Đáp án paraphrase thành 'Provide training opportunities'.",
+        "definition": "Key collocation/phrase in Part 3 - Conversations.",
+        "example": "I'd like to implement a peer-training program where learners shadow more-experienced employees.",
+        "category": "Part 3 - Conversations",
+        "imageHint": "💼"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w1_4",
+        "term": "shadow (someone)",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Đi theo quan sát học việc từ người có kinh nghiệm. [Part 3 - Test 1] Bẫy nghĩa: không phải cái bóng, mà là động từ học việc.",
+        "definition": "Key collocation/phrase in Part 3 - Conversations.",
+        "example": "New recruits will shadow senior staff members during their first week.",
+        "category": "Part 3 - Conversations",
+        "imageHint": "📈"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w1_5",
+        "term": "prospective investors",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Các nhà đầu tư tiềm năng/triển vọng. [Part 4 - Test 1/Test 4] Bẫy từ vựng: phân biệt prospective (tiềm năng) và perspective (quan điểm).",
+        "definition": "Key collocation/phrase in Part 4 - Talks.",
+        "example": "Thank you for attending this meeting for prospective investors.",
+        "category": "Part 4 - Talks",
+        "imageHint": "🤝"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w1_6",
+        "term": "have pooled on a path",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Nước đọng thành vũng trên lối đi. [Part 1 - Test 1] Bẫy tả cảnh Part 1: động từ pool ở dạng nội động từ chỉ chất lỏng đọng vũng.",
+        "definition": "Key collocation/phrase in Part 1 - Photos.",
+        "example": "Some water has pooled on a path.",
+        "category": "Part 1 - Photos",
+        "imageHint": "📑"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w1_7",
+        "term": "consult a colleague",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Tham khảo ý kiến đồng nghiệp. [Part 3 - Test 1] Paraphrase cho câu nói 'ask her about it' trong đoạn hội thoại.",
+        "definition": "Key collocation/phrase in Part 3 - Conversations.",
+        "example": "Maybe you should ask her about it -> Consulting a colleague.",
+        "category": "Part 3 - Conversations",
+        "imageHint": "💡"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w1_8",
+        "term": "slow down work",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Làm chậm tiến độ công việc. [Part 3 - Test 1] Paraphrase thành 'Reducing productivity' (giảm năng suất).",
+        "definition": "Key collocation/phrase in Part 3 - Conversations.",
+        "example": "They'll have to slow down their work to explain what they're doing.",
+        "category": "Part 3 - Conversations",
+        "imageHint": "✈️"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w1_9",
+        "term": "summer hours",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Lịch làm việc mùa hè (thường nghỉ sớm chiều thứ Sáu). [Part 4 - Test 2/Test 5] Paraphrase thành 'A seasonal work schedule'.",
+        "definition": "Key collocation/phrase in Part 4 - Talks.",
+        "example": "As summer begins next week, so do summer hours. You will be able to leave early on Friday.",
+        "category": "Part 4 - Talks",
+        "imageHint": "🛠️"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w1_10",
+        "term": "relocate",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Chuyển công tác/chuyển địa điểm. [Part 3 - Test 2/Test 3] Dễ nhầm với allocate (phân bổ ngân sách). Thường gặp trong hội thoại chuyển văn phòng.",
+        "definition": "Key collocation/phrase in Part 3 - Conversations.",
+        "example": "Actually, my company has asked me to relocate to Spain.",
+        "category": "Part 3 - Conversations",
+        "imageHint": "🎯"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w1_11",
+        "term": "brick-and-mortar stores",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Cửa hàng bán lẻ truyền thống (có mặt bằng vật lý). [Part 3 - Test 2] Đối lập với online retail / e-commerce.",
+        "definition": "Key collocation/phrase in Part 3 - Conversations.",
+        "example": "These items have always been purchased at brick-and-mortar stores but are now bought online.",
+        "category": "Part 3 - Conversations",
+        "imageHint": "🏢"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w1_12",
+        "term": "make a point of V-ing",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Chú trọng, cố gắng đảm bảo làm gì. [Part 3 - Test 2] Cụm diễn đạt trình độ cao thể hiện sự chủ động.",
+        "definition": "Key collocation/phrase in Part 3 - Conversations.",
+        "example": "We make a point of organizing live community activities downtown.",
+        "category": "Part 3 - Conversations",
+        "imageHint": "📊"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_g0_ets_2026_lc_w1_1",
+      "lesson": "ETS 2026 LC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Trải qua quá trình tu sửa, cải tạo. [Part 4 - Test 1/Test 10] Bẫy thường gặp trong thông báo đóng cửa hoặc thay đổi địa \"?",
+      "options": [
+        "undergo renovations",
+        "constructive feedback",
+        "clean some equipment",
+        "stretch ... into"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng: 'undergo renovations'. Trải qua quá trình tu sửa, cải tạo. [Part 4 - Test 1/Test 10] Bẫy thường gặp trong thông báo đóng cửa hoặc thay đổi địa điểm.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w1_2",
+      "lesson": "ETS 2026 LC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"She will ________ of our new software at the afternoon session.\"",
+      "options": [
+        "patrons",
+        "give a demonstration",
+        "deliver the keynote speech",
+        "owing to + Noun phrase"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng: 'give a demonstration'. Trình diễn, làm mẫu cách vận hành. [Part 4 - Test 1] Paraphrase của cụm 'show you how they work' trong bài nghe.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w1_3",
+      "lesson": "ETS 2026 LC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"I'd like to ________ where learners shadow more-experienced employees.\"",
+      "options": [
+        "take down the wall",
+        "give a demonstration",
+        "use alternate transportation",
+        "implement a peer-training program"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'implement a peer-training program'. Triển khai chương trình đào tạo đồng cấp. [Part 3 - Test 1] Đáp án paraphrase thành 'Provide training opportunities'.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w1_4",
+      "lesson": "ETS 2026 LC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Đi theo quan sát học việc từ người có kinh nghiệm. [Part 3 - Test 1] Bẫy nghĩa: không phải cái bóng, mà là động từ học v\"?",
+      "options": [
+        "deliver the keynote speech",
+        "shadow (someone)",
+        "bicycle delivery",
+        "onboarding"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng: 'shadow (someone)'. Đi theo quan sát học việc từ người có kinh nghiệm. [Part 3 - Test 1] Bẫy nghĩa: không phải cái bóng, mà là động từ học việc.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w1_5",
+      "lesson": "ETS 2026 LC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Thank you for attending this meeting for ________.\"",
+      "options": [
+        "continuously operating",
+        "trade show",
+        "prospective investors",
+        "onboarding"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng: 'prospective investors'. Các nhà đầu tư tiềm năng/triển vọng. [Part 4 - Test 1/Test 4] Bẫy từ vựng: phân biệt prospective (tiềm năng) và perspective (quan điểm).",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w1_6",
+      "lesson": "ETS 2026 LC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Nước đọng thành vũng trên lối đi. [Part 1 - Test 1] Bẫy tả cảnh Part 1: động từ pool ở dạng nội động từ chỉ chất lỏng đọ\"?",
+      "options": [
+        "office furniture",
+        "patrons",
+        "rewarding staff performance",
+        "have pooled on a path"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'have pooled on a path'. Nước đọng thành vũng trên lối đi. [Part 1 - Test 1] Bẫy tả cảnh Part 1: động từ pool ở dạng nội động từ chỉ chất lỏng đọng vũng.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w1_7",
+      "lesson": "ETS 2026 LC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Tham khảo ý kiến đồng nghiệp. [Part 3 - Test 1] Paraphrase cho câu nói 'ask her about it' trong đoạn hội thoại.\"?",
+      "options": [
+        "consult a colleague",
+        "incredibly fast",
+        "neglect to V",
+        "proceed cautiously"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng: 'consult a colleague'. Tham khảo ý kiến đồng nghiệp. [Part 3 - Test 1] Paraphrase cho câu nói 'ask her about it' trong đoạn hội thoại.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w1_8",
+      "lesson": "ETS 2026 LC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Làm chậm tiến độ công việc. [Part 3 - Test 1] Paraphrase thành 'Reducing productivity' (giảm năng suất).\"?",
+      "options": [
+        "neglect to V",
+        "slow down work",
+        "inferior imitations",
+        "knowledge of specialized software"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng: 'slow down work'. Làm chậm tiến độ công việc. [Part 3 - Test 1] Paraphrase thành 'Reducing productivity' (giảm năng suất).",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w1_9",
+      "lesson": "ETS 2026 LC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"As summer begins next week, so do ________. You will be able to leave early on Friday.\"",
+      "options": [
+        "diagnostic fee",
+        "the margin for error is zero",
+        "summer hours",
+        "fill in (for someone)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng: 'summer hours'. Lịch làm việc mùa hè (thường nghỉ sớm chiều thứ Sáu). [Part 4 - Test 2/Test 5] Paraphrase thành 'A seasonal work schedule'.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w1_10",
+      "lesson": "ETS 2026 LC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Actually, my company has asked me to ________ to Spain.\"",
+      "options": [
+        "be bound to V",
+        "constructive feedback",
+        "slow down work",
+        "relocate"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'relocate'. Chuyển công tác/chuyển địa điểm. [Part 3 - Test 2/Test 3] Dễ nhầm với allocate (phân bổ ngân sách). Thường gặp trong hội thoại chuyển văn phòng.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w1_11",
+      "lesson": "ETS 2026 LC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"These items have always been purchased at ________ but are now bought online.\"",
+      "options": [
+        "promptly",
+        "distinctive writing style",
+        "in charge of accounts",
+        "brick-and-mortar stores"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'brick-and-mortar stores'. Cửa hàng bán lẻ truyền thống (có mặt bằng vật lý). [Part 3 - Test 2] Đối lập với online retail / e-commerce.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w1_12",
+      "lesson": "ETS 2026 LC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Chú trọng, cố gắng đảm bảo làm gì. [Part 3 - Test 2] Cụm diễn đạt trình độ cao thể hiện sự chủ động.\"?",
+      "options": [
+        "familiarize oneself with",
+        "make a point of V-ing",
+        "take initiative",
+        "I have time now"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng: 'make a point of V-ing'. Chú trọng, cố gắng đảm bảo làm gì. [Part 3 - Test 2] Cụm diễn đạt trình độ cao thể hiện sự chủ động.",
+      "points": 100
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "id": "g0_ets_2026_lc_w3",
+  "grade": 0,
+  "subject": "ets_2026_lc",
+  "subjectName": "TOEIC",
+  "week": 3,
+  "title": "ETS 2026 LC - Tuần 3",
+  "subTitle": "Part 3: Quản Lý Dự Án & Chi Phí",
+  "theory": {
+    "totalCards": 13,
+    "cards": [
+      {
+        "id": "th_g0_ets_2026_lc_w3_1",
+        "term": "provide a progress report",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Cung cấp báo cáo tiến độ. [Part 4 - Test 4] Paraphrase của 'give us a progress report on construction sites'.",
+        "definition": "Key collocation/phrase in Part 4 - Talks.",
+        "example": "Thilo visited both of those construction sites and is now going to give us a progress report.",
+        "category": "Part 4 - Talks",
+        "imageHint": "🏢"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w3_2",
+        "term": "founded the music label",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Sáng lập hãng thu âm. [Part 4 - Test 4] Paraphrase thành 'started a major record label'.",
+        "definition": "Key collocation/phrase in Part 4 - Talks.",
+        "example": "Olga Alabi founded the I-Beat music label in 1996.",
+        "category": "Part 4 - Talks",
+        "imageHint": "📊"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w3_3",
+        "term": "work on a report",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Làm báo cáo. [Part 3 - Test 5] Paraphrase của phát ngôn: 'I have a report to finalize by noon'.",
+        "definition": "Key collocation/phrase in Part 3 - Conversations.",
+        "example": "I can't go now; I have a report to finalize by noon.",
+        "category": "Part 3 - Conversations",
+        "imageHint": "💼"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w3_4",
+        "term": "provide an estimate",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Cung cấp bảng báo giá/dự toán. [Part 3 - Test 5] Paraphrase của cụm: 'estimate the cost of moving your furniture'.",
+        "definition": "Key collocation/phrase in Part 3 - Conversations.",
+        "example": "We need to come to your current location and estimate the cost of moving your furniture.",
+        "category": "Part 3 - Conversations",
+        "imageHint": "📈"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w3_5",
+        "term": "onboarding",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Quy trình đón tiếp và định hướng nhân viên mới. [Part 3 - Test 5] Thuật ngữ HR thường gặp.",
+        "definition": "Key collocation/phrase in Part 3 - Conversations.",
+        "example": "I'm calling from human resources. I'm in charge of your onboarding.",
+        "category": "Part 3 - Conversations",
+        "imageHint": "🤝"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w3_6",
+        "term": "take down the wall",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Đập bỏ bức tường ngăn cách. [Part 3 - Test 5] Paraphrase thành đề xuất 'A proposed renovation' (sửa chữa/nâng cấp).",
+        "definition": "Key collocation/phrase in Part 3 - Conversations.",
+        "example": "We could enlarge the break room by having the wall taken down.",
+        "category": "Part 3 - Conversations",
+        "imageHint": "📑"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w3_7",
+        "term": "bicycle delivery",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Giao hàng bằng xe đạp. [Part 3 - Test 5] Paraphrase thành 'introducing bicycle delivery' nhằm hạ chi phí.",
+        "definition": "Key collocation/phrase in Part 3 - Conversations.",
+        "example": "What else can we do to lower expenses? We could start using bicycle delivery.",
+        "category": "Part 3 - Conversations",
+        "imageHint": "💡"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w3_8",
+        "term": "miss that window",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Bỏ lỡ khung thời gian/cơ hội ngắn ngủi. [Part 4 - Test 6/Test 10] Bẫy nghĩa: window là cơ hội/khoảng thời gian trống, không phải cửa sổ.",
+        "definition": "Key collocation/phrase in Part 4 - Talks.",
+        "example": "Workers arrive in six weeks. But if you miss that window, don't worry.",
+        "category": "Part 4 - Talks",
+        "imageHint": "✈️"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w3_9",
+        "term": "fill in (for someone)",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Làm thay, dạy thay khi ai đó vắng mặt hoặc ốm. [Part 4 - Test 6] Phrasal verb quen thuộc trong công sở.",
+        "definition": "Key collocation/phrase in Part 4 - Talks.",
+        "example": "Mr. Ramirez is sick today, so I'll be filling in.",
+        "category": "Part 4 - Talks",
+        "imageHint": "🛠️"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w3_10",
+        "term": "at your earliest convenience",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Bất cứ khi nào bạn thấy thuận tiện sớm nhất. [Part 4 - Test 6] Cụm trang trọng thường dùng ở cuối thư hoặc lời nhắn thoại.",
+        "definition": "Key collocation/phrase in Part 4 - Talks.",
+        "example": "Please call me at your earliest convenience at 555-0187.",
+        "category": "Part 4 - Talks",
+        "imageHint": "🎯"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w3_11",
+        "term": "clutter",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Sự bừa bộn, đồ đạc ngổn ngang. [Part 4 - Test 6] Thường xuất hiện trong bài nhắc nhở giữ vệ sinh khu làm việc.",
+        "definition": "Key collocation/phrase in Part 4 - Talks.",
+        "example": "As I was walking by the workstation area, I noticed a lot of clutter.",
+        "category": "Part 4 - Talks",
+        "imageHint": "🏢"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w3_12",
+        "term": "knowledge of specialized software",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Kiến thức về phần mềm chuyên dụng. [Part 4 - Test 6] Paraphrase của 'training in using bookkeeping software'.",
+        "definition": "Key collocation/phrase in Part 4 - Talks.",
+        "example": "I understand the program included training in using bookkeeping software.",
+        "category": "Part 4 - Talks",
+        "imageHint": "📊"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w3_13",
+        "term": "I have time now",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Bây giờ tôi có thời gian rảnh. [Part 2 - Test 6] Bẫy Part 2 trả lời gián tiếp cho câu hỏi: 'Could you look at the logo tomorrow?'.",
+        "definition": "Key collocation/phrase in Part 2 - Question-Response.",
+        "example": "Could you look at the revised logo tomorrow? - I have time now.",
+        "category": "Part 2 - Question-Response",
+        "imageHint": "💼"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_g0_ets_2026_lc_w3_1",
+      "lesson": "ETS 2026 LC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Cung cấp báo cáo tiến độ. [Part 4 - Test 4] Paraphrase của 'give us a progress report on construction sites'.\"?",
+      "options": [
+        "provide an estimate",
+        "high-profile event",
+        "provide a progress report",
+        "founded the music label"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng: 'provide a progress report'. Cung cấp báo cáo tiến độ. [Part 4 - Test 4] Paraphrase của 'give us a progress report on construction sites'.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w3_2",
+      "lesson": "ETS 2026 LC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Sáng lập hãng thu âm. [Part 4 - Test 4] Paraphrase thành 'started a major record label'.\"?",
+      "options": [
+        "shadow (someone)",
+        "office furniture",
+        "fill in (for someone)",
+        "founded the music label"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'founded the music label'. Sáng lập hãng thu âm. [Part 4 - Test 4] Paraphrase thành 'started a major record label'.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w3_3",
+      "lesson": "ETS 2026 LC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Làm báo cáo. [Part 3 - Test 5] Paraphrase của phát ngôn: 'I have a report to finalize by noon'.\"?",
+      "options": [
+        "field questions",
+        "work on a report",
+        "unforeseen circumstances",
+        "those who + V (plural)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng: 'work on a report'. Làm báo cáo. [Part 3 - Test 5] Paraphrase của phát ngôn: 'I have a report to finalize by noon'.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w3_4",
+      "lesson": "ETS 2026 LC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Cung cấp bảng báo giá/dự toán. [Part 3 - Test 5] Paraphrase của cụm: 'estimate the cost of moving your furniture'.\"?",
+      "options": [
+        "promptly",
+        "relocate",
+        "provide an estimate",
+        "miss that window"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng: 'provide an estimate'. Cung cấp bảng báo giá/dự toán. [Part 3 - Test 5] Paraphrase của cụm: 'estimate the cost of moving your furniture'.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w3_5",
+      "lesson": "ETS 2026 LC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"I'm calling from human resources. I'm in charge of your ________.\"",
+      "options": [
+        "at your earliest convenience",
+        "operate on a seasonal basis",
+        "slow down work",
+        "onboarding"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'onboarding'. Quy trình đón tiếp và định hướng nhân viên mới. [Part 3 - Test 5] Thuật ngữ HR thường gặp.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w3_6",
+      "lesson": "ETS 2026 LC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Đập bỏ bức tường ngăn cách. [Part 3 - Test 5] Paraphrase thành đề xuất 'A proposed renovation' (sửa chữa/nâng cấp).\"?",
+      "options": [
+        "incredibly fast",
+        "implement a peer-training program",
+        "work around the clock",
+        "take down the wall"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'take down the wall'. Đập bỏ bức tường ngăn cách. [Part 3 - Test 5] Paraphrase thành đề xuất 'A proposed renovation' (sửa chữa/nâng cấp).",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w3_7",
+      "lesson": "ETS 2026 LC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"What else can we do to lower expenses? We could start using ________.\"",
+      "options": [
+        "office furniture",
+        "operate on a seasonal basis",
+        "bicycle delivery",
+        "the margin for error is zero"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng: 'bicycle delivery'. Giao hàng bằng xe đạp. [Part 3 - Test 5] Paraphrase thành 'introducing bicycle delivery' nhằm hạ chi phí.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w3_8",
+      "lesson": "ETS 2026 LC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Workers arrive in six weeks. But if you ________, don't worry.\"",
+      "options": [
+        "inclement weather",
+        "undergo renovations",
+        "shrink operational costs",
+        "miss that window"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'miss that window'. Bỏ lỡ khung thời gian/cơ hội ngắn ngủi. [Part 4 - Test 6/Test 10] Bẫy nghĩa: window là cơ hội/khoảng thời gian trống, không phải cửa sổ.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w3_9",
+      "lesson": "ETS 2026 LC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Làm thay, dạy thay khi ai đó vắng mặt hoặc ốm. [Part 4 - Test 6] Phrasal verb quen thuộc trong công sở.\"?",
+      "options": [
+        "shadow (someone)",
+        "fitted with",
+        "undisclosed amount",
+        "fill in (for someone)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'fill in (for someone)'. Làm thay, dạy thay khi ai đó vắng mặt hoặc ốm. [Part 4 - Test 6] Phrasal verb quen thuộc trong công sở.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w3_10",
+      "lesson": "ETS 2026 LC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Please call me ________ at 555-0187.\"",
+      "options": [
+        "at your earliest convenience",
+        "undisclosed amount",
+        "bicycle delivery",
+        "take initiative"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng: 'at your earliest convenience'. Bất cứ khi nào bạn thấy thuận tiện sớm nhất. [Part 4 - Test 6] Cụm trang trọng thường dùng ở cuối thư hoặc lời nhắn thoại.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w3_11",
+      "lesson": "ETS 2026 LC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"As I was walking by the workstation area, I noticed a lot of ________.\"",
+      "options": [
+        "clutter",
+        "shrink operational costs",
+        "rigorous inspections",
+        "field questions"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng: 'clutter'. Sự bừa bộn, đồ đạc ngổn ngang. [Part 4 - Test 6] Thường xuất hiện trong bài nhắc nhở giữ vệ sinh khu làm việc.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w3_12",
+      "lesson": "ETS 2026 LC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Kiến thức về phần mềm chuyên dụng. [Part 4 - Test 6] Paraphrase của 'training in using bookkeeping software'.\"?",
+      "options": [
+        "despite + Noun/V-ing",
+        "incredibly fast",
+        "implement a peer-training program",
+        "knowledge of specialized software"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'knowledge of specialized software'. Kiến thức về phần mềm chuyên dụng. [Part 4 - Test 6] Paraphrase của 'training in using bookkeeping software'.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w3_13",
+      "lesson": "ETS 2026 LC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Could you look at the revised logo tomorrow? - ________.\"",
+      "options": [
+        "fill in (for someone)",
+        "prospective investors",
+        "I have time now",
+        "miss that window"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng: 'I have time now'. Bây giờ tôi có thời gian rảnh. [Part 2 - Test 6] Bẫy Part 2 trả lời gián tiếp cho câu hỏi: 'Could you look at the logo tomorrow?'.",
+      "points": 100
+    }
+  ]
+}

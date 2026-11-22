@@ -4,6 +4,26 @@ Tất cả các thay đổi, tính năng mới và các bản sửa lỗi (bug f
 
 ---
 
+## 🚀 [v1.0.6] - 2026-11-22 (Build 6)
+### ✨ Tính năng mới & Cải tiến:
+* **Mở rộng Tab TOEIC & Kho Học Liệu ETS 2026:**
+  * Bổ sung Tab **TOEIC** mới với huy hiệu `Mới 🔥` trên thanh điều hướng đầu trang.
+  * Tích hợp toàn bộ **86 thẻ Anki ETS 2026 chuẩn 750+** từ thư mục `d:\baby\toeic` thành ngân hàng Flashcard 3D và Game trắc nghiệm Blooket.
+  * Phân loại thành 3 môn học / phân hệ:
+    1. **ETS 2026 - Listening (Part 1–4):** 4 tuần học với 50 cụm từ bẫy nghe, phản xạ trả lời gián tiếp, hội thoại doanh nghiệp và độc thoại công sở.
+    2. **ETS 2026 - Reading (Part 5–6):** 3 tuần học với 36 câu bẫy từ loại, collocations, cấu trúc ngữ pháp và điền đoạn văn.
+    3. **ETS 2026 - Blooket Master:** Đấu trường Blooket 86 câu hỏi tổng hợp tốc độ cao.
+    4. Cung cấp placeholder cho các bộ **ETS 2024** và **ETS 2023** sẵn sàng mở rộng.
+* **Tối ưu hóa Tab Bar đa nền tảng:**
+  * Thêm thanh cuộn ngang `SingleChildScrollView` cho `GradeTabBar` giúp hiển thị hoàn hảo trên các thiết bị di động màn hình hẹp khi có nhiều tab.
+* **Server-Driven Deployment:**
+  * Học sinh và testers đã cài app trên Android tự động nhận Tab TOEIC mà **không cần cài lại app**.
+
+### 🐛 Sửa lỗi (Bug Fixes):
+* Chuẩn hóa logic kiểm tra tham số truy vấn `grade` trên Backend API (`grade === undefined || grade === ''`) để hỗ trợ mã khối `0` cho TOEIC.
+
+---
+
 ## 🚀 [v1.0.5] - 2026-11-22 (Build 5)
 ### ✨ Tính năng mới & Cải tiến:
 * **Server-Driven UI 100%:** Chuyển đổi toàn bộ cấu trúc hiển thị danh sách tuần (tiêu đề, màu sắc HEX, badge, biểu tượng emoji) sang do Backend điều khiển động qua `curriculum_tree.json`. Từ nay khi bổ sung tuần hoặc môn học mới, Client (Web / Android) tự cập nhật mà không cần build hay cài lại app.

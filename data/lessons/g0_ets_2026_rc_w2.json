@@ -1,0 +1,316 @@
+{
+  "id": "g0_ets_2026_rc_w2",
+  "grade": 0,
+  "subject": "ets_2026_rc",
+  "subjectName": "TOEIC",
+  "week": 2,
+  "title": "ETS 2026 RC - Tuần 2",
+  "subTitle": "Part 5: Ngữ Pháp Chọn Lọc & Bẫy Cấu Trúc (P2)",
+  "theory": {
+    "totalCards": 12,
+    "cards": [
+      {
+        "id": "th_g0_ets_2026_rc_w2_1",
+        "term": "familiarize oneself with",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Tự tìm hiểu, làm quen với quy định/thông tin. [Part 5 - Test 5/Test 7] Cấu trúc phản thân đi với giới từ with.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "Please familiarize yourself with the company's tuition-reimbursement policy before enrolling.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "🏢"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w2_2",
+        "term": "constructive feedback",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Phản hồi mang tính xây dựng. [Part 5 - Test 5] Cụm từ danh từ quen thuộc trong quản lý nhân sự.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "Managers are urged to provide constructive feedback to employees on a regular basis.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "📊"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w2_3",
+        "term": "operate on a seasonal basis",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Hoạt động theo mùa vụ. [Part 5 - Test 5] Cấu trúc 'on a ... basis' tương đương với trạng từ.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "Many farmers markets operate on a seasonal basis, opening in spring.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "💼"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w2_4",
+        "term": "pertaining to",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Liên quan đến (= regarding / concerning). [Part 5 - Test 6] Rút gọn mệnh đề quan hệ dạng chủ động (which pertain to -> pertaining to).",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "All documents pertaining to the company merger will become available to the public within one year.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "📈"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w2_5",
+        "term": "field questions",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Xử lý, trả lời các câu hỏi từ khách hàng. [Part 5 - Test 6] Bẫy từ vựng: field đóng vai trò là ngoại động từ, không phải danh từ cánh đồng.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "Cashiers must be able to scan purchased items accurately as well as field questions from customers.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "🤝"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w2_6",
+        "term": "distinctive writing style",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Phong cách viết đặc trưng, riêng biệt. [Part 5 - Test 6] Collocation miêu tả nét độc đáo.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "Biographer Amber Bowen has been recognized for her distinctive writing style.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "📑"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w2_7",
+        "term": "outfitted with",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Được trang bị với các thiết bị chuyên dụng. [Part 6 - Test 6] Phân từ bị động đi với giới từ with.",
+        "definition": "Key collocation/phrase in Part 6 - Text Completion.",
+        "example": "All Travelbee buses are now outfitted with exterior bicycle racks.",
+        "category": "Part 6 - Text Completion",
+        "imageHint": "💡"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w2_8",
+        "term": "those who + V (plural)",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Những người mà... [Part 5 - Test 6] Bẫy đại từ: dùng those (không dùng anyone/whichever) khi đi trước mệnh đề quan hệ số nhiều.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "Those who are unable to attend the quarterly stakeholder meeting are welcome to appoint a representative.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "✈️"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w2_9",
+        "term": "personable",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Hòa nhã, dễ mến, có duyên giao tiếp. [Part 5 - Test 7] Bẫy từ loại: đuôi -able là tính từ, dùng song song với well-informed và responsive.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "Employees are said to be very well-informed, personable, and responsive.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "🛠️"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w2_10",
+        "term": "Upon completion",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Ngay sau khi hoàn thành. [Part 6 - Test 7] Bẫy từ loại: sau giới từ Upon cần một danh từ (completion), không dùng động từ.",
+        "definition": "Key collocation/phrase in Part 6 - Text Completion.",
+        "example": "Upon completion, all signers may access and save the document.",
+        "category": "Part 6 - Text Completion",
+        "imageHint": "🎯"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w2_11",
+        "term": "favorable effect",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Ảnh hưởng tích cực, thuận lợi. [Part 5 - Test 7] Phân biệt favorable (thuận lợi) với tentative (dự kiến/chưa chắc chắn).",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "A favorable effect of increased tourism in our city has been rapid growth in hospitality jobs.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "🏢"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w2_12",
+        "term": "expedite refunds",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Đẩy nhanh tiến độ hoàn tiền. [Part 5 - Test 8] Động từ cao cấp thường gặp trong thư từ giải quyết khiếu nại khách hàng.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "Prompt submission of travel vouchers will expedite refunds.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "📊"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_g0_ets_2026_rc_w2_1",
+      "lesson": "ETS 2026 RC - Tuần 2",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Tự tìm hiểu, làm quen với quy định/thông tin. [Part 5 - Test 5/Test 7] Cấu trúc phản thân đi với giới từ with.\"?",
+      "options": [
+        "favorable effect",
+        "familiarize oneself with",
+        "briefer than",
+        "personable"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng: 'familiarize oneself with'. Tự tìm hiểu, làm quen với quy định/thông tin. [Part 5 - Test 5/Test 7] Cấu trúc phản thân đi với giới từ with.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w2_2",
+      "lesson": "ETS 2026 RC - Tuần 2",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Managers are urged to provide ________ to employees on a regular basis.\"",
+      "options": [
+        "brick-and-mortar stores",
+        "summer hours",
+        "thereby + V-ing",
+        "constructive feedback"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'constructive feedback'. Phản hồi mang tính xây dựng. [Part 5 - Test 5] Cụm từ danh từ quen thuộc trong quản lý nhân sự.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w2_3",
+      "lesson": "ETS 2026 RC - Tuần 2",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Many farmers markets ________, opening in spring.\"",
+      "options": [
+        "use alternate transportation",
+        "the margin for error is zero",
+        "operate on a seasonal basis",
+        "prospective investors"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng: 'operate on a seasonal basis'. Hoạt động theo mùa vụ. [Part 5 - Test 5] Cấu trúc 'on a ... basis' tương đương với trạng từ.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w2_4",
+      "lesson": "ETS 2026 RC - Tuần 2",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"All documents ________ the company merger will become available to the public within one year.\"",
+      "options": [
+        "founded the music label",
+        "have pooled on a path",
+        "pertaining to",
+        "fitted with"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng: 'pertaining to'. Liên quan đến (= regarding / concerning). [Part 5 - Test 6] Rút gọn mệnh đề quan hệ dạng chủ động (which pertain to -> pertaining to).",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w2_5",
+      "lesson": "ETS 2026 RC - Tuần 2",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Cashiers must be able to scan purchased items accurately as well as ________ from customers.\"",
+      "options": [
+        "give a demonstration",
+        "brick-and-mortar stores",
+        "thereby + V-ing",
+        "field questions"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'field questions'. Xử lý, trả lời các câu hỏi từ khách hàng. [Part 5 - Test 6] Bẫy từ vựng: field đóng vai trò là ngoại động từ, không phải danh từ cánh đồng.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w2_6",
+      "lesson": "ETS 2026 RC - Tuần 2",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Biographer Amber Bowen has been recognized for her ________.\"",
+      "options": [
+        "onboarding",
+        "distinctive writing style",
+        "the margin for error is zero",
+        "a light dusting of snow"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng: 'distinctive writing style'. Phong cách viết đặc trưng, riêng biệt. [Part 5 - Test 6] Collocation miêu tả nét độc đáo.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w2_7",
+      "lesson": "ETS 2026 RC - Tuần 2",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"All Travelbee buses are now ________ exterior bicycle racks.\"",
+      "options": [
+        "fill in (for someone)",
+        "outfitted with",
+        "whoever + V (singular)",
+        "onboarding"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng: 'outfitted with'. Được trang bị với các thiết bị chuyên dụng. [Part 6 - Test 6] Phân từ bị động đi với giới từ with.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w2_8",
+      "lesson": "ETS 2026 RC - Tuần 2",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Những người mà... [Part 5 - Test 6] Bẫy đại từ: dùng those (không dùng anyone/whichever) khi đi trước mệnh đề quan hệ số\"?",
+      "options": [
+        "those who + V (plural)",
+        "despite + Noun/V-ing",
+        "deliver the keynote speech",
+        "be under warranty"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng: 'those who + V (plural)'. Những người mà... [Part 5 - Test 6] Bẫy đại từ: dùng those (không dùng anyone/whichever) khi đi trước mệnh đề quan hệ số nhiều.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w2_9",
+      "lesson": "ETS 2026 RC - Tuần 2",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Employees are said to be very well-informed, ________, and responsive.\"",
+      "options": [
+        "a light dusting of snow",
+        "operate on a seasonal basis",
+        "check a budget",
+        "personable"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'personable'. Hòa nhã, dễ mến, có duyên giao tiếp. [Part 5 - Test 7] Bẫy từ loại: đuôi -able là tính từ, dùng song song với well-informed và responsive.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w2_10",
+      "lesson": "ETS 2026 RC - Tuần 2",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"________, all signers may access and save the document.\"",
+      "options": [
+        "give a demonstration",
+        "undergo renovations",
+        "trade show",
+        "Upon completion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'Upon completion'. Ngay sau khi hoàn thành. [Part 6 - Test 7] Bẫy từ loại: sau giới từ Upon cần một danh từ (completion), không dùng động từ.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w2_11",
+      "lesson": "ETS 2026 RC - Tuần 2",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"A ________ of increased tourism in our city has been rapid growth in hospitality jobs.\"",
+      "options": [
+        "coincide with",
+        "I have time now",
+        "favorable effect",
+        "onboarding"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng: 'favorable effect'. Ảnh hưởng tích cực, thuận lợi. [Part 5 - Test 7] Phân biệt favorable (thuận lợi) với tentative (dự kiến/chưa chắc chắn).",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w2_12",
+      "lesson": "ETS 2026 RC - Tuần 2",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Prompt submission of travel vouchers will ________.\"",
+      "options": [
+        "expedite refunds",
+        "field questions",
+        "take initiative",
+        "be bound to V"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng: 'expedite refunds'. Đẩy nhanh tiến độ hoàn tiền. [Part 5 - Test 8] Động từ cao cấp thường gặp trong thư từ giải quyết khiếu nại khách hàng.",
+      "points": 100
+    }
+  ]
+}

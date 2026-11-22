@@ -1,0 +1,316 @@
+{
+  "id": "g0_ets_2026_rc_w1",
+  "grade": 0,
+  "subject": "ets_2026_rc",
+  "subjectName": "TOEIC",
+  "week": 1,
+  "title": "ETS 2026 RC - Tuần 1",
+  "subTitle": "Part 5: Từ Loại & Collocations Doanh Nghiệp (P1)",
+  "theory": {
+    "totalCards": 12,
+    "cards": [
+      {
+        "id": "th_g0_ets_2026_rc_w1_1",
+        "term": "cooperative agreement",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Thỏa thuận hợp tác. [Part 5 - Test 1] Bẫy: 'produce' trong câu là danh từ không đếm được nghĩa là nông sản.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "Maswa Bistro began a cooperative agreement with local farmers to purchase a set amount of produce each week.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "🏢"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w1_2",
+        "term": "diagnostic fee",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Phí chẩn đoán/kiểm tra lỗi thiết bị. [Part 5 - Test 1] Bẫy từ loại danh từ ghép: chọn tính từ/danh từ bổ nghĩa trước 'fee'.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "For a $95 diagnostic fee, our mechanics will determine what repairs are needed.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "📊"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w1_3",
+        "term": "despite + Noun/V-ing",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Mặc dù, bất chấp. [Part 5 - Test 1/Test 3] Bẫy ngữ pháp: despite là giới từ, không đi với mệnh đề như even though/although.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "Ennis Photography purchased all new lighting equipment despite the high cost.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "💼"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w1_4",
+        "term": "unforeseen circumstances",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Những tình huống bất ngờ, không lường trước được. [Part 5 - Test 2] Cụm danh từ thường gặp trong chính sách hủy lịch.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "While we typically charge $25 for missed appointments, we understand that unforeseen circumstances may arise.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "📈"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w1_5",
+        "term": "eager takers",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Những người hào hứng đón nhận. [Part 6 - Test 2] Bẫy điền từ/cụm từ nâng cao miêu tả khách hàng nhiệt tình.",
+        "definition": "Key collocation/phrase in Part 6 - Text Completion.",
+        "example": "Every week, she baked a new variety to deliver to eager takers.",
+        "category": "Part 6 - Text Completion",
+        "imageHint": "🤝"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w1_6",
+        "term": "briefer than",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Ngắn gọn hơn. [Part 5 - Test 2] Bẫy so sánh hơn: brief là tính từ ngắn nên thêm đuôi -er thành briefer, không dùng more brief.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "The presentations were briefer than we expected, so there was ample time left for questions.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "📑"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w1_7",
+        "term": "stretch ... into",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Kéo dài (thời gian, chương trình khuyến mãi) sang tận... [Part 6 - Test 3] Cụm giới từ chỉ sự nới rộng thời gian.",
+        "definition": "Key collocation/phrase in Part 6 - Text Completion.",
+        "example": "Stretch your holiday season's shopping spree into January with double rewards.",
+        "category": "Part 6 - Text Completion",
+        "imageHint": "💡"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w1_8",
+        "term": "over the past ten years",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Trong suốt 10 năm qua. [Part 5 - Test 3] Bẫy giới từ: over dùng với khoảng thời gian trong thì hiện tại hoàn thành.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "Abelia Dairy Company has undergone several changes in leadership over the past ten years.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "✈️"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w1_9",
+        "term": "neglect to V",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Quên, xao nhãng không làm việc gì. [Part 5 - Test 4] Bẫy từ vựng: các từ reject, omit, dismiss không đi kèm cấu trúc to-V.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "The customer neglected to buy an extended warranty, so it is not eligible for a free repair.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "🛠️"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w1_10",
+        "term": "remain engaged",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Duy trì sự tập trung, chú ý. [Part 5 - Test 4] Bẫy từ loại: dùng tính từ đuôi -ed (engaged) chỉ trạng thái cảm xúc của khán giả.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "The audience appeared to remain engaged throughout Ms. Sharma's presentation.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "🎯"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w1_11",
+        "term": "rigorous inspections",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Các cuộc kiểm tra nghiêm ngặt, khắt khe. [Part 5 - Test 4] Cụm collocation chuyên dùng trong tiêu chuẩn quản lý chất lượng.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "All hand tools undergo rigorous inspections to ensure they are free of defects.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "🏢"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w1_12",
+        "term": "whoever + V (singular)",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Bất kỳ ai (làm gì)... [Part 5 - Test 4] Bẫy đại từ quan hệ: whoever đứng làm chủ ngữ mệnh đề danh ngữ, khác với who hay anyone.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "Whoever prepares the patient's medical records is required to maintain confidentiality.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "📊"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_g0_ets_2026_rc_w1_1",
+      "lesson": "ETS 2026 RC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Maswa Bistro began a ________ with local farmers to purchase a set amount of produce each week.\"",
+      "options": [
+        "have pooled on a path",
+        "summer hours",
+        "owing to + Noun phrase",
+        "cooperative agreement"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'cooperative agreement'. Thỏa thuận hợp tác. [Part 5 - Test 1] Bẫy: 'produce' trong câu là danh từ không đếm được nghĩa là nông sản.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w1_2",
+      "lesson": "ETS 2026 RC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"For a $95 ________, our mechanics will determine what repairs are needed.\"",
+      "options": [
+        "be under warranty",
+        "work on a report",
+        "diagnostic fee",
+        "take down the wall"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng: 'diagnostic fee'. Phí chẩn đoán/kiểm tra lỗi thiết bị. [Part 5 - Test 1] Bẫy từ loại danh từ ghép: chọn tính từ/danh từ bổ nghĩa trước 'fee'.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w1_3",
+      "lesson": "ETS 2026 RC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Mặc dù, bất chấp. [Part 5 - Test 1/Test 3] Bẫy ngữ pháp: despite là giới từ, không đi với mệnh đề như even though/althou\"?",
+      "options": [
+        "undergo renovations",
+        "unforeseen circumstances",
+        "coincide with",
+        "despite + Noun/V-ing"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'despite + Noun/V-ing'. Mặc dù, bất chấp. [Part 5 - Test 1/Test 3] Bẫy ngữ pháp: despite là giới từ, không đi với mệnh đề như even though/although.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w1_4",
+      "lesson": "ETS 2026 RC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"While we typically charge $25 for missed appointments, we understand that ________ may arise.\"",
+      "options": [
+        "underwater autonomous vehicles",
+        "unforeseen circumstances",
+        "whoever + V (singular)",
+        "sign your name"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng: 'unforeseen circumstances'. Những tình huống bất ngờ, không lường trước được. [Part 5 - Test 2] Cụm danh từ thường gặp trong chính sách hủy lịch.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w1_5",
+      "lesson": "ETS 2026 RC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Every week, she baked a new variety to deliver to ________.\"",
+      "options": [
+        "remain engaged",
+        "the margin for error is zero",
+        "eager takers",
+        "founded the music label"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng: 'eager takers'. Những người hào hứng đón nhận. [Part 6 - Test 2] Bẫy điền từ/cụm từ nâng cao miêu tả khách hàng nhiệt tình.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w1_6",
+      "lesson": "ETS 2026 RC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"The presentations were ________ we expected, so there was ample time left for questions.\"",
+      "options": [
+        "continuously operating",
+        "those who + V (plural)",
+        "briefer than",
+        "undisclosed amount"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng: 'briefer than'. Ngắn gọn hơn. [Part 5 - Test 2] Bẫy so sánh hơn: brief là tính từ ngắn nên thêm đuôi -er thành briefer, không dùng more brief.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w1_7",
+      "lesson": "ETS 2026 RC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Kéo dài (thời gian, chương trình khuyến mãi) sang tận... [Part 6 - Test 3] Cụm giới từ chỉ sự nới rộng thời gian.\"?",
+      "options": [
+        "stretch ... into",
+        "whoever + V (singular)",
+        "briefer than",
+        "congested with vehicles"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng: 'stretch ... into'. Kéo dài (thời gian, chương trình khuyến mãi) sang tận... [Part 6 - Test 3] Cụm giới từ chỉ sự nới rộng thời gian.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w1_8",
+      "lesson": "ETS 2026 RC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Abelia Dairy Company has undergone several changes in leadership ________.\"",
+      "options": [
+        "fill in (for someone)",
+        "over the past ten years",
+        "eager takers",
+        "relocate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng: 'over the past ten years'. Trong suốt 10 năm qua. [Part 5 - Test 3] Bẫy giới từ: over dùng với khoảng thời gian trong thì hiện tại hoàn thành.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w1_9",
+      "lesson": "ETS 2026 RC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Quên, xao nhãng không làm việc gì. [Part 5 - Test 4] Bẫy từ vựng: các từ reject, omit, dismiss không đi kèm cấu trúc to-\"?",
+      "options": [
+        "proceed cautiously",
+        "view live updates",
+        "whoever + V (singular)",
+        "neglect to V"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'neglect to V'. Quên, xao nhãng không làm việc gì. [Part 5 - Test 4] Bẫy từ vựng: các từ reject, omit, dismiss không đi kèm cấu trúc to-V.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w1_10",
+      "lesson": "ETS 2026 RC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"The audience appeared to ________ throughout Ms. Sharma's presentation.\"",
+      "options": [
+        "at your earliest convenience",
+        "owing to + Noun phrase",
+        "remain engaged",
+        "brick-and-mortar stores"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng: 'remain engaged'. Duy trì sự tập trung, chú ý. [Part 5 - Test 4] Bẫy từ loại: dùng tính từ đuôi -ed (engaged) chỉ trạng thái cảm xúc của khán giả.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w1_11",
+      "lesson": "ETS 2026 RC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"All hand tools undergo ________ to ensure they are free of defects.\"",
+      "options": [
+        "rigorous inspections",
+        "underwater autonomous vehicles",
+        "despite + Noun/V-ing",
+        "proceed cautiously"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng: 'rigorous inspections'. Các cuộc kiểm tra nghiêm ngặt, khắt khe. [Part 5 - Test 4] Cụm collocation chuyên dùng trong tiêu chuẩn quản lý chất lượng.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w1_12",
+      "lesson": "ETS 2026 RC - Tuần 1",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Bất kỳ ai (làm gì)... [Part 5 - Test 4] Bẫy đại từ quan hệ: whoever đứng làm chủ ngữ mệnh đề danh ngữ, khác với who hay \"?",
+      "options": [
+        "whoever + V (singular)",
+        "inferior imitations",
+        "sign your name",
+        "promptly"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng: 'whoever + V (singular)'. Bất kỳ ai (làm gì)... [Part 5 - Test 4] Bẫy đại từ quan hệ: whoever đứng làm chủ ngữ mệnh đề danh ngữ, khác với who hay anyone.",
+      "points": 100
+    }
+  ]
+}

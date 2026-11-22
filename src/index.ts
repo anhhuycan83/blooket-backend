@@ -33,7 +33,7 @@ app.get('/api/v1/curriculum/tree', (_req: Request, res: Response) => {
 // Get specific lesson data by query params or id
 app.get('/api/v1/lessons', (req: Request, res: Response) => {
   const { grade, subject, week } = req.query;
-  if (!grade || !subject || !week) {
+  if (grade === undefined || grade === '' || !subject || !week) {
     return res.status(400).json({ error: 'Missing required parameters: grade, subject, week' });
   }
 

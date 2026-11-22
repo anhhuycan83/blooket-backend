@@ -1,0 +1,316 @@
+{
+  "id": "g0_ets_2026_rc_w3",
+  "grade": 0,
+  "subject": "ets_2026_rc",
+  "subjectName": "TOEIC",
+  "week": 3,
+  "title": "ETS 2026 RC - Tuần 3",
+  "subTitle": "Part 6: Điền Đoạn Văn & Từ Nối Mạch Lạc",
+  "theory": {
+    "totalCards": 12,
+    "cards": [
+      {
+        "id": "th_g0_ets_2026_rc_w3_1",
+        "term": "proceed cautiously",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Tiến hành một cách thận trọng. [Part 5 - Test 8] Bẫy từ loại: trạng từ cautiously bổ nghĩa cho nội động từ proceed.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "The company decided to proceed cautiously with plans to expand into new sales territories.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "🏢"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w3_2",
+        "term": "coincide with",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Trùng khớp thời gian, diễn ra đồng thời với... [Part 6 - Test 8] Cụm động từ đi với giới từ with.",
+        "definition": "Key collocation/phrase in Part 6 - Text Completion.",
+        "example": "To coincide with the upcoming launch of the restaurant's new menu, we made several changes to our app.",
+        "category": "Part 6 - Text Completion",
+        "imageHint": "📊"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w3_3",
+        "term": "carry (products)",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Bày bán, phân phối sẵn mặt hàng trong cửa hàng. [Part 6 - Test 9] Bẫy nghĩa: không phải mang vác, mà là có bán sản phẩm.",
+        "definition": "Key collocation/phrase in Part 6 - Text Completion.",
+        "example": "Our products are carried by furniture retailers in many urban centers around the country.",
+        "category": "Part 6 - Text Completion",
+        "imageHint": "💼"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w3_4",
+        "term": "undisclosed amount",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Số tiền không được tiết lộ công khai. [Part 6 - Test 9] Cụm danh từ tài chính chỉ giá trị thương vụ mua bán sáp nhập.",
+        "definition": "Key collocation/phrase in Part 6 - Text Completion.",
+        "example": "Announced today the acquisition of Shipley Designs for an undisclosed amount.",
+        "category": "Part 6 - Text Completion",
+        "imageHint": "📈"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w3_5",
+        "term": "speculate about",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Đồn đoán, suy đoán về điều gì. [Part 6 - Test 9] Động từ thường đi với giới từ about trong bài đọc thương mại.",
+        "definition": "Key collocation/phrase in Part 6 - Text Completion.",
+        "example": "Industry insiders, who have speculated for some time about Shipley's financial challenges.",
+        "category": "Part 6 - Text Completion",
+        "imageHint": "🤝"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w3_6",
+        "term": "continuously operating",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Hoạt động liên tục, không ngắt quãng. [Part 5 - Test 10] Bẫy cấu trúc: trạng từ (continuously) bổ nghĩa cho phân từ/tính từ (operating).",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "Line 73 is the oldest continuously operating bus line in Raymo City's history.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "📑"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w3_7",
+        "term": "take initiative",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Chủ động, có tinh thần khởi xướng trong công việc. [Part 5 - Test 10] Collocation chuẩn trong đánh giá nhân sự công sở.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "Mr. Takajian may be an entry-level employee, but he does not hesitate to take initiative.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "💡"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w3_8",
+        "term": "promptly",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Một cách nhanh chóng, kịp thời. [Part 5 - Test 10] Bẫy từ loại: trạng từ promptly bổ nghĩa cho động từ responding.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "Thank you for responding promptly with information about the T-Max 400 printer.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "✈️"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w3_9",
+        "term": "owing to + Noun phrase",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Bởi vì, do... [Part 5 - Test 10] Giới từ đồng nghĩa với Due to / Because of, theo sau là cụm danh từ.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "Owing to the weather, we need to reschedule your appointment for tree removal service.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "🛠️"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w3_10",
+        "term": "inferior imitations",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Hàng nhái kém chất lượng. [Part 5 - Test 10] Cụm từ cảnh báo người tiêu dùng không mua hàng giả.",
+        "definition": "Key collocation/phrase in Part 5 - Incomplete Sentences.",
+        "example": "Glistonford Manufacturing cautions consumers not to buy inferior imitations of its adjustable desks.",
+        "category": "Part 5 - Incomplete Sentences",
+        "imageHint": "🎯"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w3_11",
+        "term": "thereby + V-ing",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Do đó, bằng cách đó dẫn đến kết quả... [Part 6 - Test 10] Cấu trúc rút gọn mệnh đề kết quả cực kỳ kinh điển ở mức 700+.",
+        "definition": "Key collocation/phrase in Part 6 - Text Completion.",
+        "example": "They are designed with ergonomic features, thereby reducing the risk of injuries.",
+        "category": "Part 6 - Text Completion",
+        "imageHint": "🏢"
+      },
+      {
+        "id": "th_g0_ets_2026_rc_w3_12",
+        "term": "shrink operational costs",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Cắt giảm, thu nhỏ chi phí vận hành. [Part 6 - Test 10] Động từ shrink mang nghĩa làm giảm/thu hẹp.",
+        "definition": "Key collocation/phrase in Part 6 - Text Completion.",
+        "example": "These collapsible containers will simplify work and shrink operational costs.",
+        "category": "Part 6 - Text Completion",
+        "imageHint": "📊"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_g0_ets_2026_rc_w3_1",
+      "lesson": "ETS 2026 RC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"The company decided to ________ with plans to expand into new sales territories.\"",
+      "options": [
+        "coincide with",
+        "in charge of accounts",
+        "carry (products)",
+        "proceed cautiously"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'proceed cautiously'. Tiến hành một cách thận trọng. [Part 5 - Test 8] Bẫy từ loại: trạng từ cautiously bổ nghĩa cho nội động từ proceed.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w3_2",
+      "lesson": "ETS 2026 RC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"To ________ the upcoming launch of the restaurant's new menu, we made several changes to our app.\"",
+      "options": [
+        "cooperative agreement",
+        "congested with vehicles",
+        "coincide with",
+        "relocate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng: 'coincide with'. Trùng khớp thời gian, diễn ra đồng thời với... [Part 6 - Test 8] Cụm động từ đi với giới từ with.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w3_3",
+      "lesson": "ETS 2026 RC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Bày bán, phân phối sẵn mặt hàng trong cửa hàng. [Part 6 - Test 9] Bẫy nghĩa: không phải mang vác, mà là có bán sản phẩm.\"?",
+      "options": [
+        "carry (products)",
+        "constructive feedback",
+        "remain engaged",
+        "inferior imitations"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng: 'carry (products)'. Bày bán, phân phối sẵn mặt hàng trong cửa hàng. [Part 6 - Test 9] Bẫy nghĩa: không phải mang vác, mà là có bán sản phẩm.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w3_4",
+      "lesson": "ETS 2026 RC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Announced today the acquisition of Shipley Designs for an ________.\"",
+      "options": [
+        "use alternate transportation",
+        "undisclosed amount",
+        "relocate",
+        "patrons"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng: 'undisclosed amount'. Số tiền không được tiết lộ công khai. [Part 6 - Test 9] Cụm danh từ tài chính chỉ giá trị thương vụ mua bán sáp nhập.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w3_5",
+      "lesson": "ETS 2026 RC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Đồn đoán, suy đoán về điều gì. [Part 6 - Test 9] Động từ thường đi với giới từ about trong bài đọc thương mại.\"?",
+      "options": [
+        "speculate about",
+        "be bound to V",
+        "Upon completion",
+        "fitted with"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng: 'speculate about'. Đồn đoán, suy đoán về điều gì. [Part 6 - Test 9] Động từ thường đi với giới từ about trong bài đọc thương mại.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w3_6",
+      "lesson": "ETS 2026 RC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Line 73 is the oldest ________ bus line in Raymo City's history.\"",
+      "options": [
+        "fill in (for someone)",
+        "incredibly fast",
+        "continuously operating",
+        "check a budget"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng: 'continuously operating'. Hoạt động liên tục, không ngắt quãng. [Part 5 - Test 10] Bẫy cấu trúc: trạng từ (continuously) bổ nghĩa cho phân từ/tính từ (operating).",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w3_7",
+      "lesson": "ETS 2026 RC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Mr. Takajian may be an entry-level employee, but he does not hesitate to ________.\"",
+      "options": [
+        "undergo renovations",
+        "provide a progress report",
+        "take initiative",
+        "onboarding"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng: 'take initiative'. Chủ động, có tinh thần khởi xướng trong công việc. [Part 5 - Test 10] Collocation chuẩn trong đánh giá nhân sự công sở.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w3_8",
+      "lesson": "ETS 2026 RC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Thank you for responding ________ with information about the T-Max 400 printer.\"",
+      "options": [
+        "undisclosed amount",
+        "promptly",
+        "provide a progress report",
+        "bicycle delivery"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng: 'promptly'. Một cách nhanh chóng, kịp thời. [Part 5 - Test 10] Bẫy từ loại: trạng từ promptly bổ nghĩa cho động từ responding.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w3_9",
+      "lesson": "ETS 2026 RC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Bởi vì, do... [Part 5 - Test 10] Giới từ đồng nghĩa với Due to / Because of, theo sau là cụm danh từ.\"?",
+      "options": [
+        "owing to + Noun phrase",
+        "inclement weather",
+        "carry (products)",
+        "rewarding staff performance"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng: 'owing to + Noun phrase'. Bởi vì, do... [Part 5 - Test 10] Giới từ đồng nghĩa với Due to / Because of, theo sau là cụm danh từ.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w3_10",
+      "lesson": "ETS 2026 RC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Glistonford Manufacturing cautions consumers not to buy ________ of its adjustable desks.\"",
+      "options": [
+        "inferior imitations",
+        "be bound to V",
+        "over the past ten years",
+        "eager takers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng: 'inferior imitations'. Hàng nhái kém chất lượng. [Part 5 - Test 10] Cụm từ cảnh báo người tiêu dùng không mua hàng giả.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w3_11",
+      "lesson": "ETS 2026 RC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Do đó, bằng cách đó dẫn đến kết quả... [Part 6 - Test 10] Cấu trúc rút gọn mệnh đề kết quả cực kỳ kinh điển ở mức 700+.\"?",
+      "options": [
+        "view live updates",
+        "fill in (for someone)",
+        "thereby + V-ing",
+        "trade show"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng: 'thereby + V-ing'. Do đó, bằng cách đó dẫn đến kết quả... [Part 6 - Test 10] Cấu trúc rút gọn mệnh đề kết quả cực kỳ kinh điển ở mức 700+.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_rc_w3_12",
+      "lesson": "ETS 2026 RC - Tuần 3",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"These collapsible containers will simplify work and ________.\"",
+      "options": [
+        "shrink operational costs",
+        "constructive feedback",
+        "thereby + V-ing",
+        "remain engaged"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng: 'shrink operational costs'. Cắt giảm, thu nhỏ chi phí vận hành. [Part 6 - Test 10] Động từ shrink mang nghĩa làm giảm/thu hẹp.",
+      "points": 100
+    }
+  ]
+}

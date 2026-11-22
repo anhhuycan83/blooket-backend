@@ -1,0 +1,341 @@
+{
+  "id": "g0_ets_2026_lc_w4",
+  "grade": 0,
+  "subject": "ets_2026_lc",
+  "subjectName": "TOEIC",
+  "week": 4,
+  "title": "ETS 2026 LC - Tuần 4",
+  "subTitle": "Part 4: Thông Báo & Bài Nói Độc Thoại",
+  "theory": {
+    "totalCards": 13,
+    "cards": [
+      {
+        "id": "th_g0_ets_2026_lc_w4_1",
+        "term": "the margin for error is zero",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Không được phép mắc bất kỳ sai sót nào. [Part 4 - Test 7] Cụm thành ngữ nhấn mạnh tính chính xác tuyệt đối.",
+        "definition": "Key collocation/phrase in Part 4 - Talks.",
+        "example": "Tonight we're filming a live performance, so the margin for error is zero.",
+        "category": "Part 4 - Talks",
+        "imageHint": "🏢"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w4_2",
+        "term": "high-profile event",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Sự kiện tầm cỡ, thu hút sự chú ý của công chúng. [Part 4 - Test 7] Tính từ ghép bổ nghĩa cho event.",
+        "definition": "Key collocation/phrase in Part 4 - Talks.",
+        "example": "This is a high-profile event that will be broadcast live to viewers.",
+        "category": "Part 4 - Talks",
+        "imageHint": "📊"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w4_3",
+        "term": "be bound to V",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Chắc chắn, nhất định sẽ xảy ra. [Part 4 - Test 7] Cấu trúc dự đoán chắc chắn trong tương lai.",
+        "definition": "Key collocation/phrase in Part 4 - Talks.",
+        "example": "If we do a great job, our services are bound to be in demand.",
+        "category": "Part 4 - Talks",
+        "imageHint": "💼"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w4_4",
+        "term": "clean some equipment",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Vệ sinh thiết bị. [Part 3 - Test 7] Paraphrase của câu hỏi 'cleaning acrylic test tubes' trong phòng thí nghiệm.",
+        "definition": "Key collocation/phrase in Part 3 - Conversations.",
+        "example": "Was there information about cleaning acrylic test tubes in the manual?",
+        "category": "Part 3 - Conversations",
+        "imageHint": "📈"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w4_5",
+        "term": "inclement weather",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Thời tiết khắc nghiệt, xấu. [Part 3 - Test 8] Nguyên nhân gây delay chuyến bay thường gặp trong TOEIC.",
+        "definition": "Key collocation/phrase in Part 3 - Conversations.",
+        "example": "Flight has been delayed due to inclement weather in Canada.",
+        "category": "Part 3 - Conversations",
+        "imageHint": "🤝"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w4_6",
+        "term": "be under warranty",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Còn trong thời hạn bảo hành. [Part 3 - Test 8] Cụm cố định đi với giới từ under.",
+        "definition": "Key collocation/phrase in Part 3 - Conversations.",
+        "example": "A repair that big should be under warranty.",
+        "category": "Part 3 - Conversations",
+        "imageHint": "📑"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w4_7",
+        "term": "underwater autonomous vehicles",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Thiết bị lặn không người lái tự hành (UAVs). [Part 4 - Test 8] Paraphrase thành 'some new equipment'.",
+        "definition": "Key collocation/phrase in Part 4 - Talks.",
+        "example": "A request from the head of the city's water system to buy two UAVs.",
+        "category": "Part 4 - Talks",
+        "imageHint": "💡"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w4_8",
+        "term": "a light dusting of snow",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Một lớp tuyết mỏng phủ trên mặt đất. [Part 4 - Test 9] Paraphrase thành 'Weather conditions' gây hoãn chuyến bay.",
+        "definition": "Key collocation/phrase in Part 4 - Talks.",
+        "example": "There's a light dusting of snow on the ground, causing delays.",
+        "category": "Part 4 - Talks",
+        "imageHint": "✈️"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w4_9",
+        "term": "touch base",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Liên lạc nhanh, trao đổi ngắn gọn với ai đó. [Part 4 - Test 9] Thành ngữ công sở: 'touch base with someone'.",
+        "definition": "Key collocation/phrase in Part 4 - Talks.",
+        "example": "Let's stay after it finishes to touch base on upcoming projects.",
+        "category": "Part 4 - Talks",
+        "imageHint": "🛠️"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w4_10",
+        "term": "fit you in",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Sắp xếp chen lịch hẹn cho bạn. [Part 3 - Test 10] Thành ngữ xếp lịch của bác sĩ/tiệm dịch vụ khi đã kín chỗ.",
+        "definition": "Key collocation/phrase in Part 3 - Conversations.",
+        "example": "This week, I can fit you in on Wednesday at four o'clock.",
+        "category": "Part 3 - Conversations",
+        "imageHint": "🎯"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w4_11",
+        "term": "deliver the keynote speech",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Đọc bài phát biểu khai mạc/chủ đạo. [Part 4 - Test 10] Paraphrase thành 'Speak at a conference'.",
+        "definition": "Key collocation/phrase in Part 4 - Talks.",
+        "example": "She travels to Chicago where she has been invited to deliver the keynote speech.",
+        "category": "Part 4 - Talks",
+        "imageHint": "🏢"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w4_12",
+        "term": "work around the clock",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Làm việc suốt ngày đêm 24/24. [Part 3 - Test 10] Paraphrase thành 'Operates 24 hours a day'.",
+        "definition": "Key collocation/phrase in Part 3 - Conversations.",
+        "example": "We work around the clock to guarantee turnaround within 24 hours.",
+        "category": "Part 3 - Conversations",
+        "imageHint": "📊"
+      },
+      {
+        "id": "th_g0_ets_2026_lc_w4_13",
+        "term": "use alternate transportation",
+        "phonetic": "[TOEIC 750+]",
+        "vietnamese": "Sử dụng phương tiện di chuyển thay thế. [Part 3 - Test 10] Paraphrase cho 'take the train instead of the bus'.",
+        "definition": "Key collocation/phrase in Part 3 - Conversations.",
+        "example": "I'll take the train into the city tomorrow instead.",
+        "category": "Part 3 - Conversations",
+        "imageHint": "💼"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_g0_ets_2026_lc_w4_1",
+      "lesson": "ETS 2026 LC - Tuần 4",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Tonight we're filming a live performance, so ________.\"",
+      "options": [
+        "brick-and-mortar stores",
+        "a light dusting of snow",
+        "promptly",
+        "the margin for error is zero"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'the margin for error is zero'. Không được phép mắc bất kỳ sai sót nào. [Part 4 - Test 7] Cụm thành ngữ nhấn mạnh tính chính xác tuyệt đối.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w4_2",
+      "lesson": "ETS 2026 LC - Tuần 4",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"This is a ________ that will be broadcast live to viewers.\"",
+      "options": [
+        "high-profile event",
+        "constructive feedback",
+        "deliver the keynote speech",
+        "work on a report"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng: 'high-profile event'. Sự kiện tầm cỡ, thu hút sự chú ý của công chúng. [Part 4 - Test 7] Tính từ ghép bổ nghĩa cho event.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w4_3",
+      "lesson": "ETS 2026 LC - Tuần 4",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Chắc chắn, nhất định sẽ xảy ra. [Part 4 - Test 7] Cấu trúc dự đoán chắc chắn trong tương lai.\"?",
+      "options": [
+        "be bound to V",
+        "familiarize oneself with",
+        "thereby + V-ing",
+        "briefer than"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng: 'be bound to V'. Chắc chắn, nhất định sẽ xảy ra. [Part 4 - Test 7] Cấu trúc dự đoán chắc chắn trong tương lai.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w4_4",
+      "lesson": "ETS 2026 LC - Tuần 4",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Vệ sinh thiết bị. [Part 3 - Test 7] Paraphrase của câu hỏi 'cleaning acrylic test tubes' trong phòng thí nghiệm.\"?",
+      "options": [
+        "proceed cautiously",
+        "knowledge of specialized software",
+        "clean some equipment",
+        "make a point of V-ing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng: 'clean some equipment'. Vệ sinh thiết bị. [Part 3 - Test 7] Paraphrase của câu hỏi 'cleaning acrylic test tubes' trong phòng thí nghiệm.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w4_5",
+      "lesson": "ETS 2026 LC - Tuần 4",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Flight has been delayed due to ________ in Canada.\"",
+      "options": [
+        "at your earliest convenience",
+        "inclement weather",
+        "provide an estimate",
+        "promptly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng: 'inclement weather'. Thời tiết khắc nghiệt, xấu. [Part 3 - Test 8] Nguyên nhân gây delay chuyến bay thường gặp trong TOEIC.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w4_6",
+      "lesson": "ETS 2026 LC - Tuần 4",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"A repair that big should ________.\"",
+      "options": [
+        "prospective investors",
+        "take initiative",
+        "owing to + Noun phrase",
+        "be under warranty"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'be under warranty'. Còn trong thời hạn bảo hành. [Part 3 - Test 8] Cụm cố định đi với giới từ under.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w4_7",
+      "lesson": "ETS 2026 LC - Tuần 4",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Thiết bị lặn không người lái tự hành (UAVs). [Part 4 - Test 8] Paraphrase thành 'some new equipment'.\"?",
+      "options": [
+        "check a budget",
+        "underwater autonomous vehicles",
+        "in charge of accounts",
+        "sign your name"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng: 'underwater autonomous vehicles'. Thiết bị lặn không người lái tự hành (UAVs). [Part 4 - Test 8] Paraphrase thành 'some new equipment'.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w4_8",
+      "lesson": "ETS 2026 LC - Tuần 4",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"There's ________ on the ground, causing delays.\"",
+      "options": [
+        "cooperative agreement",
+        "check a budget",
+        "thereby + V-ing",
+        "a light dusting of snow"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'a light dusting of snow'. Một lớp tuyết mỏng phủ trên mặt đất. [Part 4 - Test 9] Paraphrase thành 'Weather conditions' gây hoãn chuyến bay.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w4_9",
+      "lesson": "ETS 2026 LC - Tuần 4",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"Let's stay after it finishes to ________ on upcoming projects.\"",
+      "options": [
+        "knowledge of specialized software",
+        "provide an estimate",
+        "shadow (someone)",
+        "touch base"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'touch base'. Liên lạc nhanh, trao đổi ngắn gọn với ai đó. [Part 4 - Test 9] Thành ngữ công sở: 'touch base with someone'.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w4_10",
+      "lesson": "ETS 2026 LC - Tuần 4",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"This week, I can ________ on Wednesday at four o'clock.\"",
+      "options": [
+        "fit you in",
+        "trade show",
+        "touch base",
+        "thereby + V-ing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng: 'fit you in'. Sắp xếp chen lịch hẹn cho bạn. [Part 3 - Test 10] Thành ngữ xếp lịch của bác sĩ/tiệm dịch vụ khi đã kín chỗ.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w4_11",
+      "lesson": "ETS 2026 LC - Tuần 4",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"She travels to Chicago where she has been invited to ________.\"",
+      "options": [
+        "deliver the keynote speech",
+        "I have time now",
+        "operate on a seasonal basis",
+        "prospective parties to call"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng: 'deliver the keynote speech'. Đọc bài phát biểu khai mạc/chủ đạo. [Part 4 - Test 10] Paraphrase thành 'Speak at a conference'.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w4_12",
+      "lesson": "ETS 2026 LC - Tuần 4",
+      "type": "multiple_choice",
+      "question": "Điền từ/cụm từ thích hợp vào chỗ trống:\n\"We ________ to guarantee turnaround within 24 hours.\"",
+      "options": [
+        "prospective investors",
+        "carry (products)",
+        "rewarding staff performance",
+        "work around the clock"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng: 'work around the clock'. Làm việc suốt ngày đêm 24/24. [Part 3 - Test 10] Paraphrase thành 'Operates 24 hours a day'.",
+      "points": 100
+    },
+    {
+      "id": "ex_g0_ets_2026_lc_w4_13",
+      "lesson": "ETS 2026 LC - Tuần 4",
+      "type": "multiple_choice",
+      "question": "Trong bài thi TOEIC ETS, cụm từ/thuật ngữ nào mang ý nghĩa: \"Sử dụng phương tiện di chuyển thay thế. [Part 3 - Test 10] Paraphrase cho 'take the train instead of the bus'.\"?",
+      "options": [
+        "touch base",
+        "use alternate transportation",
+        "unforeseen circumstances",
+        "pertaining to"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng: 'use alternate transportation'. Sử dụng phương tiện di chuyển thay thế. [Part 3 - Test 10] Paraphrase cho 'take the train instead of the bus'.",
+      "points": 100
+    }
+  ]
+}
