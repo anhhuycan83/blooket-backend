@@ -14,7 +14,79 @@
           "color": "#4F46E5",
           "accentColor": "#EEF2FF",
           "description": "General English Units 1–4.5 & Review Final Test 1",
-          "totalWeeks": 10
+          "totalWeeks": 10,
+          "weeks": [
+            {
+              "weekNumber": 1,
+              "title": "W1",
+              "subTitle": "Tuần 1",
+              "badge": "Chưa học"
+            },
+            {
+              "weekNumber": 2,
+              "title": "W2",
+              "subTitle": "Tuần 2",
+              "badge": "Chưa học"
+            },
+            {
+              "weekNumber": 3,
+              "title": "W3",
+              "subTitle": "Tuần 3",
+              "badge": "Chưa học"
+            },
+            {
+              "weekNumber": 4,
+              "title": "W4",
+              "subTitle": "Giữa Kì 1 (P1)",
+              "badge": "Ôn tập"
+            },
+            {
+              "weekNumber": 5,
+              "title": "W5",
+              "subTitle": "Giữa Kì 1 (P2)",
+              "badge": "Luyện đề"
+            },
+            {
+              "weekNumber": 6,
+              "title": "W6",
+              "subTitle": "Tuần 6",
+              "badge": "Chưa học"
+            },
+            {
+              "weekNumber": 7,
+              "title": "W7",
+              "subTitle": "Tuần 7",
+              "badge": "Chưa học"
+            },
+            {
+              "weekNumber": 8,
+              "title": "W8",
+              "subTitle": "Tuần 8",
+              "badge": "Chưa học"
+            },
+            {
+              "weekNumber": 9,
+              "title": "W9",
+              "subTitle": "Tuần 9",
+              "badge": "Đề thi sẵn sàng",
+              "emoji": "⭐",
+              "color": "#7C3AED",
+              "bgColor": "#FAF5FF",
+              "borderColor": "#7C3AED",
+              "isHighlighted": true
+            },
+            {
+              "weekNumber": 10,
+              "title": "W10",
+              "subTitle": "Ôn thi Cuối Kì 1",
+              "badge": "👑 Đề thi FT1",
+              "emoji": "👑",
+              "color": "#B45309",
+              "bgColor": "#FFFBEB",
+              "borderColor": "#D97706",
+              "isHighlighted": true
+            }
+          ]
         },
         {
           "id": "math",
@@ -24,7 +96,79 @@
           "color": "#059669",
           "accentColor": "#ECFDF5",
           "description": "Cambridge Primary Mathematics Stage 5 & Final Test 1",
-          "totalWeeks": 10
+          "totalWeeks": 10,
+          "weeks": [
+            {
+              "weekNumber": 1,
+              "title": "W1",
+              "subTitle": "Tuần 1",
+              "badge": "Chưa học"
+            },
+            {
+              "weekNumber": 2,
+              "title": "W2",
+              "subTitle": "Tuần 2",
+              "badge": "Chưa học"
+            },
+            {
+              "weekNumber": 3,
+              "title": "W3",
+              "subTitle": "Tuần 3",
+              "badge": "Chưa học"
+            },
+            {
+              "weekNumber": 4,
+              "title": "W4",
+              "subTitle": "Giữa Kì 1 (P1)",
+              "badge": "Ôn tập"
+            },
+            {
+              "weekNumber": 5,
+              "title": "W5",
+              "subTitle": "Giữa Kì 1 (P2)",
+              "badge": "Luyện đề"
+            },
+            {
+              "weekNumber": 6,
+              "title": "W6",
+              "subTitle": "Tuần 6",
+              "badge": "Chưa học"
+            },
+            {
+              "weekNumber": 7,
+              "title": "W7",
+              "subTitle": "Tuần 7",
+              "badge": "Chưa học"
+            },
+            {
+              "weekNumber": 8,
+              "title": "W8",
+              "subTitle": "Tuần 8",
+              "badge": "Chưa học"
+            },
+            {
+              "weekNumber": 9,
+              "title": "W9",
+              "subTitle": "Tuần 9",
+              "badge": "Đề thi sẵn sàng",
+              "emoji": "⭐",
+              "color": "#7C3AED",
+              "bgColor": "#FAF5FF",
+              "borderColor": "#7C3AED",
+              "isHighlighted": true
+            },
+            {
+              "weekNumber": 10,
+              "title": "W10",
+              "subTitle": "Ôn thi Cuối Kì 1",
+              "badge": "👑 Đề thi FT1",
+              "emoji": "👑",
+              "color": "#B45309",
+              "bgColor": "#FFFBEB",
+              "borderColor": "#D97706",
+              "isHighlighted": true
+            }
+          ]
         },
         {
           "id": "science",
@@ -34,7 +178,79 @@
           "color": "#D97706",
           "accentColor": "#FFFBEB",
           "description": "Cambridge Science: Plants, Sound, Matter & Final Test 1",
-          "totalWeeks": 10
+          "totalWeeks": 10,
+          "weeks": [
+            {
+              "weekNumber": 1,
+              "title": "W1",
+              "subTitle": "Tuần 1",
+              "badge": "Chưa học"
+            },
+            {
+              "weekNumber": 2,
+              "title": "W2",
+              "subTitle": "Tuần 2",
+              "badge": "Chưa học"
+            },
+            {
+              "weekNumber": 3,
+              "title": "W3",
+              "subTitle": "Tuần 3",
+              "badge": "Chưa học"
+            },
+            {
+              "weekNumber": 4,
+              "title": "W4",
+              "subTitle": "Giữa Kì 1 (P1)",
+              "badge": "Ôn tập"
+            },
+            {
+              "weekNumber": 5,
+              "title": "W5",
+              "subTitle": "Giữa Kì 1 (P2)",
+              "badge": "Luyện đề"
+            },
+            {
+              "weekNumber": 6,
+              "title": "W6",
+              "subTitle": "Tuần 6",
+              "badge": "Chưa học"
+            },
+            {
+              "weekNumber": 7,
+              "title": "W7",
+              "subTitle": "Tuần 7",
+              "badge": "Chưa học"
+            },
+            {
+              "weekNumber": 8,
+              "title": "W8",
+              "subTitle": "Tuần 8",
+              "badge": "Chưa học"
+            },
+            {
+              "weekNumber": 9,
+              "title": "W9",
+              "subTitle": "Tuần 9",
+              "badge": "Đề thi sẵn sàng",
+              "emoji": "⭐",
+              "color": "#7C3AED",
+              "bgColor": "#FAF5FF",
+              "borderColor": "#7C3AED",
+              "isHighlighted": true
+            },
+            {
+              "weekNumber": 10,
+              "title": "W10",
+              "subTitle": "Ôn thi Cuối Kì 1",
+              "badge": "👑 Đề thi FT1",
+              "emoji": "👑",
+              "color": "#B45309",
+              "bgColor": "#FFFBEB",
+              "borderColor": "#D97706",
+              "isHighlighted": true
+            }
+          ]
         }
       ]
     },
@@ -55,5 +271,5 @@
       "subjects": []
     }
   ],
-  "lastUpdated": "2026-11-22T08:00:00Z"
+  "lastUpdated": "2026-11-22T08:30:00Z"
 }
