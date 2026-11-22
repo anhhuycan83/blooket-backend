@@ -2,64 +2,64 @@
   "id": "g5_math_w4",
   "grade": 5,
   "subject": "math",
-  "subjectName": "Toán",
+  "subjectName": "Toán (Maths)",
   "week": 4,
-  "title": "Tuần 4: Kiến thức & Ôn tập tuần 4",
-  "subTitle": "Ôn tập kiến thức trọng tâm tuần 4",
+  "title": "REVIEW MIDTERM 1 (PART 1) - TOÁN GIỮA KÌ 1",
+  "subTitle": "Multiply & Divide Decimals by 10, 100, 1000",
   "theory": {
-    "totalCards": 3,
+    "totalCards": 4,
     "cards": [
       {
         "id": "th_math_w4_1",
-        "term": "Tuần 4 - Thẻ mẫu 1",
-        "phonetic": "[Preview]",
-        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 4",
-        "definition": "Core concept for Week 4.",
-        "example": "This is an example for Week 4.",
-        "category": "Tuần 4",
-        "imageHint": "📚"
+        "term": "Multiplying Decimals by 10, 100, 1000",
+        "phonetic": "[Rule]",
+        "vietnamese": "Nhân với 10, 100, 1000: Dịch chuyển dấu phẩy sang PHẢI tương ứng 1, 2, 3 chữ số",
+        "definition": "Shifts decimal point to the right. Add zeros if digits run out.",
+        "example": "4.25 x 10 = 42.5 | 4.25 x 100 = 425 | 4.25 x 1000 = 4250",
+        "category": "Powers of 10",
+        "imageHint": "➡️"
       },
       {
         "id": "th_math_w4_2",
-        "term": "Tuần 4 - Thẻ mẫu 2",
-        "phonetic": "[Preview]",
-        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 4",
-        "definition": "Grammar pattern for Week 4.",
-        "example": "Practice example for Week 4.",
-        "category": "Tuần 4",
-        "imageHint": "💡"
+        "term": "Dividing Decimals by 10, 100, 1000",
+        "phonetic": "[Rule]",
+        "vietnamese": "Chia cho 10, 100, 1000: Dịch chuyển dấu phẩy sang TRÁI tương ứng 1, 2, 3 chữ số",
+        "definition": "Shifts decimal point to the left.",
+        "example": "65.4 ÷ 10 = 6.54 | 65.4 ÷ 100 = 0.654 | 65.4 ÷ 1000 = 0.0654",
+        "category": "Powers of 10",
+        "imageHint": "⬅️"
       }
     ]
   },
   "exercises": [
     {
       "id": "ex_math_w4_1",
-      "lesson": "Tuần 4",
+      "lesson": "Progress Check 1",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 1 cho Tuần 4 (Math): Đâu là câu trả lời chính xác?",
+      "question": "Calculate: 7.08 x 100 = ?",
       "options": [
-        "Đáp án B",
-        "Đáp án A (Chính xác)",
-        "Đáp án D",
-        "Đáp án C"
+        "70.8",
+        "708",
+        "7080",
+        "0.708"
       ],
       "correctIndex": 1,
-      "explanation": "Giải thích cho câu hỏi tuần 4.",
+      "explanation": "Nhân với 100 chuyển dấu phẩy sang phải 2 chữ số: 7.08 -> 708.",
       "points": 100
     },
     {
       "id": "ex_math_w4_2",
-      "lesson": "Tuần 4",
+      "lesson": "Progress Check 1",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 2 cho Tuần 4 (Math): Hãy chọn phương án đúng.",
+      "question": "Calculate: 89.5 ÷ 100 = ?",
       "options": [
-        "Phương án 2",
-        "Phương án 1 (Chính xác)",
-        "Phương án 3",
-        "Phương án 4"
+        "8.95",
+        "0.895",
+        "895",
+        "0.0895"
       ],
       "correctIndex": 1,
-      "explanation": "Giải thích chi tiết phương án 1.",
+      "explanation": "Chia cho 100 chuyển dấu phẩy sang trái 2 chữ số: 89.5 -> 0.895.",
       "points": 100
     }
   ]

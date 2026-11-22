@@ -4,62 +4,62 @@
   "subject": "science",
   "subjectName": "Khoa Học",
   "week": 4,
-  "title": "Tuần 4: Kiến thức & Ôn tập tuần 4",
-  "subTitle": "Ôn tập kiến thức trọng tâm tuần 4",
+  "title": "REVIEW MIDTERM 1 (PART 1) - KHOA HỌC GIỮA KÌ 1",
+  "subTitle": "Unit 1: Flower Parts, Pollination & Pollinators",
   "theory": {
-    "totalCards": 3,
+    "totalCards": 6,
     "cards": [
       {
-        "id": "th_science_w4_1",
-        "term": "Tuần 4 - Thẻ mẫu 1",
-        "phonetic": "[Preview]",
-        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 4",
-        "definition": "Core concept for Week 4.",
-        "example": "This is an example for Week 4.",
-        "category": "Tuần 4",
-        "imageHint": "📚"
+        "id": "th_sci_w4_1",
+        "term": "Stamen vs. Carpel (Pistil)",
+        "phonetic": "[Flower Anatomy]",
+        "vietnamese": "Nhị (Stamen - nhị đực gồm anther & filament) vs Nhụy (Carpel - nhụy cái gồm stigma, style & ovary)",
+        "definition": "Stamen makes pollen in anther. Carpel receives pollen on sticky stigma.",
+        "example": "Pollen lands on the sticky stigma to start fertilisation.",
+        "category": "Flower Anatomy",
+        "imageHint": "🌺"
       },
       {
-        "id": "th_science_w4_2",
-        "term": "Tuần 4 - Thẻ mẫu 2",
-        "phonetic": "[Preview]",
-        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 4",
-        "definition": "Grammar pattern for Week 4.",
-        "example": "Practice example for Week 4.",
-        "category": "Tuần 4",
-        "imageHint": "💡"
+        "id": "th_sci_w4_2",
+        "term": "Pollination & Pollinators",
+        "phonetic": "/ˌpɒl.ɪˈneɪ.ʃən/",
+        "vietnamese": "Sự thụ phấn: Chuyển hạt phấn từ anther sang stigma nhờ côn trùng (ong, bướm) hoặc gió",
+        "definition": "Transfer of pollen grains from anther to stigma of a flower.",
+        "example": "Bees and butterflies are crucial pollinators attracted by colorful petals and nectar.",
+        "category": "Life Cycles",
+        "imageHint": "🐝"
       }
     ]
   },
   "exercises": [
     {
-      "id": "ex_science_w4_1",
-      "lesson": "Tuần 4",
+      "id": "ex_sci_w4_1",
+      "lesson": "Midterm Review",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 1 cho Tuần 4 (Science): Đâu là câu trả lời chính xác?",
+      "question": "Which male part of the flower produces yellow pollen grains?",
       "options": [
-        "Đáp án A (Chính xác)",
-        "Đáp án C",
-        "Đáp án D",
-        "Đáp án B"
+        "Petal",
+        "Ovary",
+        "Anther (part of stamen)",
+        "Sepal"
       ],
-      "correctIndex": 0,
-      "explanation": "Giải thích cho câu hỏi tuần 4.",
+      "correctIndex": 2,
+      "explanation": "Bao phấn (anther) thuộc nhị đực (stamen) là nơi tạo ra hạt phấn hoa.",
       "points": 100
     },
     {
-      "id": "ex_science_w4_2",
-      "lesson": "Tuần 4",
+      "id": "ex_sci_w4_2",
+      "lesson": "Midterm Review",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 2 cho Tuần 4 (Science): Hãy chọn phương án đúng.",
+      "question": "The sticky female top surface that catches incoming pollen grains is the ________.",
       "options": [
-        "Phương án 3",
-        "Phương án 2",
-        "Phương án 1 (Chính xác)",
-        "Phương án 4"
+        "filament",
+        "stigma",
+        "sepal",
+        "petal"
       ],
-      "correctIndex": 2,
-      "explanation": "Giải thích chi tiết phương án 1.",
+      "correctIndex": 1,
+      "explanation": "Đầu nhụy có chất dính để giữ hạt phấn là stigma.",
       "points": 100
     }
   ]

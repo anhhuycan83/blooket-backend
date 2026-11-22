@@ -13,8 +13,8 @@
           "icon": "school",
           "color": "#4F46E5",
           "accentColor": "#EEF2FF",
-          "description": "General English Unit 4, MOET & Flyers",
-          "totalWeeks": 9
+          "description": "General English Units 1–4.5 & Review Final Test 1",
+          "totalWeeks": 10
         },
         {
           "id": "math",
@@ -23,8 +23,8 @@
           "icon": "calculate",
           "color": "#059669",
           "accentColor": "#ECFDF5",
-          "description": "Cambridge Primary Mathematics: Fractions",
-          "totalWeeks": 9
+          "description": "Cambridge Primary Mathematics Stage 5 & Final Test 1",
+          "totalWeeks": 10
         },
         {
           "id": "science",
@@ -33,8 +33,8 @@
           "icon": "science",
           "color": "#D97706",
           "accentColor": "#FFFBEB",
-          "description": "Sound, Musical Instruments & Pitch",
-          "totalWeeks": 9
+          "description": "Cambridge Science: Plants, Sound, Matter & Final Test 1",
+          "totalWeeks": 10
         }
       ]
     },
@@ -55,5 +55,5 @@
       "subjects": []
     }
   ],
-  "lastUpdated": "2026-11-21T08:55:00Z"
+  "lastUpdated": "2026-11-22T08:00:00Z"
 }

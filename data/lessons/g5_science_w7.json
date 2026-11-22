@@ -4,62 +4,37 @@
   "subject": "science",
   "subjectName": "Khoa Học",
   "week": 7,
-  "title": "Tuần 7: Kiến thức & Ôn tập tuần 7",
-  "subTitle": "Ôn tập kiến thức trọng tâm tuần 7",
+  "title": "Unit 2: Volume and Pitch of Sound",
+  "subTitle": "Lesson 2.2, Decibel Measurements & Animal Hearing",
   "theory": {
-    "totalCards": 3,
+    "totalCards": 5,
     "cards": [
       {
-        "id": "th_science_w7_1",
-        "term": "Tuần 7 - Thẻ mẫu 1",
-        "phonetic": "[Preview]",
-        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 7",
-        "definition": "Core concept for Week 7.",
-        "example": "This is an example for Week 7.",
-        "category": "Tuần 7",
-        "imageHint": "📚"
-      },
-      {
-        "id": "th_science_w7_2",
-        "term": "Tuần 7 - Thẻ mẫu 2",
-        "phonetic": "[Preview]",
-        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 7",
-        "definition": "Grammar pattern for Week 7.",
-        "example": "Practice example for Week 7.",
-        "category": "Tuần 7",
-        "imageHint": "💡"
+        "id": "th_sci_w7_1",
+        "term": "Vibration Amplitude & Volume",
+        "phonetic": "[Acoustics]",
+        "vietnamese": "Biên độ rung lớn hơn -> Tạo âm lượng to hơn (Louder sound)",
+        "definition": "Bigger vibrations produce louder sounds; smaller vibrations produce quieter sounds.",
+        "example": "Hitting a drum harder creates larger vibrations and higher decibels.",
+        "category": "Sound Properties",
+        "imageHint": "🥁"
       }
     ]
   },
   "exercises": [
     {
-      "id": "ex_science_w7_1",
-      "lesson": "Tuần 7",
+      "id": "ex_sci_w7_1",
+      "lesson": "Lesson 2.2",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 1 cho Tuần 7 (Science): Đâu là câu trả lời chính xác?",
+      "question": "What happens when you hit a drum with much greater force?",
       "options": [
-        "Đáp án D",
-        "Đáp án C",
-        "Đáp án B",
-        "Đáp án A (Chính xác)"
+        "Vibrations get smaller and sound is quieter",
+        "Vibrations get bigger and sound is louder",
+        "The drum pitch changes to very low",
+        "No sound is created"
       ],
-      "correctIndex": 3,
-      "explanation": "Giải thích cho câu hỏi tuần 7.",
-      "points": 100
-    },
-    {
-      "id": "ex_science_w7_2",
-      "lesson": "Tuần 7",
-      "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 2 cho Tuần 7 (Science): Hãy chọn phương án đúng.",
-      "options": [
-        "Phương án 3",
-        "Phương án 2",
-        "Phương án 4",
-        "Phương án 1 (Chính xác)"
-      ],
-      "correctIndex": 3,
-      "explanation": "Giải thích chi tiết phương án 1.",
+      "correctIndex": 1,
+      "explanation": "Tác dụng lực mạnh hơn tạo ra dao động lớn hơn, do đó âm lượng phát ra to hơn (louder sound).",
       "points": 100
     }
   ]

@@ -1,0 +1,896 @@
+{
+  "id": "g5_english_w10",
+  "grade": 5,
+  "subject": "english",
+  "subjectName": "Anh Văn",
+  "week": 10,
+  "title": "REVIEW FINAL TEST 1 - TỔNG ÔN HỌC KÌ 1 TOÀN DIỆN",
+  "subTitle": "Cambridge Global English Units 3–4.5, Irregular Verbs, Modals, Passive & Blooket Master Set",
+  "theory": {
+    "totalCards": 32,
+    "cards": [
+      {
+        "id": "th_ft1_en_1",
+        "term": "V3 of build, buy, bring",
+        "phonetic": "/bɪlt/ - /bɔːt/ - /brɔːt/",
+        "vietnamese": "Dạng V3: built (xây dựng) | bought (mua) | brought (mang lại)",
+        "definition": "Past participle forms used in passive voice (is/are + V3).",
+        "example": "Eco-houses are built with local stone. Food was bought at the market.",
+        "category": "Irregular Verbs (V3)",
+        "imageHint": "🏗️"
+      },
+      {
+        "id": "th_ft1_en_2",
+        "term": "V3 of grind, grow, freeze",
+        "phonetic": "/ɡraʊnd/ - /ɡroʊn/ - /ˈfroʊ.zən/",
+        "vietnamese": "Dạng V3: ground (xay nhuyễn) | grown (trồng) | frozen (đông đá)",
+        "definition": "Cacao beans are ground into paste. Vegetables are grown organically.",
+        "example": "Water is frozen to make ice cubes.",
+        "category": "Irregular Verbs (V3)",
+        "imageHint": "🌱"
+      },
+      {
+        "id": "th_ft1_en_3",
+        "term": "V3 of eat, drink, leave, sell",
+        "phonetic": "/ˈiː.tən/ - /drʌŋk/ - /left/ - /soʊld/",
+        "vietnamese": "Dạng V3: eaten (ăn) | drunk (uống) | left (để lại/ủ men) | sold (bán)",
+        "definition": "Beans are left under leaves to ferment. Chocolate is sold worldwide.",
+        "example": "All the delicious apples were eaten by the children.",
+        "category": "Irregular Verbs (V3)",
+        "imageHint": "🍫"
+      },
+      {
+        "id": "th_ft1_en_4",
+        "term": "V3 of make, cut, write, wear",
+        "phonetic": "/meɪd/ - /kʌt/ - /ˈrɪt.ən/ - /wɔːrn/",
+        "vietnamese": "Dạng V3: made (làm ra) | cut (cắt/chặt) | written (viết) | worn (mặc)",
+        "definition": "Pods are cut with machetes. Books are written in English.",
+        "example": "Paper is made from wood pulp.",
+        "category": "Irregular Verbs (V3)",
+        "imageHint": "✂️"
+      },
+      {
+        "id": "th_ft1_en_5",
+        "term": "apartment",
+        "phonetic": "/əˈpɑːrt.mənt/",
+        "vietnamese": "Căn hộ (chung cư nằm trên một tầng của toà nhà)",
+        "definition": "A home located on one floor of a large building shared with others.",
+        "example": "She lives in a modern apartment in the bustling city centre.",
+        "category": "Unit 3: Homes",
+        "imageHint": "🏢"
+      },
+      {
+        "id": "th_ft1_en_6",
+        "term": "detached house",
+        "phonetic": "/dɪˈtætʃt haʊs/",
+        "vietnamese": "Nhà biệt lập (không chung tường với nhà nào khác)",
+        "definition": "A standalone house that is not joined to any other building.",
+        "example": "They bought a detached house with a spacious front garden.",
+        "category": "Unit 3: Homes",
+        "imageHint": "🏡"
+      },
+      {
+        "id": "th_ft1_en_7",
+        "term": "bungalow",
+        "phonetic": "/ˈbʌŋ.ɡə.loʊ/",
+        "vietnamese": "Nhà một tầng (không có cầu thang bộ)",
+        "definition": "A house that has only one floor with no stairs inside.",
+        "example": "My grandparents prefer living in a cosy bungalow without stairs.",
+        "category": "Unit 3: Homes",
+        "imageHint": "🏠"
+      },
+      {
+        "id": "th_ft1_en_8",
+        "term": "stilt house",
+        "phonetic": "/stɪlt haʊs/",
+        "vietnamese": "Nhà sàn (dựng trên các cọc gỗ cao tránh ngập lụt/thú dữ)",
+        "definition": "A house built on tall wooden posts above water or land.",
+        "example": "People build stilt houses along the river to stay safe from floods.",
+        "category": "Unit 3: Homes",
+        "imageHint": "🏕️"
+      },
+      {
+        "id": "th_ft1_en_9",
+        "term": "yurt",
+        "phonetic": "/jʊərt/",
+        "vietnamese": "Lều tròn du mục (truyền thống ở Trung Á)",
+        "definition": "A round, portable tent home traditionally used by nomads in Central Asia.",
+        "example": "Nomads live in a traditional yurt on the wide grasslands.",
+        "category": "Unit 3: Homes",
+        "imageHint": "⛺"
+      },
+      {
+        "id": "th_ft1_en_10",
+        "term": "eco-house & green features",
+        "phonetic": "/ˈiː.koʊ haʊs/",
+        "vietnamese": "Nhà sinh thái (tiết kiệm năng lượng, pin mặt trời, bể thu nước mưa)",
+        "definition": "A home designed to protect nature using solar panels and rainwater tanks.",
+        "example": "Solar panels on the roof turn sunlight into clean electricity.",
+        "category": "Unit 3: Eco-Features",
+        "imageHint": "☀️"
+      },
+      {
+        "id": "th_ft1_en_11",
+        "term": "local materials & rubbish tip",
+        "phonetic": "/ˈloʊ.kəl məˈtɪə.ri.əlz/",
+        "vietnamese": "Vật liệu địa phương (đá, gỗ, bùn) & Bãi rác (nơi đổ phế thải)",
+        "definition": "Local materials are found nearby; a rubbish tip is where waste is dumped.",
+        "example": "They built the walls from local mud. Recycling keeps plastic out of the rubbish tip.",
+        "category": "Unit 3: Materials & Nature",
+        "imageHint": "🗑️"
+      },
+      {
+        "id": "th_ft1_en_12",
+        "term": "Infinitive of Purpose (to + V0)",
+        "phonetic": "[Grammar Rule]",
+        "vietnamese": "Chỉ mục đích hành động: để làm gì (to + V0) / để không làm gì (not to + V0)",
+        "definition": "Answers 'Why do we do an action?'. Formula: Action + to + base verb.",
+        "example": "Ravi closed the window to keep his room warm. She turns off lights not to waste energy.",
+        "category": "Unit 3 Grammar",
+        "imageHint": "🎯"
+      },
+      {
+        "id": "th_ft1_en_13",
+        "term": "Modals of Possibility: must / can't / might",
+        "phonetic": "[Grammar Rule]",
+        "vietnamese": "must (chắc chắn đúng 100%) | can't (chắc chắn không thể 100%) | might/could (có thể 50%)",
+        "definition": "Must = sure YES; Can't = sure NO; Might/Could = maybe/not sure.",
+        "example": "Look at the solar panels! It MUST be an eco-house. It has no doors, it CAN'T be a home!",
+        "category": "Unit 3 Grammar",
+        "imageHint": "🔍"
+      },
+      {
+        "id": "th_ft1_en_14",
+        "term": "Made of vs. Made from",
+        "phonetic": "[Grammar Rule]",
+        "vietnamese": "Made of (chất liệu giữ nguyên dạng) | Made from (chất liệu bị biến đổi qua chế biến)",
+        "definition": "Made of = material keeps physical state. Made from = chemical/factory change.",
+        "example": "The chair is made OF wood. Paper is made FROM wood pulp. Chocolate is made FROM cacao beans.",
+        "category": "Unit 3 Grammar",
+        "imageHint": "🪵"
+      },
+      {
+        "id": "th_ft1_en_15",
+        "term": "cacao pods & harvest",
+        "phonetic": "/kəˈkeɪ.oʊ pɒd/ - /ˈhɑːr.vɪst/",
+        "vietnamese": "Quả ca cao (chứa hạt) & Thu hoạch (cắt hái từ thân cây)",
+        "definition": "Large colourful pods growing on trunks. Farmers harvest them twice a year.",
+        "example": "Inside a cacao pod, there are 30 to 50 white beans surrounded by sweet pulp.",
+        "category": "Unit 4: Food Process",
+        "imageHint": "🍈"
+      },
+      {
+        "id": "th_ft1_en_16",
+        "term": "machete & ferment",
+        "phonetic": "/məˈʃet.i/ - /fərˈment/",
+        "vietnamese": "Dao rựa lớn (bổ vỏ quả) & Lên men (ủ dưới lá chuối 5 ngày)",
+        "definition": "Workers use sharp machetes. Beans ferment under banana leaves to build chocolate flavour.",
+        "example": "Farmers cut pods with machetes and ferment beans for five days.",
+        "category": "Unit 4: Food Process",
+        "imageHint": "🗡️"
+      },
+      {
+        "id": "th_ft1_en_17",
+        "term": "roast, grind & chocolate paste",
+        "phonetic": "/roʊst/ - /ɡraɪnd/ - /peɪst/",
+        "vietnamese": "Rang (lò nướng), xay nhuyễn thành hỗn hợp sệt (paste)",
+        "definition": "Roasted cacao beans are crushed and ground into a thick, smooth dark paste.",
+        "example": "Sugar and milk are mixed with the warm cacao paste to create chocolate bars.",
+        "category": "Unit 4: Food Process",
+        "imageHint": "🥣"
+      },
+      {
+        "id": "th_ft1_en_18",
+        "term": "cress & recycled pot",
+        "phonetic": "/kres/ - /ˌriːˈsaɪ.kəld pɒt/",
+        "vietnamese": "Cải xoong con (cress) & Chậu nhựa tái chế lót bông gòn ẩm",
+        "definition": "Fast-growing tiny green salad plant grown on wet cotton wool in a recycled pot.",
+        "example": "First rinse the pot, put wet cotton wool inside, and sprinkle cress seeds.",
+        "category": "Unit 4: Plants & Experiments",
+        "imageHint": "🌱"
+      },
+      {
+        "id": "th_ft1_en_19",
+        "term": "dough, yeast, tortillas",
+        "phonetic": "/doʊ/ - /jiːst/ - /tɔːrˈtiː.jə/",
+        "vietnamese": "Bột nhào (dough) | Men nở (yeast) | Bánh ngô mỏng nướng (tortillas)",
+        "definition": "Yeast creates gas bubbles in dough. Ancient Mayans made flat corn tortillas.",
+        "example": "Add yeast to flour to make bread rise. Tortillas are baked on a flat griddle.",
+        "category": "Unit 4: Cooking & History",
+        "imageHint": "🍞"
+      },
+      {
+        "id": "th_ft1_en_20",
+        "term": "crunchy, juicy, sour, spiky",
+        "phonetic": "/ˈkrʌn.tʃi/ - /ˈdʒuː.si/ - /saʊər/ - /ˈspaɪ.ki/",
+        "vietnamese": "Giòn rụm (crunchy) | Mọng nước (juicy) | Chua (sour) | Nhiều gai (spiky)",
+        "definition": "Adjectives describing texture, taste and appearance of food.",
+        "example": "Apples are crunchy, ripe watermelons are juicy, lemons are sour, and durians are spiky.",
+        "category": "Unit 4: Descriptive Adjectives",
+        "imageHint": "🍋"
+      },
+      {
+        "id": "th_ft1_en_21",
+        "term": "spacious, comfortable, ancient",
+        "phonetic": "/ˈspeɪ.ʃəs/ - /ˈkʌm.fər.tə.bəl/ - /ˈeɪn.ʃənt/",
+        "vietnamese": "Rộng rãi (spacious) | Tiện nghi thoải mái (comfortable) | Cổ kính/lâu đời (ancient)",
+        "definition": "Adjectives describing spaces and heritage buildings.",
+        "example": "The living room is very spacious. This ancient temple was built 2,000 years ago.",
+        "category": "Unit 3 & 4 Adjectives",
+        "imageHint": "🏛️"
+      },
+      {
+        "id": "th_ft1_en_22",
+        "term": "generous vs. selfish, enormous",
+        "phonetic": "/ˈdʒen.ər.əs/ - /ˈsel.fɪʃ/ - /ɪˈnɔːr.məs/",
+        "vietnamese": "Hào phóng, rộng lượng (generous) >< Ích kỷ (selfish) | Khổng lồ (enormous)",
+        "definition": "Generous people give freely. Enormous means extremely large.",
+        "example": "He is generous and shares his books. The blue whale is an enormous creature.",
+        "category": "Character & Size",
+        "imageHint": "🎁"
+      },
+      {
+        "id": "th_ft1_en_23",
+        "term": "Quantifiers: some, any",
+        "phonetic": "[Grammar Rule]",
+        "vietnamese": "Some: dùng trong câu khẳng định (+). Any: dùng trong câu phủ định (-) và nghi vấn (?)",
+        "definition": "Some for positive (+); Any for negative (-) and questions (?).",
+        "example": "(+) There is SOME milk. (-) There isn't ANY cheese. (?) Do you have ANY apples?",
+        "category": "Unit 4 Grammar: Quantifiers",
+        "imageHint": "⚖️"
+      },
+      {
+        "id": "th_ft1_en_24",
+        "term": "Quantifiers: many, much",
+        "phonetic": "[Grammar Rule]",
+        "vietnamese": "Many: đi với danh từ đếm được số nhiều. Much: đi với danh từ không đếm được",
+        "definition": "Both commonly used in negative (-) and question (?) sentences.",
+        "example": "Are there MANY tomatoes? / There isn't MUCH sugar left in the jar.",
+        "category": "Unit 4 Grammar: Quantifiers",
+        "imageHint": "🔢"
+      },
+      {
+        "id": "th_ft1_en_25",
+        "term": "Quantifiers: a few vs. a little",
+        "phonetic": "[Grammar Rule]",
+        "vietnamese": "A few: một vài (đếm được số nhiều). A little: một ít (không đếm được)",
+        "definition": "A few + countable plural; A little + uncountable.",
+        "example": "We have A FEW bananas for snack. Please add A LITTLE salt into the soup.",
+        "category": "Unit 4 Grammar: Quantifiers",
+        "imageHint": "🧂"
+      },
+      {
+        "id": "th_ft1_en_26",
+        "term": "Quantifiers: a lot of / plenty of",
+        "phonetic": "[Grammar Rule]",
+        "vietnamese": "A lot of / plenty of: rất nhiều, dồi dào (dùng được cho CẢ đếm được và không đếm được)",
+        "definition": "Used in positive sentences with both countable and uncountable nouns.",
+        "example": "We have PLENTY OF juice and A LOT OF fresh strawberries.",
+        "category": "Unit 4 Grammar: Quantifiers",
+        "imageHint": "🧺"
+      },
+      {
+        "id": "th_ft1_en_27",
+        "term": "Present Passive (is/are + V3) for Processes",
+        "phonetic": "[Grammar Rule]",
+        "vietnamese": "Câu bị động hiện tại mô tả quy trình: Số ít (is + V3) | Số nhiều (are + V3)",
+        "definition": "Subject + is / are + Past Participle (V3).",
+        "example": "Cacao beans ARE HARVESTED. The chocolate IS COOLED in moulds before packing.",
+        "category": "Unit 4 Grammar: Passive",
+        "imageHint": "⚙️"
+      },
+      {
+        "id": "th_ft1_en_28",
+        "term": "Connectives of Sequence",
+        "phonetic": "[Grammar Rule]",
+        "vietnamese": "Từ nối trình tự: Before... -> First -> Then / Next / After that -> Finally",
+        "definition": "Links process steps in order from start to finish.",
+        "example": "Before you begin, wash hands. First add flour. Then pour milk. Finally bake.",
+        "category": "Unit 4 Grammar: Sequence",
+        "imageHint": "⏱️"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_ft1_en_1",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "That big shoe-shaped house ________ be a real house! It's too strange.",
+      "options": [
+        "must",
+        "can't",
+        "could",
+        "might"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dùng 'can't' khi ta chắc chắn 100% điều gì đó là vô lý, không thể xảy ra (It's too strange).",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_2",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "The sky is completely blue and sunny without any clouds. It ________ rain today.",
+      "options": [
+        "must",
+        "can't",
+        "could",
+        "might"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trời trong xanh và nắng chói chang nên chắc chắn không thể mưa (can't rain).",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_3",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "The palace is enormous and made of marble! It ________ be very expensive.",
+      "options": [
+        "can't",
+        "must",
+        "might",
+        "could"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dựa vào chứng cứ rõ ràng (lâu đài cẩm thạch khổng lồ), ta chắc chắn 100% nó rất đắt đỏ (must be).",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_4",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "The building has an unusual shape. It ________ be a museum, but I am not completely sure.",
+      "options": [
+        "must",
+        "can't",
+        "could",
+        "shouldn't"
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi dự đoán khả năng 50% nhưng không chắc chắn (not completely sure), ta dùng 'could' hoặc 'might'.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_5",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "Ravi closed his bedroom window ________ keep his room warm during the cold night.",
+      "options": [
+        "for",
+        "to",
+        "so",
+        "with"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mệnh đề chỉ mục đích (Infinitive of Purpose): to + động từ nguyên mẫu (to keep his room warm).",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_6",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "Architects used recycled materials ________ the modern eco-friendly house.",
+      "options": [
+        "to build",
+        "for build",
+        "building",
+        "to building"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cấu trúc chỉ mục đích: 'to + base verb' (to build).",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_7",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "She unplugs her phone charger ________ waste electricity.",
+      "options": [
+        "to",
+        "not to",
+        "for not",
+        "to not"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chỉ mục đích phủ định: 'not to + base verb' (để không lãng phí điện).",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_8",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "I have ________ milk in the bottle, but I don't have ________ bananas for my breakfast.",
+      "options": [
+        "some / any",
+        "any / some",
+        "much / some",
+        "many / a few"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dùng 'some' cho câu khẳng định (+) và 'any' cho câu phủ định (-) (don't have any bananas).",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_9",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "There isn't ________ sugar left in the bowl to bake a sweet birthday cake.",
+      "options": [
+        "many",
+        "few",
+        "much",
+        "a few"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sugar là danh từ không đếm được, trong câu phủ định dùng 'much'.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_10",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "Are there ________ fresh red apples remaining in the kitchen basket?",
+      "options": [
+        "many",
+        "much",
+        "a little",
+        "any of"
+      ],
+      "correctIndex": 0,
+      "explanation": "Apples là danh từ đếm được số nhiều, trong câu hỏi dùng 'many'.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_11",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "We have ________ orange juice in the fridge for everyone at breakfast.",
+      "options": [
+        "plenty of",
+        "few",
+        "many",
+        "a few"
+      ],
+      "correctIndex": 0,
+      "explanation": "'plenty of' đi được với danh từ không đếm được mang nghĩa nhiều, dồi dào.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_12",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "Please add ________ salt to the soup before serving it to the guests.",
+      "options": [
+        "a few",
+        "a little",
+        "many",
+        "few"
+      ],
+      "correctIndex": 1,
+      "explanation": "Salt (muối) là danh từ không đếm được, dùng 'a little' (một ít).",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_13",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "We only have ________ tomatoes left in the fridge, so we cannot make a large pizza.",
+      "options": [
+        "much",
+        "a little",
+        "a few",
+        "any"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tomatoes là danh từ đếm được số nhiều, dùng 'a few' (chỉ còn vài quả).",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_14",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "With COUNTABLE nouns, which quantifiers do we use?",
+      "options": [
+        "much / little",
+        "many / a few",
+        "much / some",
+        "little / any"
+      ],
+      "correctIndex": 1,
+      "explanation": "Với danh từ đếm được số nhiều, ta dùng 'many' và 'a few'.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_15",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "With UNCOUNTABLE nouns, which quantifiers do we use?",
+      "options": [
+        "many / a few",
+        "few / any",
+        "much / a little",
+        "a lot / few"
+      ],
+      "correctIndex": 2,
+      "explanation": "Với danh từ không đếm được (nước, đường, sữa), ta dùng 'much' và 'a little'.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_16",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "With BOTH countable and uncountable nouns, we can use:",
+      "options": [
+        "a lot of / plenty of",
+        "many / few",
+        "much / little",
+        "much / a few"
+      ],
+      "correctIndex": 0,
+      "explanation": "'a lot of' và 'plenty of' dùng linh hoạt cho cả danh từ đếm được và không đếm được.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_17",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "Cacao beans ________ in big ovens to make smooth chocolate paste.",
+      "options": [
+        "are roasted",
+        "is roasted",
+        "roast",
+        "are roasting"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chủ ngữ 'Cacao beans' là danh từ số nhiều -> are + V3 (are roasted).",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_18",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "The warm chocolate mixture ________ into moulds to create the final bars.",
+      "options": [
+        "are poured",
+        "is poured",
+        "pours",
+        "is pouring"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chủ ngữ 'The warm chocolate mixture' là danh từ số ít/không đếm được -> is + V3 (is poured).",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_19",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "At the factory, the roasted beans ________ into a dark, smooth paste.",
+      "options": [
+        "are ground",
+        "is ground",
+        "are grinded",
+        "grind"
+      ],
+      "correctIndex": 0,
+      "explanation": "Động từ 'grind' có V3 là 'ground'. Chủ ngữ số nhiều dùng 'are ground'.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_20",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "A solid wooden dining table is ________ wood because the original material remains unchanged.",
+      "options": [
+        "made from",
+        "made of",
+        "made by",
+        "made in"
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi vật liệu giữ nguyên trạng thái ban đầu (gỗ vẫn là gỗ), dùng 'made of'.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_21",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "Writing paper is ________ wood pulp after undergoing an industrial factory process.",
+      "options": [
+        "made of",
+        "made from",
+        "made with",
+        "made by"
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi vật liệu bị biến đổi hoàn toàn qua quy trình chế biến, dùng 'made from'.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_22",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "Delicious chocolate bars are ________ cacao beans, milk, and sugar.",
+      "options": [
+        "made from",
+        "made of",
+        "made by",
+        "made withal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sô-cô-la được biến đổi từ hạt ca cao -> dùng 'made from'.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_23",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "Which home is a traditional round, portable tent used by nomads in Central Asia?",
+      "options": [
+        "Apartment",
+        "Stilt house",
+        "Yurt",
+        "Bungalow"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lều tròn truyền thống của dân du mục Trung Á gọi là Yurt.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_24",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "A home on one floor of a large building shared with other families is an ________.",
+      "options": [
+        "apartment",
+        "bungalow",
+        "detached house",
+        "yurt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Căn hộ trong tòa nhà chung cư là apartment.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_25",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "A house that is standalone and not joined to any other building is a ________ house.",
+      "options": [
+        "detached",
+        "terraced",
+        "stilt",
+        "semi-detached"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nhà biệt lập hoàn toàn gọi là detached house.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_26",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "Which house has only one floor with no stairs inside?",
+      "options": [
+        "Apartment",
+        "Bungalow",
+        "Stilt house",
+        "Houseboat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bungalow là kiểu nhà một tầng, không có cầu thang bên trong.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_27",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "A stilt house is built high above land or water on tall wooden ________.",
+      "options": [
+        "tanks",
+        "posts",
+        "machetes",
+        "panels"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nhà sàn được dựng trên các cột gỗ cao (wooden posts).",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_28",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "Clean energy devices placed on an eco-house roof to convert sunlight into power are ________.",
+      "options": [
+        "rainwater tanks",
+        "solar panels",
+        "rubbish tips",
+        "machetes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pin năng lượng mặt trời là solar panels.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_29",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "An eco-house collects and stores water from the roof in a large container called a ________.",
+      "options": [
+        "rainwater tank",
+        "rubbish tip",
+        "recycled pot",
+        "solar panel"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bể chứa nước mưa từ mái nhà gọi là rainwater tank.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_30",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "A designated place where unwanted rubbish and waste are dumped is a ________.",
+      "options": [
+        "rubbish tip",
+        "solar panel",
+        "basement",
+        "stilt house"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bãi rác tập trung là rubbish tip.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_31",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "What tool do tropical plantation workers use to cut down and chop open cacao pods?",
+      "options": [
+        "Scissors",
+        "Machetes",
+        "Spoons",
+        "Forks"
+      ],
+      "correctIndex": 1,
+      "explanation": "Công nhân dùng dao rựa lớn chuyên dụng gọi là machetes.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_32",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "What describes the taste of something that is not sweet and sometimes unpleasant, like black coffee?",
+      "options": [
+        "Sweet",
+        "Bitter",
+        "Juicy",
+        "Creamy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vị đắng không ngọt của cà phê đen hay socola nguyên chất là bitter.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_33",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "If someone is willing to give money, help, or time freely to others, they are ________.",
+      "options": [
+        "selfish",
+        "mean",
+        "generous",
+        "greedy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Người hào phóng, luôn sẵn lòng giúp đỡ và cho đi là generous.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_34",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "Which fruit adjective describes an apple that makes a loud, crisp sound when you bite into it?",
+      "options": [
+        "spiky",
+        "crunchy",
+        "sour",
+        "sticky"
+      ],
+      "correctIndex": 1,
+      "explanation": "Giòn rụm phát ra tiếng kêu khi cắn là crunchy.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_35",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "Durian and jackfruit have sharp, pointed skins, so they look ________.",
+      "options": [
+        "smooth",
+        "spiky",
+        "juicy",
+        "creamy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vỏ ngoài nhiều gai nhọn là spiky.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_36",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "What is the V3 (Past Participle) form of the irregular verb 'freeze'?",
+      "options": [
+        "froze",
+        "frozen",
+        "freezed",
+        "freezing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bảng động từ bất quy tắc: freeze -> froze -> frozen.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_37",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "What is the V3 (Past Participle) form of the irregular verb 'sell'?",
+      "options": [
+        "sold",
+        "selled",
+        "sale",
+        "selling"
+      ],
+      "correctIndex": 0,
+      "explanation": "Động từ bất quy tắc: sell -> sold -> sold.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_38",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "Ancient Mayans made flat corn cakes called ________ from maize dough.",
+      "options": [
+        "tortillas",
+        "omelettes",
+        "cress",
+        "pastes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bánh ngô nướng dẹp truyền thống của người Maya là tortillas.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_39",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "What connective shows the first step in a process recipe?",
+      "options": [
+        "Finally",
+        "First",
+        "After that",
+        "Then"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bước đầu tiên trong quy trình dùng 'First'.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_en_40",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "To grow cress at home, put tiny seeds on top of wet ________ inside a cup.",
+      "options": [
+        "flour",
+        "cotton wool",
+        "machete",
+        "yeast"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trồng cress trong cốc dùng bông gòn ẩm (wet cotton wool).",
+      "points": 100
+    }
+  ]
+}

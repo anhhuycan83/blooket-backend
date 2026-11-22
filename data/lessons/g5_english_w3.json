@@ -4,62 +4,122 @@
   "subject": "english",
   "subjectName": "Anh Văn",
   "week": 3,
-  "title": "Tuần 3: Kiến thức & Ôn tập tuần 3",
-  "subTitle": "Ôn tập kiến thức trọng tâm tuần 3",
+  "title": "Unit 2: Earth and Beyond",
+  "subTitle": "Lessons 2.6 - 2.7, Space Exploration & Revision",
   "theory": {
-    "totalCards": 3,
+    "totalCards": 8,
     "cards": [
       {
-        "id": "th_english_w3_1",
-        "term": "Tuần 3 - Thẻ mẫu 1",
-        "phonetic": "[Preview]",
-        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 3",
-        "definition": "Core concept for Week 3.",
-        "example": "This is an example for Week 3.",
-        "category": "Tuần 3",
-        "imageHint": "📚"
+        "id": "th_en_w3_1",
+        "term": "space shuttle",
+        "phonetic": "/ˈspeɪs ˌʃʌt.əl/",
+        "vietnamese": "Tàu con thoi (tàu vũ trụ có thể tái sử dụng)",
+        "definition": "A spacecraft designed to make repeated journeys between Earth and space.",
+        "example": "The astronauts flew into orbit aboard the space shuttle.",
+        "category": "Space Exploration",
+        "imageHint": "🚀"
       },
       {
-        "id": "th_english_w3_2",
-        "term": "Tuần 3 - Thẻ mẫu 2",
-        "phonetic": "[Preview]",
-        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 3",
-        "definition": "Grammar pattern for Week 3.",
-        "example": "Practice example for Week 3.",
-        "category": "Tuần 3",
-        "imageHint": "💡"
+        "id": "th_en_w3_2",
+        "term": "rover",
+        "phonetic": "/ˈroʊ.vər/",
+        "vietnamese": "Xe tự hành khám phá bề mặt hành tinh",
+        "definition": "A vehicle used for exploring the surface of an extraterrestrial body.",
+        "example": "The Curiosity rover landed on Mars to collect rock samples.",
+        "category": "Space Exploration",
+        "imageHint": "🚙"
+      },
+      {
+        "id": "th_en_w3_3",
+        "term": "telescope",
+        "phonetic": "/ˈtel.ɪ.skoʊp/",
+        "vietnamese": "Kính thiên văn (dùng quan sát các thiên thể ở xa)",
+        "definition": "An optical instrument designed to make distant objects appear nearer.",
+        "example": "Look through the telescope to see the craters on the moon.",
+        "category": "Space Exploration",
+        "imageHint": "🔭"
+      },
+      {
+        "id": "th_en_w3_4",
+        "term": "constellation",
+        "phonetic": "/ˌkɒn.stəˈleɪ.ʃən/",
+        "vietnamese": "Chòm sao (nhóm sao tạo thành hình vẽ trên bầu trời)",
+        "definition": "A group of stars forming a recognizable pattern.",
+        "example": "The Big Dipper is a well-known constellation in the northern sky.",
+        "category": "Space Exploration",
+        "imageHint": "✨"
+      },
+      {
+        "id": "th_en_w3_5",
+        "term": "crater",
+        "phonetic": "/ˈkreɪ.tər/",
+        "vietnamese": "Miệng hố (trên bề mặt mặt trăng hoặc do thiên thạch va chạm)",
+        "definition": "A large, bowl-shaped cavity in the ground or on a planet or the moon.",
+        "example": "The moon has thousands of craters made by meteorite impacts.",
+        "category": "Space Exploration",
+        "imageHint": "🌕"
       }
     ]
   },
   "exercises": [
     {
-      "id": "ex_english_w3_1",
-      "lesson": "Tuần 3",
+      "id": "ex_en_w3_1",
+      "lesson": "Lesson 2.6",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 1 cho Tuần 3 (English): Đâu là câu trả lời chính xác?",
+      "question": "A vehicle designed to drive across the surface of Mars or the Moon is called a ________.",
       "options": [
-        "Đáp án B",
-        "Đáp án D",
-        "Đáp án A (Chính xác)",
-        "Đáp án C"
+        "space shuttle",
+        "rover",
+        "telescope",
+        "constellation"
       ],
-      "correctIndex": 2,
-      "explanation": "Giải thích cho câu hỏi tuần 3.",
+      "correctIndex": 1,
+      "explanation": "Xe tự hành di chuyển trên bề mặt hành tinh là rover.",
       "points": 100
     },
     {
-      "id": "ex_english_w3_2",
-      "lesson": "Tuần 3",
+      "id": "ex_en_w3_2",
+      "lesson": "Lesson 2.6",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 2 cho Tuần 3 (English): Hãy chọn phương án đúng.",
+      "question": "Astronomers use a ________ to observe distant planets and bright stars clearly.",
       "options": [
-        "Phương án 4",
-        "Phương án 1 (Chính xác)",
-        "Phương án 2",
-        "Phương án 3"
+        "telescope",
+        "microscope",
+        "machete",
+        "thermometer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kính thiên văn dùng để ngắm các hành tinh từ xa là telescope.",
+      "points": 100
+    },
+    {
+      "id": "ex_en_w3_3",
+      "lesson": "Lesson 2.7",
+      "type": "multiple_choice",
+      "question": "A recognizable pattern of stars in the night sky is called a ________.",
+      "options": [
+        "crater",
+        "constellation",
+        "satellite",
+        "orbit"
       ],
       "correctIndex": 1,
-      "explanation": "Giải thích chi tiết phương án 1.",
+      "explanation": "Chòm sao tạo thành hình trên bầu trời là constellation.",
+      "points": 100
+    },
+    {
+      "id": "ex_en_w3_4",
+      "lesson": "Lesson 2.7",
+      "type": "multiple_choice",
+      "question": "The spacecraft that took astronauts into orbit and returned like a glider is a ________.",
+      "options": [
+        "space shuttle",
+        "rover",
+        "bungalow",
+        "hot air balloon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tàu con thoi là space shuttle.",
       "points": 100
     }
   ]

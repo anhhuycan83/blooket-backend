@@ -1,0 +1,341 @@
+{
+  "id": "g5_science_w10",
+  "grade": 5,
+  "subject": "science",
+  "subjectName": "Khoa Học",
+  "week": 10,
+  "title": "REVIEW FINAL TEST 1 - TỔNG ÔN KHOA HỌC HỌC KÌ 1",
+  "subTitle": "Units 2 & 3: Sound & Pitch, Matter & Particles, Atmosphere & Properties of Water",
+  "theory": {
+    "totalCards": 24,
+    "cards": [
+      {
+        "id": "th_ft1_sci_1",
+        "term": "Sound & Vibrations",
+        "phonetic": "/vaɪˈbreɪ.ʃənz/",
+        "vietnamese": "Âm thanh được tạo ra bởi sự rung động (vibrations)",
+        "definition": "Sound is produced when an object vibrates back and forth rapidly.",
+        "example": "Plucking a guitar string makes it vibrate and produce sound waves.",
+        "category": "Unit 2: Sound",
+        "imageHint": "🔊"
+      },
+      {
+        "id": "th_ft1_sci_2",
+        "term": "Volume vs. Pitch",
+        "phonetic": "/ˈvɒl.juːm/ vs /pɪtʃ/",
+        "vietnamese": "Âm lượng (to hay nhỏ, tính bằng dB) vs Cao độ (trầm hay bổng)",
+        "definition": "Volume = loudness (dB); Pitch = how high or low a musical sound is.",
+        "example": "A whisper is quiet (20 dB); a bird chirp is high-pitched, thunder is low-pitched.",
+        "category": "Unit 2: Sound",
+        "imageHint": "📊"
+      },
+      {
+        "id": "th_ft1_sci_3",
+        "term": "Decibel Scale & Ear Safety",
+        "phonetic": "/ˈdes.ɪ.bel/",
+        "vietnamese": "Đơn vị Decibel (dB) & Ngưỡng nguy hiểm cho tai (>85 dB)",
+        "definition": "Unit: Decibels (dB). Sounds above 85 dB cause permanent hearing damage.",
+        "example": "Conversation ≈ 60 dB, Lawnmower ≈ 100 dB, Aeroplane takeoff ≈ 120 dB.",
+        "category": "Unit 2: Sound",
+        "imageHint": "🎧"
+      },
+      {
+        "id": "th_ft1_sci_4",
+        "term": "The Golden Pitch Rules",
+        "phonetic": "[Science Rule]",
+        "vietnamese": "Vật ngắn hơn, mỏng hơn, căng hơn -> Rung nhanh hơn -> Cao độ cao hơn (Higher pitch)",
+        "definition": "Shorter, thinner, tighter = FASTER vibrations = HIGHER pitch.",
+        "example": "Longer, thicker, looser = SLOWER vibrations = LOWER pitch.",
+        "category": "Unit 2: Sound",
+        "imageHint": "🎸"
+      },
+      {
+        "id": "th_ft1_sci_5",
+        "term": "Sound Muffling & Silencers",
+        "phonetic": "/ˈmʌf.əl/",
+        "vietnamese": "Giảm thanh, tiêu âm (muffle): vật liệu mềm, xốp (len, xốp, mút) hấp thụ rung động",
+        "definition": "Soft and porous materials absorb vibrations and make sounds quieter.",
+        "example": "Car engines use silencers. Blankets and wool muffle the ticking of a clock.",
+        "category": "Unit 2: Sound",
+        "imageHint": "🔇"
+      },
+      {
+        "id": "th_ft1_sci_6",
+        "term": "Electronic Sound Amplification",
+        "phonetic": "/ˌæm.plɪ.fɪˈkeɪ.ʃən/",
+        "vietnamese": "Microphone (thu sóng âm) -> Amplifier (khuếch đại) -> Loudspeaker (phát âm to)",
+        "definition": "Microphone catches sound -> Amplifier boosts electrical signal -> Loudspeaker emits sound.",
+        "example": "Singers use a microphone and amplifier in a large auditorium.",
+        "category": "Unit 2: Sound",
+        "imageHint": "📢"
+      },
+      {
+        "id": "th_ft1_sci_7",
+        "term": "Solid, Liquid, Gas Particle Model",
+        "phonetic": "[Matter Model]",
+        "vietnamese": "Chất rắn (khít, rung tại chỗ) | Chất lỏng (trượt qua nhau) | Khí (xa nhau, bay nhanh)",
+        "definition": "Solids have fixed shapes. Liquids take container shape. Gases compress easily.",
+        "example": "Gas particles are far apart with empty spaces and can be compressed.",
+        "category": "Unit 3: Matter",
+        "imageHint": "⚛️"
+      },
+      {
+        "id": "th_ft1_sci_8",
+        "term": "Earth's Atmosphere",
+        "phonetic": "/ˈæt.məs.fɪər/",
+        "vietnamese": "Khí quyển Trái Đất: 80% (4/5) khí Nitơ + 21% (1/5) khí Oxy",
+        "definition": "Layer of gas around Earth: ~80% Nitrogen, ~21% Oxygen, tiny CO2 and water vapour.",
+        "example": "We inhale oxygen from the atmosphere for cellular respiration.",
+        "category": "Unit 3: Matter",
+        "imageHint": "🌍"
+      },
+      {
+        "id": "th_ft1_sci_9",
+        "term": "Melting Point & Boiling Point",
+        "phonetic": "[Key Temperatures]",
+        "vietnamese": "Điểm nóng chảy băng đá: 0°C | Điểm sôi của nước nguyên chất: 100°C",
+        "definition": "Melting: Solid -> Liquid (0°C). Boiling: Liquid -> Gas / Steam (100°C).",
+        "example": "When water boils at 100°C, it forms bubbles of steam (water vapour).",
+        "category": "Unit 3: Water",
+        "imageHint": "🌡️"
+      },
+      {
+        "id": "th_ft1_sci_10",
+        "term": "Water Expansion Upon Freezing",
+        "phonetic": "[Special Property]",
+        "vietnamese": "Hiện tượng đặc biệt: Khi đóng băng, nước NỞ RA (expands) và trở nên nhẹ hơn",
+        "definition": "Most substances contract when cooled, but liquid water expands when freezing into ice.",
+        "example": "A glass bottle filled with water can crack in the freezer because ice expands.",
+        "category": "Unit 3: Water",
+        "imageHint": "🧊"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_ft1_sci_1",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "The phase change from a solid to a liquid is called ________.",
+      "options": [
+        "boiling",
+        "melting",
+        "condensation",
+        "freezing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự chuyển từ chất rắn sang chất lỏng gọi là melting (nóng chảy).",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_sci_2",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "When pure liquid water boils vigorously, it forms bubbles of a gas called ________.",
+      "options": [
+        "oxygen",
+        "nitrogen",
+        "steam",
+        "carbon dioxide"
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi nước sôi ở 100°C, các bọt khí tạo ra là hơi nước (steam / water vapour).",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_sci_3",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "What is the boiling point of pure water at normal atmospheric pressure?",
+      "options": [
+        "0°C",
+        "50°C",
+        "100°C",
+        "212°C"
+      ],
+      "correctIndex": 2,
+      "explanation": "Điểm sôi của nước nguyên chất là 100°C.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_sci_4",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "What is the melting point of ice (and freezing point of water)?",
+      "options": [
+        "0°C",
+        "10°C",
+        "-10°C",
+        "100°C"
+      ],
+      "correctIndex": 0,
+      "explanation": "Băng đá nóng chảy ở 0°C và nước đóng băng ở 0°C.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_sci_5",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "Which gas makes up approximately 80% (4/5) of Earth's atmosphere?",
+      "options": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Khí Nitơ chiếm khoảng 78–80% bầu khí quyển Trái Đất.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_sci_6",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "What gas makes up approximately 21% (1/5) of the atmosphere, essential for animals to breathe?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Helium",
+        "Steam"
+      ],
+      "correctIndex": 0,
+      "explanation": "Khí Oxy chiếm khoảng 21% khí quyển, cần thiết cho hô hấp.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_sci_7",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "What happens to the volume of water when it freezes into solid ice?",
+      "options": [
+        "It contracts and shrinks",
+        "It expands and gets bigger",
+        "It disappears",
+        "It remains exactly the same"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hiện tượng dị thường của nước: khi đóng băng, các phân tử sắp xếp tạo khoang rỗng làm thể tích nở ra (expands).",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_sci_8",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "What unit is used to measure sound volume (loudness)?",
+      "options": [
+        "Degrees Celsius (°C)",
+        "Decibels (dB)",
+        "Kilograms (kg)",
+        "Millilitres (ml)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Âm lượng âm thanh được đo bằng đơn vị Decibel (dB).",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_sci_9",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "Prolonged exposure to sounds above what level can cause permanent hearing damage?",
+      "options": [
+        "30 dB",
+        "60 dB",
+        "85 dB",
+        "50 dB"
+      ],
+      "correctIndex": 2,
+      "explanation": "Âm thanh trên 85 dB có nguy cơ gây tổn thương vĩnh viễn màng nhĩ và thính giác.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_sci_10",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "According to the Golden Pitch Rule, tightening a guitar string makes it vibrate ________, producing a ________ pitch.",
+      "options": [
+        "slower / lower",
+        "faster / higher",
+        "slower / higher",
+        "faster / lower"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dây đàn càng căng (tighter) thì rung càng nhanh (faster), tạo ra âm càng cao/bổng (higher pitch).",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_sci_11",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "Which materials are best suited to muffle (deaden) sound vibrations effectively?",
+      "options": [
+        "Hard metal and glass",
+        "Soft, porous materials like wool and foam",
+        "Shiny smooth plastic",
+        "Ceramic tiles"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vật liệu mềm, xốp (soft and porous) như len, mút xốp hấp thụ rung động âm thanh tốt nhất.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_sci_12",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "In an electronic sound system, which device catches sound waves and converts them into electrical signals?",
+      "options": [
+        "Loudspeaker",
+        "Microphone",
+        "Amplifier",
+        "Silencer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Microphone là thiết bị thu nhận sóng âm thanh.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_sci_13",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "Which state of matter has particles that are very far apart and can be EASILY compressed?",
+      "options": [
+        "Solid",
+        "Liquid",
+        "Gas",
+        "Ice"
+      ],
+      "correctIndex": 2,
+      "explanation": "Các hạt chất khí (gas) nằm rất xa nhau, chuyển động tự do hỗn loạn nên dễ dàng bị nén lại.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_sci_14",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "When blowing across two glass bottles, Bottle A has 80% water and Bottle B has 20% water. Which bottle produces a HIGHER pitch?",
+      "options": [
+        "Bottle A (shorter air column)",
+        "Bottle B (longer air column)",
+        "Both produce the same pitch",
+        "Neither produces sound"
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi thổi hơi vào miệng chai, cột không khí dao động. Chai A nhiều nước -> cột không khí ngắn hơn -> rung nhanh hơn -> cao độ cao hơn.",
+      "points": 100
+    },
+    {
+      "id": "ex_ft1_sci_15",
+      "lesson": "Review Final Test 1",
+      "type": "multiple_choice",
+      "question": "Which instrument uses a column of vibrating air to produce sound?",
+      "options": [
+        "Guitar",
+        "Violin",
+        "Flute (Wind instrument)",
+        "Drum"
+      ],
+      "correctIndex": 2,
+      "explanation": "Flute (sáo) là nhạc cụ bộ hơi (wind instrument), tạo âm thanh từ dao động của luồng không khí.",
+      "points": 100
+    }
+  ]
+}

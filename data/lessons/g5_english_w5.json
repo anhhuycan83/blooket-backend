@@ -4,62 +4,62 @@
   "subject": "english",
   "subjectName": "Anh Văn",
   "week": 5,
-  "title": "Tuần 5: Kiến thức & Ôn tập tuần 5",
-  "subTitle": "Ôn tập kiến thức trọng tâm tuần 5",
+  "title": "REVIEW MIDTERM 1 (PART 2) - LUYỆN ĐỀ GIỮA KÌ 1",
+  "subTitle": "Comparative Adjectives, Connectors (both, too, but), Blooket Midterm Challenge",
   "theory": {
-    "totalCards": 3,
+    "totalCards": 6,
     "cards": [
       {
-        "id": "th_english_w5_1",
-        "term": "Tuần 5 - Thẻ mẫu 1",
-        "phonetic": "[Preview]",
-        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 5",
-        "definition": "Core concept for Week 5.",
-        "example": "This is an example for Week 5.",
-        "category": "Tuần 5",
-        "imageHint": "📚"
+        "id": "th_en_w5_1",
+        "term": "Comparative Adjectives",
+        "phonetic": "[Grammar Rule]",
+        "vietnamese": "So sánh hơn: Tính từ ngắn (adj + -er than) | Tính từ dài (more + adj than)",
+        "definition": "Comparing two items. Irregular: good -> better than, bad -> worse than.",
+        "example": "The desert is drier than the forest. This exam is more difficult than the last one.",
+        "category": "Comparisons",
+        "imageHint": "⚖️"
       },
       {
-        "id": "th_english_w5_2",
-        "term": "Tuần 5 - Thẻ mẫu 2",
-        "phonetic": "[Preview]",
-        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 5",
-        "definition": "Grammar pattern for Week 5.",
-        "example": "Practice example for Week 5.",
-        "category": "Tuần 5",
-        "imageHint": "💡"
+        "id": "th_en_w5_2",
+        "term": "Connectors: Both, Too, But",
+        "phonetic": "[Grammar Rule]",
+        "vietnamese": "Both (cả hai) | Too (cũng vậy, đứng cuối câu) | But (nhưng, chỉ sự tương phản)",
+        "definition": "Both and too show similarity; but shows difference or contrast.",
+        "example": "We both study hard. He likes music, and I like music too. I called, but he didn't answer.",
+        "category": "Connectors",
+        "imageHint": "🔗"
       }
     ]
   },
   "exercises": [
     {
-      "id": "ex_english_w5_1",
-      "lesson": "Tuần 5",
+      "id": "ex_en_w5_1",
+      "lesson": "Midterm Practice Paper",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 1 cho Tuần 5 (English): Đâu là câu trả lời chính xác?",
+      "question": "Mount Everest is ________ than any other mountain on Earth.",
       "options": [
-        "Đáp án A (Chính xác)",
-        "Đáp án B",
-        "Đáp án D",
-        "Đáp án C"
+        "higher",
+        "more high",
+        "highest",
+        "as high"
       ],
       "correctIndex": 0,
-      "explanation": "Giải thích cho câu hỏi tuần 5.",
+      "explanation": "High là tính từ ngắn 1 âm tiết, dạng so sánh hơn là higher than.",
       "points": 100
     },
     {
-      "id": "ex_english_w5_2",
-      "lesson": "Tuần 5",
+      "id": "ex_en_w5_2",
+      "lesson": "Midterm Practice Paper",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 2 cho Tuần 5 (English): Hãy chọn phương án đúng.",
+      "question": "My father loves drinking tea, and my mother likes tea, ________.",
       "options": [
-        "Phương án 2",
-        "Phương án 4",
-        "Phương án 3",
-        "Phương án 1 (Chính xác)"
+        "both",
+        "too",
+        "but",
+        "so"
       ],
-      "correctIndex": 3,
-      "explanation": "Giải thích chi tiết phương án 1.",
+      "correctIndex": 1,
+      "explanation": "Từ 'too' (cũng vậy) đứng ở cuối câu khẳng định.",
       "points": 100
     }
   ]

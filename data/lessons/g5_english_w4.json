@@ -4,62 +4,112 @@
   "subject": "english",
   "subjectName": "Anh Văn",
   "week": 4,
-  "title": "Tuần 4: Kiến thức & Ôn tập tuần 4",
-  "subTitle": "Ôn tập kiến thức trọng tâm tuần 4",
+  "title": "REVIEW MIDTERM 1 (PART 1) - TỔNG ÔN GIỮA KÌ 1",
+  "subTitle": "Our Community, Adverbs of Frequency, Verb Patterns (like -ing vs want to)",
   "theory": {
-    "totalCards": 3,
+    "totalCards": 8,
     "cards": [
       {
-        "id": "th_english_w4_1",
-        "term": "Tuần 4 - Thẻ mẫu 1",
-        "phonetic": "[Preview]",
-        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 4",
-        "definition": "Core concept for Week 4.",
-        "example": "This is an example for Week 4.",
-        "category": "Tuần 4",
-        "imageHint": "📚"
+        "id": "th_en_w4_1",
+        "term": "caretaker & headmistress",
+        "phonetic": "/ˈkeəˌteɪ.kər/ - /ˌhedˈmɪs.trəs/",
+        "vietnamese": "Người coi sóc trường học (bảo vệ/lao công) & Nữ hiệu trưởng",
+        "definition": "Caretaker looks after a building. Headmistress is a female school principal.",
+        "example": "Our caretaker opens the gate. The headmistress speaks in assembly.",
+        "category": "Our Community",
+        "imageHint": "🏫"
       },
       {
-        "id": "th_english_w4_2",
-        "term": "Tuần 4 - Thẻ mẫu 2",
-        "phonetic": "[Preview]",
-        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 4",
-        "definition": "Grammar pattern for Week 4.",
-        "example": "Practice example for Week 4.",
-        "category": "Tuần 4",
-        "imageHint": "💡"
+        "id": "th_en_w4_2",
+        "term": "keen on & be into",
+        "phonetic": "[Phrasal Expressions]",
+        "vietnamese": "Rất yêu thích / đam mê (đi với V-ing)",
+        "definition": "Keen on + V-ing / Be into + V-ing means to like an activity very much.",
+        "example": "My brother is keen on playing chess. I am into swimming.",
+        "category": "Feelings & Hobbies",
+        "imageHint": "❤️"
+      },
+      {
+        "id": "th_en_w4_3",
+        "term": "Verb + -ing vs. Verb + to-V",
+        "phonetic": "[Grammar Rule]",
+        "vietnamese": "Like/love/enjoy + V-ing (sở thích) | Want/hope/plan + to-V (dự định, mong muốn)",
+        "definition": "Verbs of like/dislike take -ing. Verbs of intention/hope take to-infinitive.",
+        "example": "Evie enjoys playing tennis. We want to go to the cinema tonight.",
+        "category": "Verb Patterns",
+        "imageHint": "📌"
+      },
+      {
+        "id": "th_en_w4_4",
+        "term": "Adverbs of Frequency Position",
+        "phonetic": "[Grammar Rule]",
+        "vietnamese": "Đứng TRƯỚC động từ thường, đứng SAU động từ To Be",
+        "definition": "Always, usually, often, sometimes, hardly ever, never.",
+        "example": "He ALWAYS rides his bike. She is NEVER late for school.",
+        "category": "Adverbs of Frequency",
+        "imageHint": "⏰"
       }
     ]
   },
   "exercises": [
     {
-      "id": "ex_english_w4_1",
-      "lesson": "Tuần 4",
+      "id": "ex_en_w4_1",
+      "lesson": "Midterm Review",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 1 cho Tuần 4 (English): Đâu là câu trả lời chính xác?",
+      "question": "My younger brother hopes ________ the school football championship this year.",
       "options": [
-        "Đáp án B",
-        "Đáp án D",
-        "Đáp án C",
-        "Đáp án A (Chính xác)"
+        "win",
+        "to win",
+        "winning",
+        "won"
       ],
-      "correctIndex": 3,
-      "explanation": "Giải thích cho câu hỏi tuần 4.",
+      "correctIndex": 1,
+      "explanation": "Động từ 'hope' đi với to-infinitive (hopes to win).",
       "points": 100
     },
     {
-      "id": "ex_english_w4_2",
-      "lesson": "Tuần 4",
+      "id": "ex_en_w4_2",
+      "lesson": "Midterm Review",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 2 cho Tuần 4 (English): Hãy chọn phương án đúng.",
+      "question": "Sarah is very keen on ________ piano melodies in the evening.",
       "options": [
-        "Phương án 4",
-        "Phương án 2",
-        "Phương án 1 (Chính xác)",
-        "Phương án 3"
+        "play",
+        "to play",
+        "playing",
+        "played"
       ],
       "correctIndex": 2,
-      "explanation": "Giải thích chi tiết phương án 1.",
+      "explanation": "Cụm 'keen on' (thích thú) đi với V-ing (playing).",
+      "points": 100
+    },
+    {
+      "id": "ex_en_w4_3",
+      "lesson": "Midterm Review",
+      "type": "multiple_choice",
+      "question": "Choose the sentence with the CORRECT word order:",
+      "options": [
+        "Our teacher rides always his bicycle to school.",
+        "Our teacher always rides his bicycle to school.",
+        "Our teacher rides his bicycle always to school.",
+        "Always our teacher rides his bicycle to school."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trạng từ chỉ tần suất 'always' đứng ngay trước động từ thường 'rides'.",
+      "points": 100
+    },
+    {
+      "id": "ex_en_w4_4",
+      "lesson": "Midterm Review",
+      "type": "multiple_choice",
+      "question": "The person who cleans and takes care of the school grounds is the ________.",
+      "options": [
+        "astronaut",
+        "caretaker",
+        "nomad",
+        "librarian"
+      ],
+      "correctIndex": 1,
+      "explanation": "Người bảo vệ, coi sóc khuôn viên trường học là caretaker.",
       "points": 100
     }
   ]

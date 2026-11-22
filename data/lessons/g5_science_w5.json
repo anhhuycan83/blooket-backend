@@ -4,62 +4,52 @@
   "subject": "science",
   "subjectName": "Khoa Học",
   "week": 5,
-  "title": "Tuần 5: Kiến thức & Ôn tập tuần 5",
-  "subTitle": "Ôn tập kiến thức trọng tâm tuần 5",
+  "title": "REVIEW MIDTERM 1 (PART 2) - ĐỀ THI THỬ GIỮA KÌ",
+  "subTitle": "Fertilisation, Fruit Formation & Seed Dispersal Methods",
   "theory": {
-    "totalCards": 3,
+    "totalCards": 5,
     "cards": [
       {
-        "id": "th_science_w5_1",
-        "term": "Tuần 5 - Thẻ mẫu 1",
-        "phonetic": "[Preview]",
-        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 5",
-        "definition": "Core concept for Week 5.",
-        "example": "This is an example for Week 5.",
-        "category": "Tuần 5",
-        "imageHint": "📚"
-      },
-      {
-        "id": "th_science_w5_2",
-        "term": "Tuần 5 - Thẻ mẫu 2",
-        "phonetic": "[Preview]",
-        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 5",
-        "definition": "Grammar pattern for Week 5.",
-        "example": "Practice example for Week 5.",
-        "category": "Tuần 5",
-        "imageHint": "💡"
+        "id": "th_sci_w5_1",
+        "term": "Fertilisation & Seed Dispersal",
+        "phonetic": "[Life Cycle]",
+        "vietnamese": "Thụ tinh: Phấn + Noãn trong bầu nhụy tạo hạt -> Bầu nhụy phát triển thành quả",
+        "definition": "Pollen joins egg in ovary to make seeds. Seeds are dispersed by wind, water, animals, or explosion.",
+        "example": "Dandelions disperse by wind; coconuts by water; berries by animals.",
+        "category": "Life Cycles",
+        "imageHint": "🌱"
       }
     ]
   },
   "exercises": [
     {
-      "id": "ex_science_w5_1",
-      "lesson": "Tuần 5",
+      "id": "ex_sci_w5_1",
+      "lesson": "Midterm Practice",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 1 cho Tuần 5 (Science): Đâu là câu trả lời chính xác?",
+      "question": "After fertilisation, which part of the flower swells and develops into a fruit containing seeds?",
       "options": [
-        "Đáp án A (Chính xác)",
-        "Đáp án C",
-        "Đáp án D",
-        "Đáp án B"
+        "The petal",
+        "The sepal",
+        "The ovary",
+        "The anther"
       ],
-      "correctIndex": 0,
-      "explanation": "Giải thích cho câu hỏi tuần 5.",
+      "correctIndex": 2,
+      "explanation": "Sau khi thụ tinh, bầu nhụy (ovary) phát triển phình to thành quả bảo vệ hạt.",
       "points": 100
     },
     {
-      "id": "ex_science_w5_2",
-      "lesson": "Tuần 5",
+      "id": "ex_sci_w5_2",
+      "lesson": "Midterm Practice",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 2 cho Tuần 5 (Science): Hãy chọn phương án đúng.",
+      "question": "Dandelion seeds have light, parachute-like hairs. How are they dispersed?",
       "options": [
-        "Phương án 3",
-        "Phương án 1 (Chính xác)",
-        "Phương án 2",
-        "Phương án 4"
+        "By water",
+        "By wind",
+        "By explosive pods",
+        "By birds"
       ],
       "correctIndex": 1,
-      "explanation": "Giải thích chi tiết phương án 1.",
+      "explanation": "Hạt bồ công anh có túm lông nhẹ như chiếc dù, phát tán nhờ gió (by wind).",
       "points": 100
     }
   ]

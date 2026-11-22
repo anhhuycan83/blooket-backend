@@ -4,62 +4,37 @@
   "subject": "science",
   "subjectName": "Khoa Học",
   "week": 3,
-  "title": "Tuần 3: Kiến thức & Ôn tập tuần 3",
-  "subTitle": "Ôn tập kiến thức trọng tâm tuần 3",
+  "title": "Unit 1: Plant Reproduction & Flowers",
+  "subTitle": "Flowering vs Non-Flowering Plants & Seed Formation",
   "theory": {
-    "totalCards": 3,
+    "totalCards": 4,
     "cards": [
       {
-        "id": "th_science_w3_1",
-        "term": "Tuần 3 - Thẻ mẫu 1",
-        "phonetic": "[Preview]",
-        "vietnamese": "Nội dung ôn tập từ vựng & kiến thức trọng tâm tuần 3",
-        "definition": "Core concept for Week 3.",
-        "example": "This is an example for Week 3.",
-        "category": "Tuần 3",
-        "imageHint": "📚"
-      },
-      {
-        "id": "th_science_w3_2",
-        "term": "Tuần 3 - Thẻ mẫu 2",
-        "phonetic": "[Preview]",
-        "vietnamese": "Ngữ pháp và quy tắc mẫu của tuần 3",
-        "definition": "Grammar pattern for Week 3.",
-        "example": "Practice example for Week 3.",
-        "category": "Tuần 3",
-        "imageHint": "💡"
+        "id": "th_sci_w3_1",
+        "term": "Flowering vs Non-Flowering",
+        "phonetic": "[Plant Classification]",
+        "vietnamese": "Cây có hoa (sinh sản bằng hạt) vs Cây không hoa (dương xỉ, rêu: sinh sản bằng bào tử)",
+        "definition": "Flowering plants produce seeds inside flowers/fruits. Non-flowering plants make spores.",
+        "example": "Ferns and mosses produce tiny spores on the underside of leaves.",
+        "category": "Life Cycles",
+        "imageHint": "🌸"
       }
     ]
   },
   "exercises": [
     {
-      "id": "ex_science_w3_1",
-      "lesson": "Tuần 3",
+      "id": "ex_sci_w3_1",
+      "lesson": "Unit 1",
       "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 1 cho Tuần 3 (Science): Đâu là câu trả lời chính xác?",
+      "question": "How do non-flowering plants such as ferns reproduce?",
       "options": [
-        "Đáp án C",
-        "Đáp án D",
-        "Đáp án B",
-        "Đáp án A (Chính xác)"
+        "Using colorful flowers",
+        "Using spores",
+        "Using large fruits",
+        "Using honey"
       ],
-      "correctIndex": 3,
-      "explanation": "Giải thích cho câu hỏi tuần 3.",
-      "points": 100
-    },
-    {
-      "id": "ex_science_w3_2",
-      "lesson": "Tuần 3",
-      "type": "multiple_choice",
-      "question": "Câu hỏi ôn tập số 2 cho Tuần 3 (Science): Hãy chọn phương án đúng.",
-      "options": [
-        "Phương án 1 (Chính xác)",
-        "Phương án 2",
-        "Phương án 4",
-        "Phương án 3"
-      ],
-      "correctIndex": 0,
-      "explanation": "Giải thích chi tiết phương án 1.",
+      "correctIndex": 1,
+      "explanation": "Cây không có hoa như dương xỉ sinh sản bằng các tế bào bào tử (spores).",
       "points": 100
     }
   ]
