@@ -40,14 +40,28 @@ jobs:
         run: |
           ssh -T sa@${{ secrets.SSH_HOST }} << 'EOF'
             set -e
-            echo "=== [1/3] Pulling latest changes ==="
+            echo "=== [1/4] Pulling latest changes ==="
             cd /sd/stacks/blooket/backend
+            PREV_REV=$(git rev-parse HEAD)
             git pull origin main
+            NEW_REV=$(git rev-parse HEAD)
 
-            echo "=== [2/3] Restarting container ==="
-            docker restart blooket-api
+            echo "=== [2/4] Updating container ==="
+            if git diff --name-only "$PREV_REV" "$NEW_REV" | grep -qE '^(src/|package\.json|tsconfig\.json|Dockerfile)'; then
+              echo "Code changes detected -> rebuilding blooket-api container..."
+              if docker compose version >/dev/null 2>&1; then
+                docker compose up -d --no-deps --build blooket-api
+              elif command -v docker-compose >/dev/null 2>&1; then
+                docker-compose up -d --no-deps --build blooket-api
+              else
+                docker restart blooket-api
+              fi
+            else
+              echo "Data-only changes -> restarting blooket-api..."
+              docker restart blooket-api
+            fi
 
-            echo "=== [3/3] Verifying health ==="
+            echo "=== [3/4] Verifying health ==="
             for i in $(seq 1 15); do
               if curl -s http://127.0.0.1:3015/api/v1/health | grep -q "ok"; then
                 echo "Backend is healthy and running!"

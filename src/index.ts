@@ -7,14 +7,48 @@ const app = express();
 const port = process.env.PORT || 3000;
 const dataDir = process.env.DATA_DIR || path.join(__dirname, '../data');
 
+function getPackageVersion(): string {
+  try {
+    const pkgPath = path.join(__dirname, '../package.json');
+    if (fs.existsSync(pkgPath)) {
+      const pkg = JSON.parse(fs.readFileSync(pkgPath, 'utf-8'));
+      return pkg.version || '1.0.0';
+    }
+  } catch {
+    // ignore
+  }
+  return '1.0.0';
+}
+
+function getCurriculumMeta(): { backendVersion: string; lastUpdated?: string } {
+  const pkgVer = getPackageVersion();
+  try {
+    const treePath = path.join(dataDir, 'curriculum_tree.json');
+    if (fs.existsSync(treePath)) {
+      const tree = JSON.parse(fs.readFileSync(treePath, 'utf-8'));
+      return {
+        backendVersion: tree.backendVersion || pkgVer,
+        lastUpdated: tree.lastUpdated,
+      };
+    }
+  } catch {
+    // ignore
+  }
+  return { backendVersion: pkgVer };
+}
+
 // Enable CORS for public frontend requests (Web, Android, iOS)
 app.use(cors());
 app.use(express.json());
 
 // Health check endpoint
 app.get('/api/v1/health', (_req: Request, res: Response) => {
+  const meta = getCurriculumMeta();
   res.json({
     status: 'ok',
+    version: getPackageVersion(),
+    backendVersion: meta.backendVersion,
+    lastUpdated: meta.lastUpdated || null,
     timestamp: new Date().toISOString(),
     service: 'Blooket Curriculum Backend API',
   });
@@ -27,6 +61,9 @@ app.get('/api/v1/curriculum/tree', (_req: Request, res: Response) => {
     return res.status(404).json({ error: 'Curriculum tree not found' });
   }
   const content = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+  if (!content.backendVersion) {
+    content.backendVersion = getPackageVersion();
+  }
   return res.json(content);
 });
 

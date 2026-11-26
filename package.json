@@ -1,6 +1,6 @@
 {
   "name": "blooket-curriculum-backend",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Backend API providing Flag Cards JSON data for Blooket Learning App",
   "main": "dist/index.js",
   "scripts": {

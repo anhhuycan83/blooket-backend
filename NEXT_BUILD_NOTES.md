@@ -1,48 +1,30 @@
 # NEXT BUILD NOTES — BLOOKET ÔN LUYỆN
 
-Tài liệu này lưu các dự định, cải tiến và lưu ý kỹ thuật để **AI ở các session sau** và **lần build Frontend kế tiếp (v1.0.7+)** đọc lại và thực hiện tiếp, không bị mất ngữ cảnh.
+Tài liệu này lưu các dự định, nhánh đang chờ merge và lưu ý kỹ thuật để **AI ở các session sau** và **lần build Frontend kế tiếp (v1.0.7)** đọc lại và thực hiện tiếp.
 
 ---
 
-## 1. Phạm vi & Trạng thái hiện tại (Cập nhật: 2026-11-26)
-* **Phiên bản Frontend đang chạy:** `1.0.6+6` (Web live & Android Closed Testing 14 ngày).
-* **iOS / TestFlight:** **TẠM HOÃN / CHƯA TRIỂN KHAI.** Chủ dự án chưa có dự định làm iOS vào thời điểm hiện tại. Không tạo workflow, không cấu hình Fastlane/Xcode iOS trừ khi được yêu cầu rõ ràng.
-* **Backend Server-Driven UI (`backend/data/`):**
-  * Đã có **51 file bài học JSON** (Lớp 5: `english`, `math`, `science`, `geography`, `science_vn`; TOEIC `grade: 0`: `ets_2026_lc`, `ets_2026_rc`, `ets_2026_all`).
-  * Mới bổ sung 2 môn Lớp 5 từ `d:\baby\lop5\`:
-    * `geography` (**Địa Lý** — 6 tuần W1–W6, 39 thẻ, 70 câu hỏi).
-    * `science_vn` (**Khoa Học 5 (HK1)** — 6 tuần W1–W6, 41 thẻ, 78 câu hỏi).
+## 1. Trạng thái hiện tại & Nhánh chờ Release (Cập nhật: 2026-11-26)
+* **Frontend đang live trên `main`:** `1.0.6+6` (Web live & Android Closed Testing 14 ngày).
+* **Backend đang live (`blooket-backend/main`):** **`v1.1.0`**
+  * Endpoint `/api/v1/curriculum/tree` trả về trường `"backendVersion"` (và `/api/v1/health` trả về `"version"` + `"backendVersion"`).
+  * **Quy ước bắt buộc cho Backend:** Mỗi lần cập nhật nội dung hoặc code trong `backend/`, phải tăng `"backendVersion"` trong `backend/data/curriculum_tree.json` (và `"version"` trong `backend/package.json` nếu sửa code `src/`).
+* **Nhánh Frontend đã code sẵn, ĐANG CHỜ MERGE (`blooket-app`):**
+  * Tên nhánh: **`fix/appbar-and-backend-version`** (đã push lên remote `origin`, **CHƯA merge vào `main`** để tránh trigger CI build Web & APK/Google Play sớm).
+  * Nội dung đã hoàn thành trên nhánh `fix/appbar-and-backend-version`:
+    1. Fix lỗi AppBar mobile (`lib/ui/screens/subjects_screen.dart`): không còn bị 2 badge `🚩 Cờ` và `🔥` đè lên chữ tiêu đề & chip version.
+    2. Hiển thị Backend Version độc lập (`BE v...`) từ `/api/v1/curriculum/tree` ở Footer `SubjectsScreen` và hộp thoại `About` trong `SettingsScreen`.
+    3. Thêm `RefreshIndicator` (kéo xuống làm mới) ở `SubjectsScreen`.
+* **iOS / TestFlight:** **TẠM HOÃN / CHƯA TRIỂN KHAI.** Không tạo workflow hoặc cấu hình iOS trừ khi được yêu cầu.
 
 ---
 
-## 2. Danh sách việc cần làm cho lần build Frontend kế tiếp (v1.0.7+)
-
-1. **Hỗ trợ giọng đọc Tiếng Việt (`vi-VN`) trong `TtsService`:**
-   * File: `frontend/lib/services/tts_service.dart`
-   * Hiện trạng: `TtsService` đang cố định `await _flutterTts.setLanguage('en-US')`. Với các môn tiếng Việt (`geography`, `science_vn`), khi bấm loa hoặc tự động đọc thẻ, giọng `en-US` đọc chữ tiếng Việt bị lơ lớ.
-   * Kế hoạch: Truyền ngôn ngữ hoặc tự phát hiện tiếng Việt có dấu / dựa theo `subject` (`geography`, `science_vn` -> `vi-VN`, còn lại -> `en-US`), kèm tùy chọn bật/tắt tự đọc khi vào thẻ nếu cần.
-
-2. **Sửa điều hướng nhanh & text cứng trong `WeeksScreen`:**
-   * File: `frontend/lib/ui/screens/weeks_screen.dart`
-   * Hiện trạng:
-     * Dòng ~126 đang hiển thị chữ tĩnh `'Tuần 9: Dữ liệu bài mẫu đầy đủ 🎯'`.
-     * Dòng ~280 nút Next (`->`) ở `NavigationBottomBar` đang trỏ cứng `week: 9`. Với các môn có 4 tuần (TOEIC) hoặc 6 tuần (Địa Lý, Khoa Học 5 HK1), bấm nút `->` sẽ ra màn hình chưa có dữ liệu.
-   * Kế hoạch: Đổi sang tự động lấy tuần cuối cùng hoặc tuần có `isHighlighted == true` trong `widget.subject.weeks` (fallback về `weeks.last.weekNumber`), và hiển thị badge/text động theo môn học.
-
-3. **Mở rộng bộ Icon môn học trong `SubjectsScreen`:**
-   * File: `frontend/lib/ui/screens/subjects_screen.dart` (`_getIconData`)
-   * Hiện trạng: Mới hỗ trợ 3 icon (`school`, `calculate`, `science`). Hiện Địa Lý đang dùng tạm `school`.
-   * Kế hoạch: Thêm `public` / `explore` (`Icons.public_rounded`) cho Địa Lý, `headphones` (`Icons.headphones_rounded`) cho TOEIC Listening, `menu_book` cho Reading, v.v. *(Lưu ý: chỉ cập nhật `curriculum_tree.json` dùng icon mới **sau khi** bản app mới đã phát hành cho đa số người dùng).*
-
-4. **Đồng bộ dữ liệu Offline Fallback (`frontend/assets/data/`):**
-   * Copy toàn bộ `backend/data/curriculum_tree.json` và `backend/data/lessons/*.json` sang `frontend/assets/data/` trước khi build `v1.0.7` để người dùng khi mất mạng vẫn có đủ môn mới (`geography`, `science_vn`, `ets_2026_*`).
-
-5. **Cập nhật Version & Release Notes khi phát hành v1.0.7:**
-   * Tăng `version:` trong `frontend/pubspec.yaml`.
-   * Cập nhật `frontend/lib/services/release_notes_data.dart` và `RELEASE_NOTES.md` (cả 2 repo).
-
----
-
-## 3. Lưu ý CI/CD GitHub Actions
-* **Backend (`backend/.github/workflows/deploy.yml`):** Chỉ chạy khi push lên `main` có thay đổi trong `src/**`, `data/**`, `package.json`, `tsconfig.json`, `Dockerfile`, `docker-compose.yaml`.
-* **Frontend Web & Android (`frontend/.github/workflows/`):** Chạy trên mọi push `main` (không lọc `paths`). Chỉ push `frontend/` khi thực sự muốn build Web & APK mới.
+## 2. Danh sách việc cần làm khi Release Frontend v1.0.7
+1. Kiểm tra & sử dụng nhánh `fix/appbar-and-backend-version` làm nền (hoặc merge trước vào nhánh release).
+2. Bổ sung các mục còn lại:
+   * **TTS tiếng Việt (`vi-VN`)** trong `frontend/lib/services/tts_service.dart` cho `geography`, `science_vn`.
+   * **Sửa điều hướng Next (`->`) & text cứng `Tuần 9`** trong `frontend/lib/ui/screens/weeks_screen.dart`.
+   * **Mở rộng bộ Icon** trong `frontend/lib/ui/screens/subjects_screen.dart` (`public`, `headphones`, `menu_book`).
+   * **Đồng bộ `frontend/assets/data/`** từ `backend/data/`.
+3. Tăng version `pubspec.yaml` (`1.0.7+7`), cập nhật `release_notes_data.dart` và `RELEASE_NOTES.md`.
+4. Merge vào `main` và push (tạo tag `v1.0.7` nếu đẩy Google Play).
