@@ -4,6 +4,17 @@ Tất cả các thay đổi, tính năng mới và các bản sửa lỗi (bug f
 
 ---
 
+## 🚀 [v1.0.8] - 2026-11-27 (Build 8)
+### ✨ Tính năng mới & Cải tiến:
+* **Chuẩn hóa thông tin Version Backend:**
+  * Đảm bảo hiển thị chính xác phiên bản `Data (Backend): v1.1.0` ở cả chế độ online và offline fallback.
+  * Đồng bộ đầy đủ 52 bài học và 2 môn mới (Địa Lý, Khoa Học 5 HK1) vào gói tài nguyên cục bộ `assets/data/`.
+
+### 🐛 Sửa lỗi (Bug Fixes):
+* Khắc phục triệt để lỗi hiển thị `vOffline` trong hộp thoại About khi ứng dụng tải dữ liệu dự phòng.
+
+---
+
 ## 🚀 [v1.0.7] - 2026-11-26 (Build 7)
 ### ✨ Tính năng mới & Cải tiến:
 * **Tách biệt & Hiển thị Version Backend độc lập:**
