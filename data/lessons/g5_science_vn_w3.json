@@ -1,0 +1,256 @@
+{
+  "id": "g5_science_vn_w3",
+  "grade": 5,
+  "subject": "science_vn",
+  "subjectName": "Khoa Học (TV)",
+  "week": 3,
+  "title": "Bài 3: Năng lượng Chất đốt",
+  "subTitle": "Phân loại chất đốt, công dụng, an toàn phòng cháy & tiết kiệm năng lượng",
+  "theory": {
+    "totalCards": 6,
+    "cards": [
+      {
+        "id": "th_scivn_w3_1",
+        "term": "3 thể chất đốt thường dùng",
+        "phonetic": "[Câu 1 - Bài 3]",
+        "vietnamese": "Rắn: than, củi, rơm rạ | Lỏng: xăng, dầu | Khí: khí ga, khí sinh học (biogas)",
+        "definition": "Chất đốt khi cháy sẽ tỏa ra nhiệt lượng và ánh sáng để phục vụ sinh hoạt và sản xuất.",
+        "example": "Bếp ga dùng chất đốt thể khí; xe máy dùng xăng (thể lỏng); bếp củi dùng chất đốt thể rắn.",
+        "category": "Bài 3: Năng lượng chất đốt",
+        "imageHint": "🔥"
+      },
+      {
+        "id": "th_scivn_w3_2",
+        "term": "Công dụng năng lượng chất đốt",
+        "phonetic": "[Câu 2 - Bài 3]",
+        "vietnamese": "Dùng để đun nấu, sưởi ấm, chạy máy móc, xe cộ và sản xuất điện",
+        "definition": "Năng lượng chất đốt là nguồn năng lượng quan trọng trong đời sống hàng ngày và công nghiệp.",
+        "example": "Nhà máy nhiệt điện đốt than hoặc khí để làm quay tua-bin phát ra điện.",
+        "category": "Bài 3: Năng lượng chất đốt",
+        "imageHint": "⚡"
+      },
+      {
+        "id": "th_scivn_w3_3",
+        "term": "Xử lý khi ngửi thấy mùi ga nồng",
+        "phonetic": "[Câu 3 - Bài 3]",
+        "vietnamese": "KHÔNG bật lửa, KHÔNG bật/tắt công tắc điện; khóa van bình ga, mở cửa thoáng khí, ra khỏi bếp và báo người lớn",
+        "definition": "Tia lửa từ bật lửa hoặc công tắc điện có thể gây nổ khi gặp khí ga rò rỉ trong phòng.",
+        "example": "Tuyệt đối không bấm chuông điện, bật đèn hay quẹt diêm khi phòng bếp có mùi khí ga!",
+        "category": "Bài 3: Năng lượng chất đốt",
+        "imageHint": "🚨"
+      },
+      {
+        "id": "th_scivn_w3_4",
+        "term": "An toàn sử dụng chất đốt (P1)",
+        "phonetic": "[Câu 4 - Bài 3]",
+        "vietnamese": "Tắt bếp ngay khi không dùng; thường xuyên kiểm tra van, ống dẫn ga; không để vật dễ cháy gần bếp",
+        "definition": "Phòng ngừa cháy nổ từ bếp đun là nguyên tắc an toàn hàng đầu trong mỗi gia đình.",
+        "example": "Không đặt giấy, giẻ lau, bình xịt hay chai dầu ăn ngay sát ngọn lửa bếp đang đun.",
+        "category": "Bài 3: Năng lượng chất đốt",
+        "imageHint": "🧯"
+      },
+      {
+        "id": "th_scivn_w3_5",
+        "term": "An toàn sử dụng chất đốt (P2)",
+        "phonetic": "[Câu 4 - Bài 3]",
+        "vietnamese": "Trang bị bình chữa cháy; không để bếp đang cháy mà không có người trông coi; không đốt than trong phòng kín",
+        "definition": "Đốt than trong phòng kín sinh ra khí độc gây ngạt thở rất nguy hiểm đến tính mạng.",
+        "example": "Luôn mở thông thoáng cửa nếu sử dụng bếp sưởi và khóa van ga sau khi nấu nướng.",
+        "category": "Bài 3: Năng lượng chất đốt",
+        "imageHint": "🛡️"
+      },
+      {
+        "id": "th_scivn_w3_6",
+        "term": "Tiết kiệm chất đốt khi đun nước",
+        "phonetic": "[Câu 5 - Bài 3]",
+        "vietnamese": "Đậy nắp khi đun nước để giữ nhiệt; mở nắp làm nhiệt thoát ra ngoài, nước lâu sôi, gây lãng phí chất đốt",
+        "definition": "Các biện pháp tránh thất thoát nhiệt giúp nấu chín nhanh và tiết kiệm ga, than, củi.",
+        "example": "Mẹ đậy vung nồi khi đun canh hoặc đun nước sôi để giữ nhiệt và tiết kiệm ga.",
+        "category": "Bài 3: Năng lượng chất đốt",
+        "imageHint": "🫕"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_scivn_w3_1",
+      "lesson": "Bài 3: Năng lượng chất đốt",
+      "type": "multiple_choice",
+      "question": "Nhóm chất đốt nào sau đây đều thuộc THỂ RẮN?",
+      "options": [
+        "Than, củi, rơm rạ",
+        "Xăng, dầu, cồn lỏng",
+        "Khí ga, khí sinh học (biogas)",
+        "Xăng, than, khí ga"
+      ],
+      "correctIndex": 0,
+      "explanation": "Than, củi, rơm rạ là các chất đốt thể rắn; xăng, dầu là thể lỏng; khí ga, biogas là thể khí.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w3_2",
+      "lesson": "Bài 3: Năng lượng chất đốt",
+      "type": "multiple_choice",
+      "question": "Xăng và dầu thuộc nhóm chất đốt ở thể nào?",
+      "options": [
+        "Thể rắn",
+        "Thể lỏng",
+        "Thể khí",
+        "Thể hơi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Xăng và dầu là các chất đốt ở thể lỏng.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w3_3",
+      "lesson": "Bài 3: Năng lượng chất đốt",
+      "type": "multiple_choice",
+      "question": "Khí ga và khí sinh học (biogas) thuộc nhóm chất đốt ở thể nào?",
+      "options": [
+        "Thể rắn",
+        "Thể lỏng",
+        "Thể khí",
+        "Thể dẻo"
+      ],
+      "correctIndex": 2,
+      "explanation": "Khí ga và biogas là chất đốt ở thể khí.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w3_4",
+      "lesson": "Bài 3: Năng lượng chất đốt",
+      "type": "multiple_choice",
+      "question": "Năng lượng chất đốt được con người sử dụng để làm những việc gì?",
+      "options": [
+        "Chỉ dùng để đun nước uống",
+        "Đun nấu, sưởi ấm, chạy máy móc, xe cộ và sản xuất điện",
+        "Chỉ dùng để làm phân bón cho cây",
+        "Thay thế hoàn toàn nguồn nước ngọt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chất đốt được dùng để đun nấu, sưởi ấm, chạy động cơ xe cộ, máy móc và sản xuất điện ở nhà máy nhiệt điện.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w3_5",
+      "lesson": "Bài 3: Năng lượng chất đốt",
+      "type": "multiple_choice",
+      "question": "Đang ở nhà, nếu em ngửi thấy mùi ga rất nồng trong bếp, việc ĐẦU TIÊN em TUYỆT ĐỐI KHÔNG được làm là gì?",
+      "options": [
+        "Mở cửa cho thoáng khí",
+        "Bật lửa hoặc bật/tắt công tắc điện",
+        "Ra khỏi bếp và báo ngay cho người lớn",
+        "Khóa van bình ga nếu có thể"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tia lửa từ bật lửa hoặc công tắc điện rất dễ kích nổ đám khí ga bị rò rỉ trong bếp.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w3_6",
+      "lesson": "Bài 3: Năng lượng chất đốt",
+      "type": "multiple_choice",
+      "question": "Quy trình xử lý ĐÚNG khi phát hiện mùi ga nồng trong bếp là gì?",
+      "options": [
+        "Bật đèn sáng lên để kiểm tra xem ống ga bị thủng chỗ nào",
+        "Không bật lửa hay bật/tắt công tắc điện; khóa van bình ga (nếu được), mở cửa thoáng khí, ra ngoài báo người lớn",
+        "Đóng kín tất cả các cửa để mùi ga không bay ra ngoài",
+        "Bật quạt điện công suất lớn ở ngay cạnh bình ga"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cần tránh phát sinh tia lửa điện/lửa trần, khóa van, mở thoáng cửa và rời khỏi bếp báo người lớn ngay.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w3_7",
+      "lesson": "Bài 3: Năng lượng chất đốt",
+      "type": "multiple_choice",
+      "question": "Vì sao không được đốt than để sưởi ấm trong phòng đóng kín cửa?",
+      "options": [
+        "Vì than không cháy được trong phòng kín",
+        "Vì đốt than trong phòng kín sinh ra khí độc gây ngạt thở, rất nguy hiểm cho tính mạng",
+        "Vì làm tường nhà bị ướt",
+        "Vì phòng kín làm nước sôi nhanh hơn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đốt than trong phòng kín tiêu thụ oxy và sinh ra khí CO rất độc gây ngạt, có thể dẫn đến tử vong.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w3_8",
+      "lesson": "Bài 3: Năng lượng chất đốt",
+      "type": "multiple_choice",
+      "question": "Việc nào sau đây KHÔNG an toàn khi sử dụng chất đốt trong gia đình?",
+      "options": [
+        "Tắt bếp ngay khi không sử dụng",
+        "Thường xuyên kiểm tra van và ống dẫn ga",
+        "Để khăn giấy, chai cồn hoặc vật dễ cháy ngay cạnh bếp đang đun",
+        "Trang bị bình chữa cháy trong nhà"
+      ],
+      "correctIndex": 2,
+      "explanation": "Không bao giờ để các vật dễ cháy gần bếp đang đun vì rất dễ bắt lửa gây hỏa hoạn.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w3_9",
+      "lesson": "Bài 3: Năng lượng chất đốt",
+      "type": "multiple_choice",
+      "question": "Khi đang đun nấu trên bếp ga, có việc bận cần đi ra ngoài lâu, ta cần làm gì?",
+      "options": [
+        "Để lửa nhỏ lại rồi đi chơi",
+        "Tắt bếp ngay, không để bếp đang cháy mà không có người trông coi",
+        "Mở lửa to hơn cho nhanh chín rồi đi",
+        "Đóng kín cửa bếp lại"
+      ],
+      "correctIndex": 1,
+      "explanation": "Không để bếp đang cháy mà không có người trông coi; phải tắt bếp để đảm bảo an toàn cháy nổ.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w3_10",
+      "lesson": "Bài 3: Năng lượng chất đốt",
+      "type": "multiple_choice",
+      "question": "Vì sao khi đun nước, mẹ thường đậy nắp ấm/nồi để tránh lãng phí năng lượng chất đốt?",
+      "options": [
+        "Vì đậy nắp làm nước tự đổi màu",
+        "Vì khi mở nắp, nhiệt của nước thoát ra ngoài không khí làm thời gian đun sôi lâu hơn, tốn chất đốt hơn",
+        "Vì mở nắp làm nước đóng băng",
+        "Vì nắp nồi tạo ra thêm khí ga"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đậy nắp giữ nhiệt lượng bên trong nồi, giúp nước sôi nhanh hơn và tiết kiệm chất đốt.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w3_11",
+      "lesson": "Bài 3: Năng lượng chất đốt",
+      "type": "multiple_choice",
+      "question": "Thiết bị nào nên được trang bị sẵn trong gia đình để xử lý kịp thời sự cố cháy nhỏ?",
+      "options": [
+        "Bình chữa cháy",
+        "Bình xăng dự phòng",
+        "Thùng giấy các-tông",
+        "Bình ga cũ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trang bị bình chữa cháy giúp chủ động dập tắt đám cháy ngay khi mới phát sinh.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w3_12",
+      "lesson": "Bài 3: Năng lượng chất đốt",
+      "type": "multiple_choice",
+      "question": "Biogas (khí sinh học) thuộc loại chất đốt nào?",
+      "options": [
+        "Chất đốt thể khí",
+        "Chất đốt thể rắn",
+        "Chất đốt thể lỏng",
+        "Chất đốt kim loại"
+      ],
+      "correctIndex": 0,
+      "explanation": "Khí sinh học (biogas) là chất đốt thể khí, thường dùng để đun nấu sạch và tiết kiệm ở nông thôn.",
+      "points": 100
+    }
+  ]
+}

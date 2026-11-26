@@ -1,0 +1,226 @@
+{
+  "id": "g5_geography_w3",
+  "grade": 5,
+  "subject": "geography",
+  "subjectName": "Địa Lý",
+  "week": 3,
+  "title": "Chủ đề 3: Công nghiệp, Thủ công & Giao thông",
+  "subTitle": "Ngành công nghiệp trọng điểm, làng nghề truyền thống & mạng lưới giao thông",
+  "theory": {
+    "totalCards": 6,
+    "cards": [
+      {
+        "id": "th_geo_w3_1",
+        "term": "Các ngành công nghiệp chính",
+        "phonetic": "[Công nghiệp]",
+        "vietnamese": "Khai thác khoáng sản, chế biến thực phẩm, dệt may, cơ khí, điện tử...",
+        "definition": "Công nghiệp nước ta phát triển nhanh, tạo ra nhiều sản phẩm phục vụ đời sống và xuất khẩu.",
+        "example": "Chế biến thực phẩm, dệt may và lắp ráp điện tử là những ngành công nghiệp quan trọng.",
+        "category": "3. Công nghiệp & Giao thông",
+        "imageHint": "🏭"
+      },
+      {
+        "id": "th_geo_w3_2",
+        "term": "Phân bố công nghiệp",
+        "phonetic": "[Địa bàn tập trung]",
+        "vietnamese": "Công nghiệp tập trung nhiều ở đồng bằng và các thành phố lớn",
+        "definition": "Nơi đây có đông lao động, hạ tầng tốt, nguồn nguyên liệu và thị trường tiêu thụ lớn.",
+        "example": "Hà Nội, TP. Hồ Chí Minh, Hải Phòng, Bình Dương, Đồng Nai có nhiều khu công nghiệp lớn.",
+        "category": "3. Công nghiệp & Giao thông",
+        "imageHint": "🏗️"
+      },
+      {
+        "id": "th_geo_w3_3",
+        "term": "Gốm Bát Tràng & Lụa Vạn Phúc",
+        "phonetic": "[Làng nghề Hà Nội]",
+        "vietnamese": "Gốm Bát Tràng và Lụa Vạn Phúc (Hà Nội) là các nghề thủ công truyền thống nổi tiếng",
+        "definition": "Sản phẩm thủ công thể hiện sự khéo léo, tinh hoa văn hoá của người thợ Việt Nam.",
+        "example": "Gốm sứ Bát Tràng không chỉ được dùng trong nước mà còn xuất khẩu đi nhiều nước.",
+        "category": "3. Công nghiệp & Giao thông",
+        "imageHint": "🏺"
+      },
+      {
+        "id": "th_geo_w3_4",
+        "term": "Mây tre đan, chạm gỗ, nón lá",
+        "phonetic": "[Thủ công truyền thống]",
+        "vietnamese": "Nhiều làng nghề thủ công như mây tre đan, chạm khắc gỗ, làm nón lá tạo việc làm ở nông thôn",
+        "definition": "Nghề thủ công giúp giữ gìn bản sắc dân tộc và tăng thu nhập cho người dân địa phương.",
+        "example": "Nón lá Huế, mây tre đan Phú Vinh được du khách trong và ngoài nước yêu thích.",
+        "category": "3. Công nghiệp & Giao thông",
+        "imageHint": "🧺"
+      },
+      {
+        "id": "th_geo_w3_5",
+        "term": "4 loại hình giao thông vận tải",
+        "phonetic": "[Giao thông]",
+        "vietnamese": "Đường bộ, đường sắt, đường thuỷ và đường hàng không",
+        "definition": "Việt Nam phát triển đầy đủ cả 4 loại hình giao thông để phục vụ đi lại và vận chuyển hàng hoá.",
+        "example": "Quốc lộ 1A (đường bộ) và đường sắt Thống Nhất nối liền Bắc - Nam.",
+        "category": "3. Công nghiệp & Giao thông",
+        "imageHint": "🚄"
+      },
+      {
+        "id": "th_geo_w3_6",
+        "term": "Vai trò của giao thông",
+        "phonetic": "[Kết nối vùng miền]",
+        "vietnamese": "Nối liền các vùng miền trong nước, giao lưu quốc tế và thúc đẩy phát triển kinh tế",
+        "definition": "Giao thông thuận lợi giúp hàng hoá lưu thông nhanh chóng từ nơi sản xuất đến nơi tiêu thụ.",
+        "example": "Nhờ có đường bộ, đường hàng không và cảng biển, hàng hoá từ miền Nam nhanh chóng ra miền Bắc và xuất khẩu.",
+        "category": "3. Công nghiệp & Giao thông",
+        "imageHint": "✈️"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_geo_w3_1",
+      "lesson": "Công nghiệp & Giao thông",
+      "type": "multiple_choice",
+      "question": "Nhóm ngành nào sau đây thuộc về công nghiệp nước ta?",
+      "options": [
+        "Trồng lúa, trồng chè, nuôi bò",
+        "Khai thác khoáng sản, chế biến thực phẩm, dệt may, cơ khí",
+        "Đánh bắt cá biển và nuôi tôm",
+        "Trồng rừng ngập mặn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Khai thác khoáng sản, chế biến thực phẩm, dệt may, cơ khí là các ngành công nghiệp tiêu biểu.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w3_2",
+      "lesson": "Công nghiệp & Giao thông",
+      "type": "multiple_choice",
+      "question": "Các trung tâm công nghiệp của nước ta tập trung nhiều nhất ở đâu?",
+      "options": [
+        "Trên đỉnh các dãy núi cao",
+        "Ở vùng đồng bằng và các thành phố lớn",
+        "Ở những hòn đảo không có người ở",
+        "Ở vùng rừng rậm nguyên sinh"
+      ],
+      "correctIndex": 1,
+      "explanation": "Công nghiệp phát triển nhanh và tập trung nhiều ở vùng đồng bằng và các thành phố lớn.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w3_3",
+      "lesson": "Công nghiệp & Giao thông",
+      "type": "multiple_choice",
+      "question": "Làng nghề thủ công truyền thống nổi tiếng nào ở Hà Nội chuyên sản xuất gốm sứ?",
+      "options": [
+        "Làng gốm Bát Tràng",
+        "Làng lụa Vạn Phúc",
+        "Làng nón Tây Hồ",
+        "Làng mây tre đan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bát Tràng (Hà Nội) là làng nghề làm gốm truyền thống lâu đời và nổi tiếng của Việt Nam.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w3_4",
+      "lesson": "Công nghiệp & Giao thông",
+      "type": "multiple_choice",
+      "question": "Làng Vạn Phúc (Hà Nội) nổi tiếng với nghề thủ công truyền thống nào?",
+      "options": [
+        "Làm gốm sứ",
+        "Dệt lụa",
+        "Đóng tàu gỗ",
+        "Chế tác đá quý"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lụa Vạn Phúc (Hà Đông, Hà Nội) nổi tiếng khắp cả nước về nghề dệt lụa tơ tằm.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w3_5",
+      "lesson": "Công nghiệp & Giao thông",
+      "type": "multiple_choice",
+      "question": "Đâu là các nghề thủ công truyền thống tiêu biểu của nước ta?",
+      "options": [
+        "Sản xuất ô tô điện, lắp ráp vệ tinh",
+        "Gốm Bát Tràng, lụa Vạn Phúc, mây tre đan, chạm khắc gỗ, nón lá",
+        "Khai thác than đá, lọc hoá dầu",
+        "Nhiệt điện, thuỷ điện"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gốm Bát Tràng, lụa Vạn Phúc, mây tre đan, chạm khắc gỗ, nón lá là các nghề thủ công truyền thống nổi tiếng.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w3_6",
+      "lesson": "Công nghiệp & Giao thông",
+      "type": "multiple_choice",
+      "question": "Hệ thống giao thông vận tải nước ta gồm đủ những loại hình nào?",
+      "options": [
+        "Chỉ có đường bộ và đường sắt",
+        "Đường bộ, đường sắt, đường thuỷ và đường hàng không",
+        "Chỉ có đường thuỷ và đường hàng không",
+        "Đường bộ và đường ống dẫn dầu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Giao thông vận tải nước ta có đủ 4 loại hình: đường bộ, đường sắt, đường thuỷ và đường hàng không.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w3_7",
+      "lesson": "Công nghiệp & Giao thông",
+      "type": "multiple_choice",
+      "question": "Vai trò quan trọng nhất của giao thông vận tải đối với đất nước là gì?",
+      "options": [
+        "Nối liền các vùng miền và thúc đẩy phát triển kinh tế",
+        "Làm tăng lượng mưa cho đồng bằng",
+        "Thay thế hoàn toàn ngành nông nghiệp",
+        "Giảm dân số thành thị"
+      ],
+      "correctIndex": 0,
+      "explanation": "Giao thông vận tải giúp nối liền các vùng miền, vận chuyển hàng hoá, hành khách và phát triển kinh tế.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w3_8",
+      "lesson": "Công nghiệp & Giao thông",
+      "type": "multiple_choice",
+      "question": "Loại hình giao thông nào vận chuyển hành khách và hàng hoá đi xa nhanh nhất?",
+      "options": [
+        "Đường bộ",
+        "Đường sắt",
+        "Đường thuỷ",
+        "Đường hàng không"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đường hàng không (máy bay) có tốc độ di chuyển nhanh nhất, kết nối các miền và quốc tế.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w3_9",
+      "lesson": "Công nghiệp & Giao thông",
+      "type": "multiple_choice",
+      "question": "Ngành công nghiệp nào sử dụng sản phẩm từ trồng trọt, chăn nuôi và thuỷ sản làm nguyên liệu?",
+      "options": [
+        "Công nghiệp chế biến thực phẩm",
+        "Công nghiệp khai thác than",
+        "Công nghiệp luyện gang thép",
+        "Công nghiệp sản xuất xi măng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Công nghiệp chế biến thực phẩm chế biến gạo, cà phê, thịt, sữa, tôm, cá thành hàng hoá tiêu dùng và xuất khẩu.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w3_10",
+      "lesson": "Công nghiệp & Giao thông",
+      "type": "multiple_choice",
+      "question": "Vì sao cần bảo tồn và phát triển các làng nghề thủ công truyền thống?",
+      "options": [
+        "Để xoá bỏ các nhà máy công nghiệp hiện đại",
+        "Để giữ gìn bản sắc văn hoá dân tộc, tạo việc làm và thu nhập cho người dân",
+        "Để không phải xây dựng đường giao thông",
+        "Vì sản phẩm thủ công không cần nguyên liệu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Làng nghề truyền thống vừa lưu giữ tinh hoa văn hoá dân tộc vừa tạo việc làm và thu nhập cho người lao động.",
+      "points": 100
+    }
+  ]
+}

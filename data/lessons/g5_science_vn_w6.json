@@ -1,0 +1,416 @@
+{
+  "id": "g5_science_vn_w6",
+  "grade": 5,
+  "subject": "science_vn",
+  "subjectName": "Khoa Học (TV)",
+  "week": 6,
+  "title": "TỔNG ÔN CUỐI HK1 - KHOA HỌC 5",
+  "subTitle": "Tổng hợp toàn bộ câu hỏi trọng tâm Bài 1 đến Bài 5 (CHK1)",
+  "theory": {
+    "totalCards": 10,
+    "cards": [
+      {
+        "id": "th_scivn_w6_1",
+        "term": "Tổng kết Bài 1: Thành phần của đất",
+        "phonetic": "[Đất trồng]",
+        "vietnamese": "5 thành phần: chất khoáng, mùn, nước, không khí, sinh vật | Giữ cây đứng vững & nuôi cây",
+        "definition": "Nước hòa tan & vận chuyển dinh dưỡng cho rễ; mùn từ xác sinh vật phân hủy giúp đất tơi xốp màu mỡ.",
+        "example": "Xới đất làm tăng không khí; giun ăn đất thải ra mùn và tạo khe thoáng.",
+        "category": "Tổng ôn CHK1",
+        "imageHint": "🪴"
+      },
+      {
+        "id": "th_scivn_w6_2",
+        "term": "Tổng kết Bài 1: Cải tạo đất khô cằn",
+        "phonetic": "[Thực hành vườn]",
+        "vietnamese": "Bón phân hữu cơ (tăng mùn), xới đất (thoáng khí), tưới nước đủ ẩm & trồng cây phủ đất",
+        "definition": "Đây là quy trình đầy đủ giúp cải tạo mảnh vườn cằn cỗi thành đất trồng màu mỡ.",
+        "example": "Phân chuồng, phân xanh, rác hữu cơ đã ủ đều là phân hữu cơ tốt cho đất.",
+        "category": "Tổng ôn CHK1",
+        "imageHint": "🪱"
+      },
+      {
+        "id": "th_scivn_w6_3",
+        "term": "Tổng kết Bài 2: Hỗn hợp",
+        "phonetic": "[Hỗn hợp]",
+        "vietnamese": "Hai hay nhiều chất trộn lẫn, mỗi chất giữ nguyên tính chất (tiêu+muối, cát+nước, gạo+sạn, mắm tỏi ớt)",
+        "definition": "Các chất không hòa tan đồng nhất vào nhau thì gọi chung là hỗn hợp.",
+        "example": "Cát trộn với nước: cát không tan và lắng xuống đáy.",
+        "category": "Tổng ôn CHK1",
+        "imageHint": "🥣"
+      },
+      {
+        "id": "th_scivn_w6_4",
+        "term": "Tổng kết Bài 2: Dung dịch",
+        "phonetic": "[Dung dịch]",
+        "vietnamese": "Chất lỏng + chất rắn tan phân bố đều (nước muối, nước đường) hoặc lỏng + lỏng tan vào nhau (nước + giấm)",
+        "definition": "Chất bị hòa tan phân bố đồng đều ở mọi vị trí trong dung dịch.",
+        "example": "Nước muối, nước đường, nước pha giấm ăn đều là dung dịch.",
+        "category": "Tổng ôn CHK1",
+        "imageHint": "🧪"
+      },
+      {
+        "id": "th_scivn_w6_5",
+        "term": "Tổng kết Bài 3: Chất đốt 3 thể",
+        "phonetic": "[Chất đốt]",
+        "vietnamese": "Rắn: than, củi, rơm rạ | Lỏng: xăng, dầu | Khí: ga, biogas — Đun nấu, sưởi ấm, chạy máy, phát điện",
+        "definition": "Đậy nắp khi đun nước giúp giữ nhiệt, sôi nhanh, tránh lãng phí chất đốt.",
+        "example": "Mở nắp nồi khiến nhiệt thoát ra ngoài không khí làm lâu sôi hơn.",
+        "category": "Tổng ôn CHK1",
+        "imageHint": "🔥"
+      },
+      {
+        "id": "th_scivn_w6_6",
+        "term": "Tổng kết Bài 3: An toàn phòng cháy",
+        "phonetic": "[Xử lý rò rỉ ga]",
+        "vietnamese": "Ngửi thấy mùi ga: KHÔNG bật lửa/công tắc điện; khóa van ga, mở cửa thoáng khí, ra ngoài báo người lớn",
+        "definition": "An toàn: tắt bếp khi không dùng, kiểm tra van/ống, tránh vật dễ cháy, có bình chữa cháy, không đốt than phòng kín.",
+        "example": "Không bao giờ để bếp đang cháy mà không có người trông coi.",
+        "category": "Tổng ôn CHK1",
+        "imageHint": "🚨"
+      },
+      {
+        "id": "th_scivn_w6_7",
+        "term": "Tổng kết Bài 4: Năng lượng Mặt trời",
+        "phonetic": "[Năng lượng sạch]",
+        "vietnamese": "Gia đình: đèn, máy nước nóng, quạt, máy tính bỏ túi | Công cộng: đèn đường, đèn giao thông, camera, trạm sạc",
+        "definition": "Dùng chiếu sáng, sưởi ấm, phơi nông sản, làm muối, đun nước nóng và sản xuất điện.",
+        "example": "Năng lượng mặt trời, gió, nước chảy là nguồn sạch, vô tận và tiết kiệm chi phí.",
+        "category": "Tổng ôn CHK1",
+        "imageHint": "☀️"
+      },
+      {
+        "id": "th_scivn_w6_8",
+        "term": "Tổng kết Bài 4: Gió & Nước chảy",
+        "phonetic": "[Tái tạo]",
+        "vietnamese": "Gió: thuyền buồm, cối xay, điện gió (ven biển nhiều gió mạnh & đều) | Nước: bè gỗ, cọn nước, thuỷ điện",
+        "definition": "Vùng ven biển có gió mạnh và thổi đều nên rất thích hợp xây dựng trạm điện gió.",
+        "example": "Nhà máy thuỷ điện và bánh xe nước đều tận dụng năng lượng dòng nước chảy.",
+        "category": "Tổng ôn CHK1",
+        "imageHint": "🌊"
+      },
+      {
+        "id": "th_scivn_w6_9",
+        "term": "Tổng kết Bài 5: Cấu tạo hoa & Thụ tinh",
+        "phonetic": "[Sinh sản thực vật]",
+        "vietnamese": "Hoa = Đài, Cánh, Nhị (chỉ nhị, bao phấn), Nhụy (đầu, vòi, bầu nhụy chứa noãn)",
+        "definition": "Thụ phấn: hạt phấn tiếp xúc đầu nhụy. Sau thụ tinh: hợp tử -> phôi; noãn -> hạt; bầu nhụy -> quả.",
+        "example": "Quả được phát triển từ bầu nhụy, còn hạt được phát triển từ noãn.",
+        "category": "Tổng ôn CHK1",
+        "imageHint": "🌸"
+      },
+      {
+        "id": "th_scivn_w6_10",
+        "term": "Tổng kết Bài 5: Hai kiểu thụ phấn",
+        "phonetic": "[Côn trùng vs Gió]",
+        "vietnamese": "Côn trùng: màu sặc sỡ, thơm, mật (bưởi, bí, mướp, bầu) | Gió: cánh nhỏ, phấn nhiều nhẹ (ngô, lúa, cỏ, thông)",
+        "definition": "Đặc điểm cấu tạo hoa thích nghi hoàn hảo với tác nhân giúp nó thụ phấn.",
+        "example": "Hoa bưởi thơm nhờ ong bướm; hoa lúa, hoa ngô nhỏ nhẹ nhờ gió thổi phấn.",
+        "category": "Tổng ôn CHK1",
+        "imageHint": "🐝"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_scivn_w6_1",
+      "lesson": "Tổng ôn Khoa học 5 CHK1",
+      "type": "multiple_choice",
+      "question": "Năm thành phần cơ bản cấu tạo nên đất là gì?",
+      "options": [
+        "Chất khoáng, mùn, nước, không khí và sinh vật",
+        "Cát, sỏi, xi măng, nước và không khí",
+        "Nhựa, chất khoáng, mùn và dầu mỏ",
+        "Chỉ có nước, không khí và rễ cây"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đất gồm: chất khoáng, mùn, nước, không khí và sinh vật.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w6_2",
+      "lesson": "Tổng ôn Khoa học 5 CHK1",
+      "type": "multiple_choice",
+      "question": "Thành phần nào trong đất giúp hòa tan và vận chuyển chất dinh dưỡng để rễ cây hút được?",
+      "options": [
+        "Chất khoáng",
+        "Nước trong đất",
+        "Sinh vật",
+        "Sỏi đá"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nước trong đất hòa tan và vận chuyển các chất dinh dưỡng cho rễ cây hấp thụ.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w6_3",
+      "lesson": "Tổng ôn Khoa học 5 CHK1",
+      "type": "multiple_choice",
+      "question": "Mùn trong đất được hình thành từ đâu và có ích lợi gì?",
+      "options": [
+        "Từ xác thực vật, động vật bị phân hủy nhờ sinh vật; cung cấp dinh dưỡng, giúp đất tơi xốp màu mỡ",
+        "Từ đá vôi tan ra; làm đất cứng chắc",
+        "Từ nước mưa; làm ngập úng rễ cây",
+        "Từ dầu hỏa; làm sạch côn trùng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mùn hình thành từ xác động thực vật phân hủy, cung cấp dinh dưỡng và giúp đất tơi xốp màu mỡ.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w6_4",
+      "lesson": "Tổng ôn Khoa học 5 CHK1",
+      "type": "multiple_choice",
+      "question": "Quá trình xới đất, cày đất trước khi trồng cây làm tăng thành phần nào trong đất?",
+      "options": [
+        "Lượng sỏi đá",
+        "Lượng không khí",
+        "Lượng muối",
+        "Lượng than đá"
+      ],
+      "correctIndex": 1,
+      "explanation": "Xới đất, cày đất làm đất tơi xốp và làm tăng lượng không khí trong đất.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w6_5",
+      "lesson": "Tổng ôn Khoa học 5 CHK1",
+      "type": "multiple_choice",
+      "question": "Giun đất giúp ích cho đất trồng bằng cách nào?",
+      "options": [
+        "Ăn đất và thải ra mùn làm màu mỡ; di chuyển tạo nhiều khoảng trống làm đất tơi xốp",
+        "Uống hết nước thừa giúp đất khô cằn",
+        "Đào hố lớn để cây đổ xuống",
+        "Nén chặt đất lại thành khối"
+      ],
+      "correctIndex": 0,
+      "explanation": "Giun đất thải ra mùn làm giàu dinh dưỡng và tạo khe hở giúp đất tơi xốp.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w6_6",
+      "lesson": "Tổng ôn Khoa học 5 CHK1",
+      "type": "multiple_choice",
+      "question": "Để cải tạo mảnh vườn đất khô cằn, cây còi cọc, biện pháp toàn diện nhất là gì?",
+      "options": [
+        "Bón phân hữu cơ, xới đất tơi xốp thoáng khí, tưới nước đủ ẩm và trồng cây phủ đất",
+        "Chỉ tưới nước mỗi tháng một lần",
+        "Rải thêm cát trắng lên bề mặt",
+        "Nhổ hết cây và để đất phơi nắng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cần phối hợp bón phân hữu cơ tăng mùn, xới đất thoáng khí, tưới đủ ẩm và trồng cây phủ đất.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w6_7",
+      "lesson": "Tổng ôn Khoa học 5 CHK1",
+      "type": "multiple_choice",
+      "question": "Ví dụ nào sau đây là DUNG DỊCH?",
+      "options": [
+        "Cát trộn với nước",
+        "Nước muối, nước đường, nước pha giấm ăn",
+        "Gạo lẫn với sạn",
+        "Bột tiêu trộn với muối"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nước muối, nước đường và nước + giấm ăn đều là dung dịch vì chất tan phân bố đều trong nước.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w6_8",
+      "lesson": "Tổng ôn Khoa học 5 CHK1",
+      "type": "multiple_choice",
+      "question": "Điểm cốt lõi của HỖN HỢP (ví dụ gạo lẫn sạn, nước mắm tỏi ớt) là gì?",
+      "options": [
+        "Hai hay nhiều chất trộn lẫn với nhau, trong đó mỗi chất vẫn giữ nguyên tính chất của nó",
+        "Các chất biến mất hoàn toàn không còn tính chất ban đầu",
+        "Chỉ gồm một chất rắn duy nhất",
+        "Luôn ở thể khí"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trong hỗn hợp, hai hay nhiều chất trộn lẫn nhau và mỗi chất vẫn giữ nguyên tính chất của nó.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w6_9",
+      "lesson": "Tổng ôn Khoa học 5 CHK1",
+      "type": "multiple_choice",
+      "question": "Nhóm chất đốt nào được phân loại ĐÚNG theo cả 3 thể (rắn - lỏng - khí)?",
+      "options": [
+        "Rắn: than, củi | Lỏng: xăng, dầu | Khí: ga, biogas",
+        "Rắn: xăng, dầu | Lỏng: than, củi | Khí: rơm rạ",
+        "Rắn: biogas | Lỏng: củi | Khí: dầu hỏa",
+        "Rắn: ga | Lỏng: rơm rạ | Khí: than đá"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chất đốt rắn: than, củi, rơm rạ; lỏng: xăng, dầu; khí: khí ga, khí sinh học (biogas).",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w6_10",
+      "lesson": "Tổng ôn Khoa học 5 CHK1",
+      "type": "multiple_choice",
+      "question": "Khi ngửi thấy mùi ga rất nồng trong bếp, hành động nào sau đây ĐÚNG VÀ AN TOÀN?",
+      "options": [
+        "Không bật lửa hay bật/tắt công tắc điện; khóa van bình ga (nếu được), mở cửa thoáng khí, ra khỏi bếp báo người lớn",
+        "Bật đèn bếp và bật quạt hút mùi bằng công tắc điện ngay",
+        "Châm bật lửa kiểm tra chỗ hở trên dây dẫn ga",
+        "Đóng kín tất cả cửa sổ để giữ mùi trong nhà"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tránh mọi nguồn phát tia lửa (bật lửa, công tắc điện), mở cửa thoáng khí, khóa van và báo người lớn ngay.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w6_11",
+      "lesson": "Tổng ôn Khoa học 5 CHK1",
+      "type": "multiple_choice",
+      "question": "Việc đậy nắp nồi khi đun nước có lợi ích gì?",
+      "options": [
+        "Giúp giữ nhiệt không thoát ra ngoài, nước sôi nhanh hơn và tránh lãng phí chất đốt",
+        "Làm nước sôi ở 50°C",
+        "Làm giảm áp suất không khí ngoài trời",
+        "Khiến nồi không cần đặt lên bếp"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mở nắp làm nhiệt thoát ra ngoài khiến lâu sôi và lãng phí chất đốt; đậy nắp giúp tiết kiệm năng lượng.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w6_12",
+      "lesson": "Tổng ôn Khoa học 5 CHK1",
+      "type": "multiple_choice",
+      "question": "Biện pháp nào KHÔNG ĐÚNG khi sử dụng chất đốt an toàn?",
+      "options": [
+        "Đốt than sưởi ấm trong phòng đóng kín cửa",
+        "Tắt bếp ngay khi không sử dụng",
+        "Không để vật dễ cháy gần bếp",
+        "Thường xuyên kiểm tra van, ống dẫn ga"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tuyệt đối không đốt than trong phòng kín vì sinh khí độc gây ngạt thở.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w6_13",
+      "lesson": "Tổng ôn Khoa học 5 CHK1",
+      "type": "multiple_choice",
+      "question": "Thiết bị công cộng nào thường sử dụng năng lượng mặt trời?",
+      "options": [
+        "Đèn đường, đèn giao thông, đèn công viên, camera an ninh, trạm sạc năng lượng mặt trời",
+        "Đầu máy xe lửa chạy hơi nước",
+        "Bếp lò đốt củi",
+        "Xe tải chở hàng nặng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đèn đường, đèn giao thông, đèn công viên, camera an ninh và trạm sạc là các ứng dụng công cộng phổ biến.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w6_14",
+      "lesson": "Tổng ôn Khoa học 5 CHK1",
+      "type": "multiple_choice",
+      "question": "Năng lượng nước chảy thường được con người sử dụng để làm gì?",
+      "options": [
+        "Chở bè gỗ xuôi dòng, quay bánh xe nước (cọn nước) và sản xuất điện ở nhà máy thuỷ điện",
+        "Phơi khô quần áo và làm muối biển",
+        "Chạy thuyền buồm trên cạn",
+        "Sạc pin máy tính bỏ túi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Năng lượng nước chảy giúp chở bè gỗ, quay cọn nước đưa nước lên ruộng và phát thuỷ điện.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w6_15",
+      "lesson": "Tổng ôn Khoa học 5 CHK1",
+      "type": "multiple_choice",
+      "question": "Tại sao các trạm điện gió thường được xây dựng ở vùng ven biển?",
+      "options": [
+        "Vì vùng ven biển có nhiều gió, gió mạnh và thổi đều giúp quay tua-bin phát điện",
+        "Vì vùng ven biển không có mặt trời",
+        "Vì nước biển đẩy trực tiếp vào cánh quạt trên cột cao",
+        "Vì vùng ven biển có nhiều mỏ than"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vùng ven biển có lượng gió dồi dào, tốc độ mạnh và ổn định giúp quay tua-bin điện gió hiệu quả.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w6_16",
+      "lesson": "Tổng ôn Khoa học 5 CHK1",
+      "type": "multiple_choice",
+      "question": "Lợi ích nổi bật của việc dùng năng lượng mặt trời, gió và nước chảy là gì?",
+      "options": [
+        "Năng lượng sạch, không ô nhiễm môi trường, vô tận không cạn kiệt và tiết kiệm chi phí",
+        "Gây ô nhiễm nhẹ nhưng rẻ hơn gió tự nhiên",
+        "Chỉ sử dụng được trong mùa đông",
+        "Sẽ cạn kiệt sau 10 năm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đây là nguồn năng lượng sạch, tái tạo vô tận, bảo vệ môi trường và tiết kiệm chi phí.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w6_17",
+      "lesson": "Tổng ôn Khoa học 5 CHK1",
+      "type": "multiple_choice",
+      "question": "Cơ quan sinh sản của thực vật có hoa là bộ phận nào, và gồm 4 thành phần chính nào?",
+      "options": [
+        "Hoa — gồm đài hoa, cánh hoa, nhị và nhụy",
+        "Lá — gồm cuống lá, gân lá, phiến lá và chồi",
+        "Thân — gồm vỏ, gỗ, mạch rây và chồi ngọn",
+        "Rễ — gồm rễ cái, rễ con, lông hút và chóp rễ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hoa là cơ quan sinh sản của thực vật có hoa, gồm: đài hoa, cánh hoa, nhị và nhụy.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w6_18",
+      "lesson": "Tổng ôn Khoa học 5 CHK1",
+      "type": "multiple_choice",
+      "question": "Hiện tượng hạt phấn từ bao phấn của nhị tiếp xúc với đầu nhụy được gọi là gì?",
+      "options": [
+        "Sự thụ phấn",
+        "Sự quang hợp",
+        "Sự nảy mầm",
+        "Sự bay hơi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thụ phấn là hiện tượng hạt phấn từ bao phấn của nhị tiếp xúc với đầu nhụy.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w6_19",
+      "lesson": "Tổng ôn Khoa học 5 CHK1",
+      "type": "multiple_choice",
+      "question": "Sau khi thụ tinh, các bộ phận của hoa biến đổi như thế nào?",
+      "options": [
+        "Hợp tử -> phôi; noãn -> hạt chứa phôi; bầu nhụy -> quả chứa hạt",
+        "Đài hoa -> hạt; cánh hoa -> quả; nhị -> rễ",
+        "Bao phấn -> quả; đầu nhụy -> hạt; noãn -> lá",
+        "Bầu nhụy -> phôi; hợp tử -> quả"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sau thụ tinh: hợp tử phát triển thành phôi, noãn thành hạt chứa phôi, bầu nhụy thành quả chứa hạt.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w6_20",
+      "lesson": "Tổng ôn Khoa học 5 CHK1",
+      "type": "multiple_choice",
+      "question": "Cặp phân loại hoa thụ phấn nhờ côn trùng và nhờ gió nào sau đây CHÍNH XÁC?",
+      "options": [
+        "Nhờ côn trùng: hoa bưởi, bí, mướp, bầu, dưa chuột | Nhờ gió: ngô, lúa, lúa mì, cỏ, kê, thông",
+        "Nhờ côn trùng: ngô, lúa, thông | Nhờ gió: hoa bưởi, hoa bí, hoa mướp",
+        "Nhờ côn trùng: hoa cỏ, hoa kê | Nhờ gió: hoa dưa chuột, hoa bầu",
+        "Tất cả các loài hoa đều chỉ thụ phấn nhờ gió"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hoa màu sặc sỡ/thơm/có mật (bưởi, bí, mướp, bầu, dưa chuột) nhờ côn trùng; hoa cánh nhỏ phấn nhiều nhẹ (ngô, lúa, cỏ, kê, thông) nhờ gió.",
+      "points": 100
+    }
+  ]
+}

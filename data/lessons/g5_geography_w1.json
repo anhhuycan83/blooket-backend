@@ -1,0 +1,226 @@
+{
+  "id": "g5_geography_w1",
+  "grade": 5,
+  "subject": "geography",
+  "subjectName": "Địa Lý",
+  "week": 1,
+  "title": "Chủ đề 1: Dân cư và Dân tộc Việt Nam",
+  "subTitle": "Quy mô dân số, phân bố dân cư & 54 dân tộc anh em",
+  "theory": {
+    "totalCards": 6,
+    "cards": [
+      {
+        "id": "th_geo_w1_1",
+        "term": "Quy mô dân số Việt Nam",
+        "phonetic": "[Dân số 2021]",
+        "vietnamese": "Khoảng 98,5 triệu người — đứng thứ 3 Đông Nam Á và thứ 15 trên thế giới",
+        "definition": "Việt Nam là quốc gia có quy mô dân số đông, đứng hàng đầu trong khu vực Đông Nam Á.",
+        "example": "Năm 2021, số dân nước ta đạt khoảng 98,5 triệu người.",
+        "category": "1. Dân cư & Dân tộc",
+        "imageHint": "👥"
+      },
+      {
+        "id": "th_geo_w1_2",
+        "term": "Phân bố dân cư không đều",
+        "phonetic": "[Phân bố dân cư]",
+        "vietnamese": "Đông đúc ở đồng bằng, ven biển — Thưa thớt ở vùng núi và cao nguyên",
+        "definition": "Sự phân bố dân cư phụ thuộc lớn vào điều kiện tự nhiên, địa hình và khả năng sản xuất.",
+        "example": "Đồng bằng sông Hồng và Đồng bằng sông Cửu Long có mật độ dân số rất cao.",
+        "category": "1. Dân cư & Dân tộc",
+        "imageHint": "🗺️"
+      },
+      {
+        "id": "th_geo_w1_3",
+        "term": "Lý do đồng bằng đông dân",
+        "phonetic": "[Điều kiện tự nhiên]",
+        "vietnamese": "Địa hình bằng phẳng, đất phù sa màu mỡ, giao thông thuận lợi, dễ sinh sống và sản xuất",
+        "definition": "Vùng đồng bằng và ven biển thuận tiện cho trồng trọt, buôn bán, xây dựng đô thị.",
+        "example": "Người dân tập trung đông ở đồng bằng vì thuận lợi làm nông nghiệp, công nghiệp và đi lại.",
+        "category": "1. Dân cư & Dân tộc",
+        "imageHint": "🏙️"
+      },
+      {
+        "id": "th_geo_w1_4",
+        "term": "Lý do vùng núi thưa dân",
+        "phonetic": "[Địa hình]",
+        "vietnamese": "Địa hình đồi núi hiểm trở, giao thông đi lại khó khăn hơn vùng đồng bằng",
+        "definition": "Ở vùng núi cao và cao nguyên, việc đi lại, xây dựng và sản xuất gặp nhiều trở ngại.",
+        "example": "Vùng núi cao Tây Bắc có mật độ dân cư thưa thớt hơn nhiều so với đồng bằng.",
+        "category": "1. Dân cư & Dân tộc",
+        "imageHint": "⛰️"
+      },
+      {
+        "id": "th_geo_w1_5",
+        "term": "54 dân tộc Việt Nam",
+        "phonetic": "[Cộng đồng dân tộc]",
+        "vietnamese": "Nước ta có 54 dân tộc; dân tộc Kinh chiếm khoảng 85%, còn lại là các dân tộc ít người",
+        "definition": "Các dân tộc ít người sinh sống chủ yếu ở vùng núi và trung du, tạo nên bản sắc văn hoá đa dạng.",
+        "example": "Ngoài dân tộc Kinh (~85%), nước ta còn có các dân tộc Tày, Thái, Mường, Mông, Khơ-me...",
+        "category": "1. Dân cư & Dân tộc",
+        "imageHint": "🎎"
+      },
+      {
+        "id": "th_geo_w1_6",
+        "term": "Đoàn kết các dân tộc",
+        "phonetic": "[Truyền thống quý báu]",
+        "vietnamese": "Các dân tộc sống đoàn kết, bình đẳng, yêu thương và giúp đỡ nhau xây dựng đất nước",
+        "definition": "Sự đoàn kết giúp cùng phát triển kinh tế, giữ gìn bản sắc văn hoá và bảo vệ Tổ quốc.",
+        "example": "54 dân tộc Việt Nam luôn gắn bó như anh em một nhà, cùng dựng xây và bảo vệ đất nước.",
+        "category": "1. Dân cư & Dân tộc",
+        "imageHint": "🤝"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_geo_w1_1",
+      "lesson": "Dân cư & Dân tộc",
+      "type": "multiple_choice",
+      "question": "Năm 2021, số dân của Việt Nam vào khoảng bao nhiêu triệu người?",
+      "options": [
+        "Khoảng 78,5 triệu người",
+        "Khoảng 98,5 triệu người",
+        "Khoảng 120 triệu người",
+        "Khoảng 65 triệu người"
+      ],
+      "correctIndex": 1,
+      "explanation": "Theo số liệu năm 2021, dân số Việt Nam khoảng 98,5 triệu người.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w1_2",
+      "lesson": "Dân cư & Dân tộc",
+      "type": "multiple_choice",
+      "question": "Về quy mô dân số năm 2021, Việt Nam đứng thứ mấy ở Đông Nam Á và thế giới?",
+      "options": [
+        "Thứ 1 Đông Nam Á và thứ 10 thế giới",
+        "Thứ 3 Đông Nam Á và thứ 15 trên thế giới",
+        "Thứ 5 Đông Nam Á và thứ 20 thế giới",
+        "Thứ 2 Đông Nam Á và thứ 12 thế giới"
+      ],
+      "correctIndex": 1,
+      "explanation": "Việt Nam đứng thứ 3 ở Đông Nam Á và thứ 15 trên thế giới về số dân.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w1_3",
+      "lesson": "Dân cư & Dân tộc",
+      "type": "multiple_choice",
+      "question": "Dân cư nước ta tập trung đông đúc nhất ở những khu vực nào?",
+      "options": [
+        "Vùng núi cao và biên giới",
+        "Vùng cao nguyên và rừng rậm",
+        "Vùng đồng bằng và ven biển",
+        "Các đảo xa ngoài khơi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dân cư nước ta phân bố không đều, tập trung đông ở đồng bằng và ven biển.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w1_4",
+      "lesson": "Dân cư & Dân tộc",
+      "type": "multiple_choice",
+      "question": "Vì sao dân cư nước ta phân bố thưa thớt ở vùng núi và cao nguyên?",
+      "options": [
+        "Vì khí hậu luôn quá nóng bức quanh năm",
+        "Vì địa hình hiểm trở, giao thông đi lại khó khăn hơn",
+        "Vì vùng núi không có nước mưa",
+        "Vì không có người dân nào sinh sống ở đó"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vùng núi có địa hình hiểm trở, giao thông khó khăn hơn nên dân cư thưa thớt.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w1_5",
+      "lesson": "Dân cư & Dân tộc",
+      "type": "multiple_choice",
+      "question": "Vì sao đồng bằng và ven biển thu hút đông dân cư sinh sống?",
+      "options": [
+        "Địa hình bằng phẳng, đất màu mỡ, giao thông thuận lợi, dễ sản xuất",
+        "Có nhiều dãy núi cao chắn gió",
+        "Không có sông ngòi chảy qua",
+        "Chỉ có thể trồng cây công nghiệp lâu năm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đồng bằng và ven biển bằng phẳng, đất màu mỡ, giao thông thuận lợi cho sinh sống và sản xuất.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w1_6",
+      "lesson": "Dân cư & Dân tộc",
+      "type": "multiple_choice",
+      "question": "Việt Nam có tất cả bao nhiêu dân tộc?",
+      "options": [
+        "45 dân tộc",
+        "50 dân tộc",
+        "54 dân tộc",
+        "63 dân tộc"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nước ta có 54 dân tộc anh em cùng chung sống trên lãnh thổ Việt Nam.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w1_7",
+      "lesson": "Dân cư & Dân tộc",
+      "type": "multiple_choice",
+      "question": "Dân tộc nào có số dân đông nhất và chiếm khoảng 85% dân số cả nước?",
+      "options": [
+        "Dân tộc Tày",
+        "Dân tộc Kinh",
+        "Dân tộc Thái",
+        "Dân tộc Mường"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dân tộc Kinh chiếm khoảng 85% dân số cả nước, còn lại là các dân tộc ít người.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w1_8",
+      "lesson": "Dân cư & Dân tộc",
+      "type": "multiple_choice",
+      "question": "Các dân tộc ít người ở nước ta sinh sống chủ yếu ở đâu?",
+      "options": [
+        "Chỉ ở các thành phố lớn",
+        "Chủ yếu ở vùng núi và trung du",
+        "Chỉ ở vùng ven biển miền Nam",
+        "Chỉ ở vùng đồng bằng sông Hồng"
+      ],
+      "correctIndex": 1,
+      "explanation": "Các dân tộc ít người phân bố chủ yếu ở vùng núi và trung du.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w1_9",
+      "lesson": "Dân cư & Dân tộc",
+      "type": "multiple_choice",
+      "question": "Các dân tộc Việt Nam chung sống với nhau theo tinh thần nào?",
+      "options": [
+        "Tách biệt hoàn toàn theo từng vùng",
+        "Đoàn kết, bình đẳng, giúp đỡ nhau xây dựng đất nước",
+        "Cạnh tranh khép kín không giao lưu",
+        "Mỗi dân tộc chỉ bảo vệ vùng riêng của mình"
+      ],
+      "correctIndex": 1,
+      "explanation": "Các dân tộc Việt Nam luôn đoàn kết, bình đẳng, yêu thương và giúp đỡ nhau xây dựng đất nước.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w1_10",
+      "lesson": "Dân cư & Dân tộc",
+      "type": "multiple_choice",
+      "question": "Vai trò quan trọng nhất của sự đoàn kết giữa 54 dân tộc là gì?",
+      "options": [
+        "Làm tăng chiều cao các dãy núi",
+        "Giúp mọi người bình đẳng, cùng phát triển kinh tế, giữ gìn văn hoá và bảo vệ Tổ quốc",
+        "Làm thay đổi vị trí địa lý của nước ta",
+        "Giảm số lượng các tỉnh thành"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đoàn kết dân tộc tạo sức mạnh để phát triển kinh tế, giữ bản sắc văn hoá và bảo vệ vững chắc đất nước.",
+      "points": 100
+    }
+  ]
+}

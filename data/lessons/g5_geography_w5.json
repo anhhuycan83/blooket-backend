@@ -1,0 +1,216 @@
+{
+  "id": "g5_geography_w5",
+  "grade": 5,
+  "subject": "geography",
+  "subjectName": "Địa Lý",
+  "week": 5,
+  "title": "Chủ đề 5: Phát triển Bền vững & Bảo vệ Môi trường",
+  "subTitle": "Sử dụng hợp lý tài nguyên & hành động xanh của học sinh lớp 5",
+  "theory": {
+    "totalCards": 5,
+    "cards": [
+      {
+        "id": "th_geo_w5_1",
+        "term": "Khai thác tài nguyên hợp lý",
+        "phonetic": "[Phát triển bền vững]",
+        "vietnamese": "Khai thác tài nguyên thiên nhiên hợp lý, tiết kiệm nước và năng lượng",
+        "definition": "Tài nguyên (rừng, nước sạch, khoáng sản, đất) không phải vô tận; cần dùng tiết kiệm cho thế hệ tương lai.",
+        "example": "Tắt các thiết bị điện khi không sử dụng, khóa vòi nước ngay sau khi dùng xong.",
+        "category": "5. Bảo vệ môi trường",
+        "imageHint": "💧"
+      },
+      {
+        "id": "th_geo_w5_2",
+        "term": "Bảo vệ rừng & Chống ô nhiễm",
+        "phonetic": "[Bảo vệ tự nhiên]",
+        "vietnamese": "Không xả rác bừa bãi, bảo vệ rừng, hạn chế ô nhiễm không khí, nước và đất",
+        "definition": "Ô nhiễm môi trường làm hại sức khoẻ con người và huỷ hoại môi trường sống của động thực vật.",
+        "example": "Xử lý nước thải trước khi xả ra sông, không chặt phá rừng bừa bãi.",
+        "category": "5. Bảo vệ môi trường",
+        "imageHint": "🌳"
+      },
+      {
+        "id": "th_geo_w5_3",
+        "term": "Phân loại rác & Giảm đồ nhựa",
+        "phonetic": "[Sống xanh]",
+        "vietnamese": "Bỏ rác đúng nơi quy định, phân loại rác, hạn chế túi ni-lông và đồ nhựa dùng một lần",
+        "definition": "Túi ni-lông và rác nhựa rất khó phân huỷ, gây ô nhiễm đất và đại dương nhiều năm.",
+        "example": "Dùng bình nước cá nhân, túi vải đi chợ thay cho túi ni-lông dùng một lần.",
+        "category": "5. Bảo vệ môi trường",
+        "imageHint": "♻️"
+      },
+      {
+        "id": "th_geo_w5_4",
+        "term": "Việc làm của học sinh lớp 5",
+        "phonetic": "[Hành động thiết thực]",
+        "vietnamese": "Giữ vệ sinh trường lớp, trồng và chăm sóc cây xanh, tiết kiệm điện và nước",
+        "definition": "Những hành động nhỏ hàng ngày của mỗi học sinh góp phần lớn làm Trái Đất xanh - sạch - đẹp.",
+        "example": "Tham gia ngày hội trồng cây ở trường, tắt quạt và đèn lớp học khi ra chơi.",
+        "category": "5. Bảo vệ môi trường",
+        "imageHint": "🌱"
+      },
+      {
+        "id": "th_geo_w5_5",
+        "term": "Ý nghĩa phát triển bền vững",
+        "phonetic": "[Tương lai xanh]",
+        "vietnamese": "Phát triển kinh tế đi đôi với bảo vệ môi trường và giữ gìn tài nguyên cho tương lai",
+        "definition": "Con người vừa sản xuất nâng cao đời sống vừa giữ môi trường trong lành lâu dài.",
+        "example": "Sử dụng năng lượng mặt trời, năng lượng gió và trồng thêm rừng để phát triển bền vững.",
+        "category": "5. Bảo vệ môi trường",
+        "imageHint": "🌍"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_geo_w5_1",
+      "lesson": "Bảo vệ môi trường",
+      "type": "multiple_choice",
+      "question": "Để phát triển bền vững, chúng ta cần sử dụng tài nguyên thiên nhiên như thế nào?",
+      "options": [
+        "Khai thác càng nhiều càng tốt không cần kế hoạch",
+        "Khai thác hợp lý, tiết kiệm nước và năng lượng",
+        "Chỉ dùng dầu mỏ và than đá thật nhiều",
+        "Không cần quan tâm đến môi trường"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phát triển bền vững đòi hỏi khai thác tài nguyên hợp lý và tiết kiệm nước, năng lượng.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w5_2",
+      "lesson": "Bảo vệ môi trường",
+      "type": "multiple_choice",
+      "question": "Hành động nào giúp hạn chế ô nhiễm không khí, nước và đất?",
+      "options": [
+        "Xả rác thải thẳng xuống sông hồ",
+        "Đốt rác nhựa ngoài sân vườn",
+        "Không xả rác bừa bãi, bảo vệ rừng và xử lý chất thải đúng quy định",
+        "Chặt cây xanh để mở bãi rác"
+      ],
+      "correctIndex": 2,
+      "explanation": "Không xả rác bừa bãi, bảo vệ rừng và xử lý rác thải đúng cách giúp giảm ô nhiễm nước, đất, không khí.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w5_3",
+      "lesson": "Bảo vệ môi trường",
+      "type": "multiple_choice",
+      "question": "Học sinh lớp 5 có thể làm những việc thiết thực nào ở trường để bảo vệ môi trường?",
+      "options": [
+        "Giữ vệ sinh trường lớp, trồng cây xanh và tiết kiệm điện, nước",
+        "Bật điều hòa và mở cửa sổ cả ngày",
+        "Xé giấy vở vứt ra sân trường",
+        "Mở vòi nước chảy liên tục khi không dùng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Giữ vệ sinh trường lớp, trồng chăm sóc cây xanh và tiết kiệm điện, nước là việc làm rất thiết thực.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w5_4",
+      "lesson": "Bảo vệ môi trường",
+      "type": "multiple_choice",
+      "question": "Vì sao chúng ta nên hạn chế sử dụng túi ni-lông và đồ nhựa dùng một lần?",
+      "options": [
+        "Vì đồ nhựa có màu không đẹp",
+        "Vì nhựa và túi ni-lông rất khó phân huỷ, gây ô nhiễm đất và nguồn nước",
+        "Vì túi ni-lông quá đắt tiền",
+        "Vì nhựa tự tan biến trong 1 ngày"
+      ],
+      "correctIndex": 1,
+      "explanation": "Túi ni-lông và đồ nhựa dùng một lần tồn tại rất lâu trong tự nhiên, gây hại cho đất, sông biển và sinh vật.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w5_5",
+      "lesson": "Bảo vệ môi trường",
+      "type": "multiple_choice",
+      "question": "Khi rời khỏi phòng học mà không còn ai ở trong lớp, em nên làm gì?",
+      "options": [
+        "Để nguyên đèn và quạt chạy cho mát lớp",
+        "Tắt hết đèn, quạt và các thiết bị điện không cần thiết",
+        "Chỉ tắt một nửa số đèn",
+        "Mở vòi nước rửa tay cho chảy tự do"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tắt đèn, quạt khi ra khỏi phòng giúp tiết kiệm điện năng và bảo vệ môi trường.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w5_6",
+      "lesson": "Bảo vệ môi trường",
+      "type": "multiple_choice",
+      "question": "Việc làm nào góp phần bảo vệ nguồn nước sạch ở địa phương?",
+      "options": [
+        "Đổ thức ăn thừa và rác xuống cống rãnh, ao hồ",
+        "Sử dụng nước tiết kiệm, không vứt rác xuống sông, hồ, kênh rạch",
+        "Giặt giũ và xả chất tẩy rửa trực tiếp xuống ao cá",
+        "Khơi thông rác thẳng ra sông lớn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tiết kiệm nước và không xả rác thải xuống sông, hồ giúp giữ gìn nguồn nước sạch.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w5_7",
+      "lesson": "Bảo vệ môi trường",
+      "type": "multiple_choice",
+      "question": "Trồng nhiều cây xanh ở trường học và khu dân cư mang lại tác dụng gì?",
+      "options": [
+        "Làm không khí thêm nóng bức",
+        "Tạo bóng mát, lọc sạch không khí, giảm bụi và làm đẹp cảnh quan",
+        "Làm tăng khói bụi giao thông",
+        "Làm cạn kiệt nguồn nước ngầm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cây xanh cung cấp khí oxy, lọc bụi bẩn, tạo bóng mát và giúp môi trường trong lành hơn.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w5_8",
+      "lesson": "Bảo vệ môi trường",
+      "type": "multiple_choice",
+      "question": "Việc phân loại rác tại nguồn (rác hữu cơ, rác tái chế, rác còn lại) giúp ích gì?",
+      "options": [
+        "Làm tăng lượng rác thải ra bãi rác",
+        "Giúp tái chế giấy, nhựa, kim loại và giảm ô nhiễm môi trường",
+        "Làm mất thêm diện tích đất chôn lấp",
+        "Không có tác dụng gì"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phân loại rác giúp tận dụng nguồn rác tái chế, làm phân hữu cơ và giảm gánh nặng cho môi trường.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w5_9",
+      "lesson": "Bảo vệ môi trường",
+      "type": "multiple_choice",
+      "question": "Thấy bạn chuẩn bị vứt vỏ hộp sữa xuống sân trường, em nên ứng xử thế nào?",
+      "options": [
+        "Mặc kệ bạn vì không phải việc của mình",
+        "Nhắc bạn nhẹ nhàng và cùng bạn bỏ vào đúng thùng rác quy định",
+        "Vứt thêm rác ra sân trường cùng bạn",
+        "Đá vỏ hộp sữa sang lớp bên cạnh"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nhắc nhở nhẹ nhàng và bỏ rác đúng nơi quy định thể hiện ý thức giữ gìn môi trường xanh - sạch - đẹp.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w5_10",
+      "lesson": "Bảo vệ môi trường",
+      "type": "multiple_choice",
+      "question": "Cách dùng nào sau đây thể hiện lối sống thân thiện với môi trường?",
+      "options": [
+        "Dùng túi vải nhiều lần và bình nước cá nhân thay cho chai nhựa dùng một lần",
+        "Mỗi lần mua đồ lại lấy thêm thật nhiều túi ni-lông",
+        "Dùng cốc nhựa một lần rồi vứt xuống biển",
+        "Bật tivi suốt đêm dù đã đi ngủ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sử dụng túi vải và bình nước cá nhân giúp giảm lượng lớn rác thải nhựa mỗi ngày.",
+      "points": 100
+    }
+  ]
+}

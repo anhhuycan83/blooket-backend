@@ -251,6 +251,162 @@
               "isHighlighted": true
             }
           ]
+        },
+        {
+          "id": "geography",
+          "name": "Địa Lý",
+          "englishName": "Vietnamese Geography (HK1)",
+          "icon": "school",
+          "color": "#0D9488",
+          "accentColor": "#F0FDFA",
+          "description": "Đề cương ôn tập HK1: Dân cư, Kinh tế, 3 Vùng miền & Môi trường",
+          "totalWeeks": 6,
+          "weeks": [
+            {
+              "weekNumber": 1,
+              "title": "W1",
+              "subTitle": "Dân cư & 54 Dân tộc",
+              "badge": "6 Thẻ • 10 Câu",
+              "emoji": "👥",
+              "color": "#0D9488",
+              "bgColor": "#F0FDFA",
+              "borderColor": "#0D9488",
+              "isHighlighted": false
+            },
+            {
+              "weekNumber": 2,
+              "title": "W2",
+              "subTitle": "Nông, Lâm & Thuỷ sản",
+              "badge": "6 Thẻ • 10 Câu",
+              "emoji": "🌾",
+              "color": "#0D9488",
+              "bgColor": "#F0FDFA",
+              "borderColor": "#0D9488",
+              "isHighlighted": false
+            },
+            {
+              "weekNumber": 3,
+              "title": "W3",
+              "subTitle": "Công nghiệp & Giao thông",
+              "badge": "6 Thẻ • 10 Câu",
+              "emoji": "🏭",
+              "color": "#0D9488",
+              "bgColor": "#F0FDFA",
+              "borderColor": "#0D9488",
+              "isHighlighted": false
+            },
+            {
+              "weekNumber": 4,
+              "title": "W4",
+              "subTitle": "Miền Bắc, Trung, Nam",
+              "badge": "6 Thẻ • 10 Câu",
+              "emoji": "🗺️",
+              "color": "#0D9488",
+              "bgColor": "#F0FDFA",
+              "borderColor": "#0D9488",
+              "isHighlighted": false
+            },
+            {
+              "weekNumber": 5,
+              "title": "W5",
+              "subTitle": "Bảo vệ Môi trường",
+              "badge": "5 Thẻ • 10 Câu",
+              "emoji": "🌱",
+              "color": "#0D9488",
+              "bgColor": "#F0FDFA",
+              "borderColor": "#0D9488",
+              "isHighlighted": false
+            },
+            {
+              "weekNumber": 6,
+              "title": "W6",
+              "subTitle": "Tổng Ôn & Vận Dụng HK1",
+              "badge": "👑 Đề thi HK1",
+              "emoji": "👑",
+              "color": "#B45309",
+              "bgColor": "#FFFBEB",
+              "borderColor": "#D97706",
+              "isHighlighted": true
+            }
+          ]
+        },
+        {
+          "id": "science_vn",
+          "name": "Khoa Học 5 (HK1)",
+          "englishName": "Khoa học Lớp 5 (Tiếng Việt)",
+          "icon": "science",
+          "color": "#0284C7",
+          "accentColor": "#F0F9FF",
+          "description": "Đề cương CHK1: Đất trồng, Hỗn hợp, Chất đốt, Năng lượng & Thực vật",
+          "totalWeeks": 6,
+          "weeks": [
+            {
+              "weekNumber": 1,
+              "title": "W1",
+              "subTitle": "Bài 1: Thành phần Đất",
+              "badge": "7 Thẻ • 12 Câu",
+              "emoji": "🪴",
+              "color": "#0284C7",
+              "bgColor": "#F0F9FF",
+              "borderColor": "#0284C7",
+              "isHighlighted": false
+            },
+            {
+              "weekNumber": 2,
+              "title": "W2",
+              "subTitle": "Bài 2: Hỗn hợp & Dung dịch",
+              "badge": "5 Thẻ • 10 Câu",
+              "emoji": "🧪",
+              "color": "#0284C7",
+              "bgColor": "#F0F9FF",
+              "borderColor": "#0284C7",
+              "isHighlighted": false
+            },
+            {
+              "weekNumber": 3,
+              "title": "W3",
+              "subTitle": "Bài 3: Năng lượng Chất đốt",
+              "badge": "6 Thẻ • 12 Câu",
+              "emoji": "🔥",
+              "color": "#0284C7",
+              "bgColor": "#F0F9FF",
+              "borderColor": "#0284C7",
+              "isHighlighted": false
+            },
+            {
+              "weekNumber": 4,
+              "title": "W4",
+              "subTitle": "Bài 4: Năng lượng Sạch",
+              "badge": "6 Thẻ • 12 Câu",
+              "emoji": "☀️",
+              "color": "#0284C7",
+              "bgColor": "#F0F9FF",
+              "borderColor": "#0284C7",
+              "isHighlighted": false
+            },
+            {
+              "weekNumber": 5,
+              "title": "W5",
+              "subTitle": "Bài 5: Sinh sản Thực vật",
+              "badge": "7 Thẻ • 12 Câu",
+              "emoji": "🌸",
+              "color": "#0284C7",
+              "bgColor": "#F0F9FF",
+              "borderColor": "#0284C7",
+              "isHighlighted": false
+            },
+            {
+              "weekNumber": 6,
+              "title": "W6",
+              "subTitle": "Tổng Ôn Cuối HK1",
+              "badge": "👑 Đề thi CHK1",
+              "emoji": "👑",
+              "color": "#B45309",
+              "bgColor": "#FFFBEB",
+              "borderColor": "#D97706",
+              "isHighlighted": true
+            }
+          ]
         }
       ]
     },
@@ -439,5 +595,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-22T09:30:00Z"
+  "lastUpdated": "2026-11-26T21:00:00Z"
 }

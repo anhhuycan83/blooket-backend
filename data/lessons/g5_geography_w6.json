@@ -1,0 +1,416 @@
+{
+  "id": "g5_geography_w6",
+  "grade": 5,
+  "subject": "geography",
+  "subjectName": "Địa Lý",
+  "week": 6,
+  "title": "ĐỀ ÔN TẬP & VẬN DỤNG CUỐI HK1 - ĐỊA LÝ 5",
+  "subTitle": "Tổng hợp 5 chuyên đề trọng tâm & 8 dạng bài tập vận dụng",
+  "theory": {
+    "totalCards": 10,
+    "cards": [
+      {
+        "id": "th_geo_w6_1",
+        "term": "Tổng kết: Dân số Việt Nam",
+        "phonetic": "[Câu 1 vận dụng]",
+        "vietnamese": "~98,5 triệu người (2021), thứ 3 ĐNA, thứ 15 thế giới; đông ở đồng bằng/ven biển, thưa ở núi/cao nguyên",
+        "definition": "Đồng bằng bằng phẳng, đất màu mỡ, giao thông thuận lợi; vùng núi hiểm trở, đi lại khó khăn.",
+        "example": "Phân bố dân cư gắn chặt với điều kiện địa hình và kinh tế của từng vùng.",
+        "category": "Tổng ôn HK1",
+        "imageHint": "👥"
+      },
+      {
+        "id": "th_geo_w6_2",
+        "term": "Tổng kết: 54 Dân tộc & Đoàn kết",
+        "phonetic": "[Câu 2 vận dụng]",
+        "vietnamese": "54 dân tộc (Kinh ~85%); đoàn kết giúp bình đẳng, phát triển kinh tế, giữ văn hoá và bảo vệ đất nước",
+        "definition": "Truyền thống đoàn kết là sức mạnh giúp các dân tộc cùng vượt khó và xây dựng quê hương.",
+        "example": "Các dân tộc giúp nhau phát triển sản xuất và bảo tồn lễ hội truyền thống.",
+        "category": "Tổng ôn HK1",
+        "imageHint": "🤝"
+      },
+      {
+        "id": "th_geo_w6_3",
+        "term": "Tổng kết: Lúa gạo vs Cây công nghiệp",
+        "phonetic": "[Câu 3 vận dụng]",
+        "vietnamese": "Lúa: ĐBSH & ĐBSCL (phù sa, nước nhiều) | Cây công nghiệp: Núi & cao nguyên (đất đỏ badan, feralit)",
+        "definition": "Mỗi loại cây trồng phù hợp với loại đất, địa hình và khí hậu riêng của từng vùng.",
+        "example": "Lúa trồng ở đồng bằng thấp bằng phẳng; cà phê, cao su, chè trồng trên đất đồi núi, cao nguyên.",
+        "category": "Tổng ôn HK1",
+        "imageHint": "🌾"
+      },
+      {
+        "id": "th_geo_w6_4",
+        "term": "Tổng kết: Công nghiệp & Làng nghề",
+        "phonetic": "[Câu 4 vận dụng]",
+        "vietnamese": "Công nghiệp: khai khoáng, thực phẩm, dệt may, cơ khí | Thủ công: gốm Bát Tràng, lụa Vạn Phúc, mây tre đan",
+        "definition": "Công nghiệp tập trung ở đồng bằng, thành phố lớn; làng nghề truyền thống lưu giữ văn hoá dân tộc.",
+        "example": "Hà Nội nổi tiếng với cả gốm Bát Tràng lẫn lụa Vạn Phúc.",
+        "category": "Tổng ôn HK1",
+        "imageHint": "🏺"
+      },
+      {
+        "id": "th_geo_w6_5",
+        "term": "Tổng kết: Thế mạnh Thuỷ sản",
+        "phonetic": "[Câu 5 vận dụng]",
+        "vietnamese": "Bờ biển dài, biển rộng, nhiều sông hồ | Lợi ích: thực phẩm bổ dưỡng, việc làm, thu nhập, xuất khẩu",
+        "definition": "Thuỷ sản là ngành kinh tế mũi nhọn nhờ lợi thế sông biển phong phú của nước ta.",
+        "example": "Xuất khẩu tôm, cá mang lại nguồn ngoại tệ lớn cho đất nước.",
+        "category": "Tổng ôn HK1",
+        "imageHint": "🐟"
+      },
+      {
+        "id": "th_geo_w6_6",
+        "term": "Tổng kết: Giao thông 4 loại hình",
+        "phonetic": "[Mạng lưới]",
+        "vietnamese": "Đường bộ, đường sắt, đường thuỷ, đường hàng không — kết nối vùng miền & phát triển kinh tế",
+        "definition": "Hệ thống giao thông đa dạng giúp lưu thông hàng hoá và đi lại thuận tiện trên toàn quốc.",
+        "example": "Mỗi loại hình giao thông phục vụ một nhu cầu vận chuyển khác nhau.",
+        "category": "Tổng ôn HK1",
+        "imageHint": "🚄"
+      },
+      {
+        "id": "th_geo_w6_7",
+        "term": "Tổng kết: Thiên nhiên 3 miền",
+        "phonetic": "[Câu 6 vận dụng]",
+        "vietnamese": "Bắc: đa dạng, 4 mùa | Trung: núi sát biển, bão lũ hạn | Nam: phù sa màu mỡ, nóng ẩm, mạnh lúa & trái cây",
+        "definition": "Nắm rõ đặc trưng địa hình và khí hậu giúp phân biệt ba miền Bắc - Trung - Nam.",
+        "example": "Miền Bắc có 4 mùa; miền Trung hẹp ngang nhiều biển đẹp; miền Nam có 2 mùa mưa - khô.",
+        "category": "Tổng ôn HK1",
+        "imageHint": "🗺️"
+      },
+      {
+        "id": "th_geo_w6_8",
+        "term": "Tổng kết: Vai trò của Rừng",
+        "phonetic": "[Lâm nghiệp]",
+        "vietnamese": "Trồng rừng & bảo vệ rừng giúp chống xói mòn đất và điều hòa khí hậu",
+        "definition": "Bảo vệ rừng chính là bảo vệ lá phổi xanh và nguồn nước ngọt của con người.",
+        "example": "Rừng đầu nguồn giúp hạn chế lũ quét và sạt lở đất vào mùa mưa.",
+        "category": "Tổng ôn HK1",
+        "imageHint": "🌲"
+      },
+      {
+        "id": "th_geo_w6_9",
+        "term": "Tổng kết: Hành động của học sinh",
+        "phonetic": "[Câu 7 vận dụng]",
+        "vietnamese": "Giữ vệ sinh, không xả rác, phân loại rác, trồng cây, tiết kiệm điện nước, giảm túi ni-lông",
+        "definition": "Bảo vệ môi trường bắt đầu từ ý thức và thói quen tốt hàng ngày ở nhà và ở trường.",
+        "example": "Học sinh lớp 5 góp phần bảo vệ tài nguyên qua các việc làm nhỏ mà thiết thực.",
+        "category": "Tổng ôn HK1",
+        "imageHint": "♻️"
+      },
+      {
+        "id": "th_geo_w6_10",
+        "term": "Tổng kết: Du lịch vùng miền",
+        "phonetic": "[Câu 8 vận dụng]",
+        "vietnamese": "Giới thiệu cảnh đẹp, khí hậu, sản vật và con người mến khách của vùng miền yêu thích",
+        "definition": "Hiểu địa lý giúp em tự tin làm hướng dẫn viên giới thiệu vẻ đẹp quê hương Việt Nam.",
+        "example": "Miền Tây sông nước có chợ nổi và cây ăn quả ngọt lành; miền Bắc có 4 mùa và văn hoá ngàn năm.",
+        "category": "Tổng ôn HK1",
+        "imageHint": "🧭"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_geo_w6_1",
+      "lesson": "Tổng ôn Địa Lý HK1",
+      "type": "multiple_choice",
+      "question": "Câu nào mô tả ĐÚNG nhất về dân số Việt Nam năm 2021?",
+      "options": [
+        "Khoảng 98,5 triệu người, đứng thứ 3 Đông Nam Á và thứ 15 thế giới",
+        "Khoảng 54 triệu người, đứng thứ 1 Đông Nam Á",
+        "Khoảng 85 triệu người, đứng thứ 10 thế giới",
+        "Khoảng 150 triệu người, đứng thứ 3 thế giới"
+      ],
+      "correctIndex": 0,
+      "explanation": "Năm 2021, Việt Nam có khoảng 98,5 triệu người, đứng thứ 3 ĐNA và thứ 15 thế giới.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w6_2",
+      "lesson": "Tổng ôn Địa Lý HK1",
+      "type": "multiple_choice",
+      "question": "Vì sao dân cư tập trung đông ở đồng bằng, ven biển nhưng thưa thớt ở vùng núi?",
+      "options": [
+        "Đồng bằng bằng phẳng, đất màu mỡ, giao thông thuận lợi; vùng núi hiểm trở, đi lại khó khăn",
+        "Đồng bằng có nhiều mỏ than đá hơn vùng núi",
+        "Vùng núi không có ánh sáng Mặt Trời",
+        "Vùng biển không có gió bão"
+      ],
+      "correctIndex": 0,
+      "explanation": "Điều kiện địa hình bằng phẳng, đất màu mỡ và giao thông thuận lợi giúp đồng bằng thu hút đông dân.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w6_3",
+      "lesson": "Tổng ôn Địa Lý HK1",
+      "type": "multiple_choice",
+      "question": "Tỉ lệ dân số dân tộc Kinh ở nước ta chiếm khoảng bao nhiêu phần trăm?",
+      "options": [
+        "Khoảng 54%",
+        "Khoảng 85%",
+        "Khoảng 65%",
+        "Khoảng 98%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Việt Nam có 54 dân tộc, trong đó dân tộc Kinh chiếm khoảng 85%.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w6_4",
+      "lesson": "Tổng ôn Địa Lý HK1",
+      "type": "multiple_choice",
+      "question": "Sự đoàn kết giữa 54 dân tộc Việt Nam có ý nghĩa gì?",
+      "options": [
+        "Giúp mọi người sống bình đẳng, giúp đỡ nhau phát triển kinh tế, giữ gìn văn hoá và bảo vệ đất nước",
+        "Giúp làm thay đổi hướng chảy của các con sông",
+        "Làm mất đi sự khác biệt văn hoá các vùng",
+        "Chỉ có lợi cho các thành phố lớn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đoàn kết các dân tộc tạo sức mạnh phát triển đất nước và bảo vệ Tổ quốc.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w6_5",
+      "lesson": "Tổng ôn Địa Lý HK1",
+      "type": "multiple_choice",
+      "question": "Cặp đôi cây trồng – vùng phân bố nào sau đây là CHÍNH XÁC?",
+      "options": [
+        "Cây lúa ở vùng núi cao; cà phê ở đồng bằng ven biển",
+        "Cây lúa ở Đồng bằng sông Hồng, ĐBSCL; cà phê, cao su, chè ở vùng núi và cao nguyên",
+        "Cây chè ở Đồng bằng sông Cửu Long; lúa gạo trên đỉnh núi",
+        "Cây cao su trồng dưới biển; thuỷ sản nuôi trên cao nguyên"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lúa trồng nhiều ở đồng bằng phù sa; cây công nghiệp trồng nhiều ở vùng núi và cao nguyên.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w6_6",
+      "lesson": "Tổng ôn Địa Lý HK1",
+      "type": "multiple_choice",
+      "question": "Ngành nào là ngành sản xuất chính trong nông nghiệp nước ta?",
+      "options": [
+        "Trồng trọt",
+        "Khai thác khoáng sản",
+        "Cơ khí chế tạo",
+        "Giao thông hàng không"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trồng trọt là ngành sản xuất chính trong nông nghiệp Việt Nam.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w6_7",
+      "lesson": "Tổng ôn Địa Lý HK1",
+      "type": "multiple_choice",
+      "question": "Vai trò chính của việc trồng rừng và bảo vệ rừng là gì?",
+      "options": [
+        "Giúp chống xói mòn đất và điều hòa khí hậu",
+        "Làm tăng nhiệt độ Trái Đất",
+        "Ngăn cản sự phát triển của ngành thuỷ sản",
+        "Làm cạn nước ở các con sông"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trồng rừng và bảo vệ rừng giúp chống xói mòn đất, giữ nước và điều hòa khí hậu.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w6_8",
+      "lesson": "Tổng ôn Địa Lý HK1",
+      "type": "multiple_choice",
+      "question": "Lợi thế tự nhiên lớn nhất giúp nước ta phát triển mạnh cả đánh bắt và nuôi trồng thuỷ sản là gì?",
+      "options": [
+        "Đường bờ biển dài, vùng biển rộng, nhiều sông hồ và khí hậu nhiệt đới",
+        "Có nhiều sa mạc cát trắng rộng lớn",
+        "Có nhiều đỉnh núi cao phủ băng tuyết",
+        "Nằm hoàn toàn xa đại dương"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vùng biển rộng, bờ biển dài và mạng lưới sông hồ dày đặc là điều kiện lý tưởng cho thuỷ sản.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w6_9",
+      "lesson": "Tổng ôn Địa Lý HK1",
+      "type": "multiple_choice",
+      "question": "Ngành thuỷ sản đóng góp gì cho đời sống và nền kinh tế nước ta?",
+      "options": [
+        "Cung cấp thực phẩm giàu dinh dưỡng, tạo việc làm và xuất khẩu thu ngoại tệ",
+        "Chỉ phục vụ nhu cầu giải trí câu cá cuối tuần",
+        "Làm giảm số lượng các làng nghề thủ công",
+        "Thay thế hoàn toàn nguồn điện năng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ngành thuỷ sản mang lại nguồn thực phẩm dồi dào, việc làm cho người dân và kim ngạch xuất khẩu lớn.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w6_10",
+      "lesson": "Tổng ôn Địa Lý HK1",
+      "type": "multiple_choice",
+      "question": "Nghề thủ công truyền thống nào dưới đây thuộc về vùng đất Hà Nội?",
+      "options": [
+        "Gốm Bát Tràng và lụa Vạn Phúc",
+        "Chợ nổi Cái Răng",
+        "Trồng cao su Tây Nguyên",
+        "Đánh bắt cá ngừ đại dương"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gốm Bát Tràng và lụa Vạn Phúc là hai làng nghề truyền thống tiêu biểu tại Hà Nội.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w6_11",
+      "lesson": "Tổng ôn Địa Lý HK1",
+      "type": "multiple_choice",
+      "question": "Các ngành công nghiệp nước ta phân bố tập trung nhiều nhất ở đâu?",
+      "options": [
+        "Ở vùng núi cao hiểm trở",
+        "Ở đồng bằng và các thành phố lớn",
+        "Ở vùng biên giới thưa dân",
+        "Ở ngoài đảo xa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Công nghiệp tập trung nhiều ở đồng bằng và các thành phố lớn nơi có lao động, hạ tầng và thị trường.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w6_12",
+      "lesson": "Tổng ôn Địa Lý HK1",
+      "type": "multiple_choice",
+      "question": "Loại hình nào KHÔNG nằm trong 4 loại hình giao thông vận tải chính của nước ta?",
+      "options": [
+        "Đường bộ và đường sắt",
+        "Đường thuỷ",
+        "Đường hàng không",
+        "Đường vũ trụ liên hành tinh"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nước ta có 4 loại hình giao thông: đường bộ, đường sắt, đường thuỷ và đường hàng không.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w6_13",
+      "lesson": "Tổng ôn Địa Lý HK1",
+      "type": "multiple_choice",
+      "question": "Miền nào của nước ta có địa hình đa dạng, 4 mùa xuân - hạ - thu - đông rõ rệt và giàu truyền thống văn hoá?",
+      "options": [
+        "Miền Bắc",
+        "Miền Trung",
+        "Miền Nam",
+        "Tây Nguyên"
+      ],
+      "correctIndex": 0,
+      "explanation": "Miền Bắc có địa hình đa dạng (núi, trung du, đồng bằng), có 4 mùa rõ rệt và giàu truyền thống văn hoá.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w6_14",
+      "lesson": "Tổng ôn Địa Lý HK1",
+      "type": "multiple_choice",
+      "question": "Miền nào có nhiều dãy núi lan sát biển, nhiều bãi biển đẹp nhưng hay gặp bão, lũ lụt, hạn hán?",
+      "options": [
+        "Miền Bắc",
+        "Miền Trung",
+        "Miền Nam",
+        "Đồng bằng sông Cửu Long"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đó là đặc điểm tự nhiên nổi bật của Miền Trung nước ta.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w6_15",
+      "lesson": "Tổng ôn Địa Lý HK1",
+      "type": "multiple_choice",
+      "question": "Đặc điểm nào đúng với Miền Nam (Đồng bằng sông Cửu Long và Đông Nam Bộ)?",
+      "options": [
+        "Có mùa đông lạnh giá kéo dài",
+        "Đất phù sa màu mỡ, khí hậu nóng ẩm, phát triển mạnh trồng lúa, cây ăn quả và công nghiệp",
+        "Hẹp ngang với nhiều đèo núi lan ra sát biển",
+        "Địa hình hoàn toàn là núi đá cao"
+      ],
+      "correctIndex": 1,
+      "explanation": "Miền Nam có đất phù sa màu mỡ, khí hậu nóng ẩm 2 mùa, mạnh về lúa gạo, cây ăn quả và công nghiệp.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w6_16",
+      "lesson": "Tổng ôn Địa Lý HK1",
+      "type": "multiple_choice",
+      "question": "Nếu làm hướng dẫn viên du lịch giới thiệu vùng Miền Tây sông nước, em nên nhắc tới nét đặc sắc nào?",
+      "options": [
+        "Chợ nổi trên sông, vườn cây ăn quả ngọt lành và con người hiền hòa mến khách",
+        "Đỉnh núi cao phủ tuyết trắng",
+        "Làng gốm Bát Tràng ở Hà Nội",
+        "Khí hậu mùa đông giá rét"
+      ],
+      "correctIndex": 0,
+      "explanation": "Miền Tây (ĐBSCL) nổi tiếng với mạng lưới sông rạch, chợ nổi, miệt vườn cây trái và người dân mến khách.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w6_17",
+      "lesson": "Tổng ôn Địa Lý HK1",
+      "type": "multiple_choice",
+      "question": "Để phát triển bền vững, việc khai thác tài nguyên thiên nhiên cần thực hiện theo nguyên tắc nào?",
+      "options": [
+        "Khai thác hợp lý, tiết kiệm nước và năng lượng",
+        "Khai thác cạn kiệt thật nhanh để thu lợi trước mắt",
+        "Không cần trồng lại rừng sau khi khai thác gỗ",
+        "Xả chất thải chưa xử lý ra tự nhiên"
+      ],
+      "correctIndex": 0,
+      "explanation": "Khai thác hợp lý và tiết kiệm nước, năng lượng là chìa khóa của phát triển bền vững.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w6_18",
+      "lesson": "Tổng ôn Địa Lý HK1",
+      "type": "multiple_choice",
+      "question": "Hành động nào của học sinh lớp 5 góp phần thiết thực nhất vào việc bảo vệ môi trường?",
+      "options": [
+        "Giữ vệ sinh trường lớp, bỏ rác đúng nơi quy định, trồng cây xanh và tiết kiệm điện nước",
+        "Dùng nhiều túi ni-lông mỗi ngày rồi vứt bừa bãi",
+        "Bật hết đèn quạt trong lớp dù trời sáng và mát",
+        "Bẻ cành cây ở sân trường"
+      ],
+      "correctIndex": 0,
+      "explanation": "Giữ vệ sinh, trồng cây xanh, phân loại rác và tiết kiệm điện nước là những việc làm thiết thực nhất.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w6_19",
+      "lesson": "Tổng ôn Địa Lý HK1",
+      "type": "multiple_choice",
+      "question": "Tại sao nói giao thông vận tải giúp kinh tế các vùng miền cùng phát triển?",
+      "options": [
+        "Vì giúp nối liền các vùng miền, vận chuyển hàng hoá và hành khách nhanh chóng, thuận lợi",
+        "Vì làm tăng thêm số lượng dân tộc ở nước ta",
+        "Vì làm các vùng núi biến thành đồng bằng",
+        "Vì ngăn cản bão lũ ở miền Trung"
+      ],
+      "correctIndex": 0,
+      "explanation": "Giao thông kết nối vùng nguyên liệu với nhà máy, kết nối thành thị với nông thôn và xuất khẩu quốc tế.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w6_20",
+      "lesson": "Tổng ôn Địa Lý HK1",
+      "type": "multiple_choice",
+      "question": "Trong nông nghiệp nước ta, vật nuôi nào dưới đây thường được nuôi phổ biến ở nhiều địa phương?",
+      "options": [
+        "Trâu, bò, lợn, gia cầm",
+        "Hải tượng và chim cánh cụt",
+        "Gấu trúc và chuột túi",
+        "Hươu cao cổ và tê giác"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trâu, bò, lợn và gia cầm (gà, vịt...) là những vật nuôi phổ biến trong chăn nuôi ở Việt Nam.",
+      "points": 100
+    }
+  ]
+}

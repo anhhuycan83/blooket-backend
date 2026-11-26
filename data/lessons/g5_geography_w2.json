@@ -1,0 +1,226 @@
+{
+  "id": "g5_geography_w2",
+  "grade": 5,
+  "subject": "geography",
+  "subjectName": "Địa Lý",
+  "week": 2,
+  "title": "Chủ đề 2: Nông nghiệp, Lâm nghiệp & Thuỷ sản",
+  "subTitle": "Trồng trọt, chăn nuôi, bảo vệ rừng & phát triển thuỷ sản",
+  "theory": {
+    "totalCards": 6,
+    "cards": [
+      {
+        "id": "th_geo_w2_1",
+        "term": "Trồng trọt là ngành chính",
+        "phonetic": "[Nông nghiệp]",
+        "vietnamese": "Trồng trọt là ngành sản xuất chính trong nông nghiệp Việt Nam",
+        "definition": "Trong đó cây lương thực (nhất là lúa gạo) và cây công nghiệp đóng vai trò quan trọng hàng đầu.",
+        "example": "Nước ta là một trong những quốc gia xuất khẩu gạo và cà phê hàng đầu thế giới.",
+        "category": "2. Nông - Lâm - Thuỷ sản",
+        "imageHint": "🌾"
+      },
+      {
+        "id": "th_geo_w2_2",
+        "term": "Vùng trồng lúa gạo lớn",
+        "phonetic": "[Cây lương thực]",
+        "vietnamese": "Lúa gạo trồng nhiều ở Đồng bằng sông Hồng và Đồng bằng sông Cửu Long",
+        "definition": "Nhờ đất phù sa màu mỡ, nguồn nước sông dồi dào và địa hình bằng phẳng.",
+        "example": "Đồng bằng sông Cửu Long là vựa lúa lớn nhất của cả nước.",
+        "category": "2. Nông - Lâm - Thuỷ sản",
+        "imageHint": "🍚"
+      },
+      {
+        "id": "th_geo_w2_3",
+        "term": "Vùng trồng cây công nghiệp",
+        "phonetic": "[Cây công nghiệp]",
+        "vietnamese": "Cà phê, cao su, chè trồng nhiều ở vùng núi và cao nguyên",
+        "definition": "Các vùng này có đất đỏ badan, đất feralit màu mỡ và khí hậu rất thích hợp.",
+        "example": "Tây Nguyên nổi tiếng với cà phê, cao su; Trung du và miền núi Bắc Bộ nổi tiếng với cây chè.",
+        "category": "2. Nông - Lâm - Thuỷ sản",
+        "imageHint": "☕"
+      },
+      {
+        "id": "th_geo_w2_4",
+        "term": "Ngành Chăn nuôi",
+        "phonetic": "[Nông nghiệp]",
+        "vietnamese": "Chăn nuôi trâu, bò, lợn, gia cầm phát triển ở nhiều địa phương",
+        "definition": "Cung cấp thịt, trứng, sữa cho người dân và nguồn nguyên liệu cho công nghiệp chế biến.",
+        "example": "Trâu, bò được nuôi nhiều ở vùng núi, trung du và đồng bằng.",
+        "category": "2. Nông - Lâm - Thuỷ sản",
+        "imageHint": "🐄"
+      },
+      {
+        "id": "th_geo_w2_5",
+        "term": "Ngành Lâm nghiệp",
+        "phonetic": "[Rừng Việt Nam]",
+        "vietnamese": "Trồng rừng và bảo vệ rừng giúp chống xói mòn đất, điều hòa khí hậu",
+        "definition": "Rừng còn giữ nguồn nước, hạn chế lũ lụt và cung cấp gỗ, lâm sản.",
+        "example": "Trồng rừng ngập mặn ven biển giúp chắn sóng và bảo vệ đê điều.",
+        "category": "2. Nông - Lâm - Thuỷ sản",
+        "imageHint": "🌲"
+      },
+      {
+        "id": "th_geo_w2_6",
+        "term": "Ngành Thuỷ sản",
+        "phonetic": "[Kinh tế biển & sông]",
+        "vietnamese": "Đánh bắt và nuôi trồng phát triển mạnh ở vùng biển, sông, hồ",
+        "definition": "Nhờ bờ biển dài, vùng biển rộng, nhiều sông hồ và khí hậu nhiệt đới; thuỷ sản giúp tạo việc làm và xuất khẩu thu ngoại tệ.",
+        "example": "Cá tra, tôm ở Đồng bằng sông Cửu Long được xuất khẩu tới nhiều nước trên thế giới.",
+        "category": "2. Nông - Lâm - Thuỷ sản",
+        "imageHint": "🐟"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_geo_w2_1",
+      "lesson": "Nông - Lâm - Thuỷ sản",
+      "type": "multiple_choice",
+      "question": "Trong nông nghiệp nước ta, ngành nào là ngành sản xuất chính?",
+      "options": [
+        "Ngành trồng trọt",
+        "Ngành đóng tàu",
+        "Ngành dệt may",
+        "Ngành khai thác dầu khí"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trồng trọt là ngành sản xuất chính trong nông nghiệp nước ta.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w2_2",
+      "lesson": "Nông - Lâm - Thuỷ sản",
+      "type": "multiple_choice",
+      "question": "Lúa gạo ở nước ta được trồng nhiều nhất ở hai vùng nào?",
+      "options": [
+        "Tây Nguyên và Duyên hải miền Trung",
+        "Đồng bằng sông Hồng và Đồng bằng sông Cửu Long",
+        "Hoàng Liên Sơn và Trường Sơn",
+        "Các đảo ngoài khơi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lúa gạo trồng nhiều ở Đồng bằng sông Hồng và Đồng bằng sông Cửu Long nhờ đất phù sa và nguồn nước dồi dào.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w2_3",
+      "lesson": "Nông - Lâm - Thuỷ sản",
+      "type": "multiple_choice",
+      "question": "Các cây công nghiệp như cà phê, cao su, chè được trồng nhiều ở đâu?",
+      "options": [
+        "Vùng ven biển ngập mặn",
+        "Vùng núi và cao nguyên",
+        "Giữa lòng các thành phố lớn",
+        "Vùng cửa sông"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cà phê, cao su, chè trồng nhiều ở vùng núi và cao nguyên vì có đất đỏ badan, đất feralit và khí hậu phù hợp.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w2_4",
+      "lesson": "Nông - Lâm - Thuỷ sản",
+      "type": "multiple_choice",
+      "question": "Vì sao đồng bằng rất thuận lợi để trồng cây lúa nước?",
+      "options": [
+        "Vì có đất phù sa màu mỡ, nguồn nước dồi dào, địa hình bằng phẳng",
+        "Vì có nhiều đồi dốc và đá vôi",
+        "Vì quanh năm có tuyết rơi",
+        "Vì không có mưa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đất phù sa màu mỡ, địa hình bằng phẳng và nhiều nước giúp cây lúa phát triển mạnh.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w2_5",
+      "lesson": "Nông - Lâm - Thuỷ sản",
+      "type": "multiple_choice",
+      "question": "Những vật nuôi phổ biến nào phát triển trong ngành chăn nuôi ở nhiều địa phương nước ta?",
+      "options": [
+        "Gấu Bắc Cực, chim cánh cụt",
+        "Trâu, bò, lợn, gia cầm",
+        "Lạc đà, sư tử",
+        "Cá voi, hải cẩu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chăn nuôi nước ta phát triển mạnh các vật nuôi như trâu, bò, lợn và gia cầm.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w2_6",
+      "lesson": "Nông - Lâm - Thuỷ sản",
+      "type": "multiple_choice",
+      "question": "Việc trồng rừng và bảo vệ rừng trong lâm nghiệp mang lại lợi ích trực tiếp nào?",
+      "options": [
+        "Làm tăng xói mòn đất",
+        "Giúp chống xói mòn đất và điều hòa khí hậu",
+        "Làm sông ngòi cạn kiệt nhanh hơn",
+        "Ngăn cản giao thông đường hàng không"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trồng và bảo vệ rừng giúp chống xói mòn đất, điều hòa khí hậu và hạn chế thiên tai.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w2_7",
+      "lesson": "Nông - Lâm - Thuỷ sản",
+      "type": "multiple_choice",
+      "question": "Hai hoạt động chính của ngành thuỷ sản nước ta là gì?",
+      "options": [
+        "Khai thác khoáng sản và luyện kim",
+        "Đánh bắt và nuôi trồng thuỷ sản",
+        "Trồng lúa và trồng cà phê",
+        "Dệt vải và làm gốm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ngành thuỷ sản gồm cả đánh bắt (tự nhiên) và nuôi trồng thuỷ sản ở biển, sông, hồ.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w2_8",
+      "lesson": "Nông - Lâm - Thuỷ sản",
+      "type": "multiple_choice",
+      "question": "Điều kiện tự nhiên nào giúp nước ta phát triển mạnh ngành thuỷ sản?",
+      "options": [
+        "Bờ biển dài, vùng biển rộng, nhiều sông hồ, kênh rạch và khí hậu nhiệt đới",
+        "Có nhiều sa mạc rộng lớn",
+        "Nước ta nằm sâu trong lục địa, không giáp biển",
+        "Khí hậu lạnh giá quanh năm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đường bờ biển dài, nhiều sông hồ và khí hậu nhiệt đới thuận lợi cho thuỷ sản sinh sôi.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w2_9",
+      "lesson": "Nông - Lâm - Thuỷ sản",
+      "type": "multiple_choice",
+      "question": "Ngành thuỷ sản đem lại lợi ích kinh tế và đời sống nào cho đất nước?",
+      "options": [
+        "Chỉ dùng để trang trí hồ cá",
+        "Cung cấp thực phẩm giàu dinh dưỡng, tạo việc làm, tăng thu nhập và xuất khẩu thu ngoại tệ",
+        "Làm giảm diện tích đồng bằng",
+        "Thay thế hoàn toàn ngành trồng trọt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thuỷ sản cung cấp thực phẩm bổ dưỡng, tạo việc làm cho người dân và mang lại nguồn ngoại tệ từ xuất khẩu.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w2_10",
+      "lesson": "Nông - Lâm - Thuỷ sản",
+      "type": "multiple_choice",
+      "question": "Loại đất nào thích hợp giúp cây cà phê, cao su phát triển tốt ở Tây Nguyên?",
+      "options": [
+        "Đất cát trắng ven biển",
+        "Đất đỏ badan, đất feralit màu mỡ",
+        "Đất phèn chua mặn",
+        "Đất sỏi đá cằn cỗi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vùng núi và cao nguyên có đất đỏ badan, đất feralit màu mỡ rất hợp với cây công nghiệp lâu năm.",
+      "points": 100
+    }
+  ]
+}

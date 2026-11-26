@@ -1,0 +1,266 @@
+{
+  "id": "g5_science_vn_w5",
+  "grade": 5,
+  "subject": "science_vn",
+  "subjectName": "Khoa Học (TV)",
+  "week": 5,
+  "title": "Bài 5: Sự Sinh sản của Thực vật có hoa",
+  "subTitle": "Cấu tạo hoa, thụ phấn, thụ tinh & sự hình thành hạt, quả",
+  "theory": {
+    "totalCards": 7,
+    "cards": [
+      {
+        "id": "th_scivn_w5_1",
+        "term": "Cơ quan sinh sản thực vật có hoa",
+        "phonetic": "[Câu 1 - Bài 5]",
+        "vietnamese": "Hoa là cơ quan sinh sản của thực vật có hoa",
+        "definition": "Hoa mang các cơ quan sinh sản đực và cái giúp tạo thành hạt và quả để duy trì nòi giống.",
+        "example": "Hoa bưởi, hoa bí, hoa lúa đều là cơ quan sinh sản của cây.",
+        "category": "Bài 5: Sinh sản thực vật",
+        "imageHint": "🌸"
+      },
+      {
+        "id": "th_scivn_w5_2",
+        "term": "Các bộ phận của hoa",
+        "phonetic": "[Câu 2 & 6 - Bài 5]",
+        "vietnamese": "Hoa gồm 4 bộ phận chính: đài hoa, cánh hoa, nhị và nhụy",
+        "definition": "Trong sơ đồ hoa: (1) Đài hoa ở dưới cùng, (2) Cánh hoa bao quanh, (3) Chỉ nhị + (4) Bao phấn thuộc Nhị, (5) Nhụy ở chính giữa.",
+        "example": "Nhị và nhụy là hai bộ phận sinh sản quan trọng nhất của bông hoa.",
+        "category": "Bài 5: Sinh sản thực vật",
+        "imageHint": "🌺"
+      },
+      {
+        "id": "th_scivn_w5_3",
+        "term": "Nhị và Nhụy hoa",
+        "phonetic": "[Cơ quan sinh sản]",
+        "vietnamese": "Nhị (cơ quan sinh sản đực): chỉ nhị & bao phấn chứa hạt phấn | Nhụy (cơ quan sinh sản cái): đầu nhụy, vòi nhụy & bầu nhụy chứa noãn",
+        "definition": "Bao phấn ở đầu nhị chứa hạt phấn; bầu nhụy ở gốc nhụy chứa noãn (mang tế bào sinh dục cái).",
+        "example": "Khi chạm vào đầu nhị hoa ly hay hoa dâm bụt, ta thấy lớp bụi vàng chính là hạt phấn.",
+        "category": "Bài 5: Sinh sản thực vật",
+        "imageHint": "🌼"
+      },
+      {
+        "id": "th_scivn_w5_4",
+        "term": "Sự thụ phấn",
+        "phonetic": "[Câu 3 - Bài 5]",
+        "vietnamese": "Thụ phấn là hiện tượng hạt phấn từ bao phấn của nhị tiếp xúc với đầu nhụy",
+        "definition": "Hạt phấn có thể rơi vào đầu nhụy nhờ côn trùng (ong, bướm) hoặc nhờ gió.",
+        "example": "Chú ong đi hút mật mang theo hạt phấn dính trên chân chuyển sang đầu nhụy hoa khác.",
+        "category": "Bài 5: Sinh sản thực vật",
+        "imageHint": "🐝"
+      },
+      {
+        "id": "th_scivn_w5_5",
+        "term": "Biến đổi sau khi thụ tinh",
+        "phonetic": "[Câu 4 - Bài 5]",
+        "vietnamese": "Hợp tử phát triển thành phôi; noãn phát triển thành hạt chứa phôi; bầu nhụy phát triển thành quả chứa hạt",
+        "definition": "Sau khi thụ tinh thành công, cánh hoa thường héo rụng còn bầu nhụy phình to thành quả.",
+        "example": "Bầu nhụy hoa mướp phát triển thành quả mướp, các noãn bên trong thành hạt mướp.",
+        "category": "Bài 5: Sinh sản thực vật",
+        "imageHint": "🍎"
+      },
+      {
+        "id": "th_scivn_w5_6",
+        "term": "Hoa thụ phấn nhờ côn trùng",
+        "phonetic": "[Câu 5 - Bài 5]",
+        "vietnamese": "Thường có màu sắc sặc sỡ, hương thơm, mật ngọt (VD: hoa bưởi, hoa bí, hoa mướp, hoa bầu, hoa dưa chuột)",
+        "definition": "Màu đẹp, hương thơm và mật ngọt giúp thu hút ong, bướm đến tìm mật và vô tình giúp hoa thụ phấn.",
+        "example": "Hoa bưởi thơm ngát thu hút nhiều ong mật bay đến thụ phấn.",
+        "category": "Bài 5: Sinh sản thực vật",
+        "imageHint": "🦋"
+      },
+      {
+        "id": "th_scivn_w5_7",
+        "term": "Hoa thụ phấn nhờ gió",
+        "phonetic": "[Câu 5 - Bài 5]",
+        "vietnamese": "Không có màu sắc đẹp, cánh hoa nhỏ hoặc không có, hạt phấn nhiều và nhẹ (VD: ngô, lúa, lúa mì, cỏ, kê, thông)",
+        "definition": "Vì hạt phấn rất nhiều và nhẹ nên chỉ cần làn gió thổi qua là dễ dàng bay đến đầu nhụy.",
+        "example": "Cây lúa, cây ngô, cây thông có hoa không sặc sỡ nhưng tạo rất nhiều hạt phấn nhẹ nhờ gió.",
+        "category": "Bài 5: Sinh sản thực vật",
+        "imageHint": "🌾"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_scivn_w5_1",
+      "lesson": "Bài 5: Sinh sản thực vật",
+      "type": "multiple_choice",
+      "question": "Cơ quan nào là cơ quan sinh sản của thực vật có hoa?",
+      "options": [
+        "Rễ",
+        "Thân",
+        "Lá",
+        "Hoa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hoa là cơ quan sinh sản của thực vật có hoa.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w5_2",
+      "lesson": "Bài 5: Sinh sản thực vật",
+      "type": "multiple_choice",
+      "question": "Một bông hoa đầy đủ gồm bốn bộ phận chính nào?",
+      "options": [
+        "Đài hoa, cánh hoa, nhị và nhụy",
+        "Rễ, thân, lá và cành",
+        "Vỏ cây, lõi gỗ, lá non và hạt",
+        "Đài hoa, quả, thân và rễ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hoa gồm 4 bộ phận chính: đài hoa, cánh hoa, nhị và nhụy.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w5_3",
+      "lesson": "Bài 5: Sinh sản thực vật",
+      "type": "multiple_choice",
+      "question": "Bộ phận nào là cơ quan sinh sản ĐỰC của hoa và gồm những phần nào?",
+      "options": [
+        "Nhị — gồm chỉ nhị và bao phấn (chứa hạt phấn)",
+        "Nhụy — gồm đầu nhụy, vòi nhụy và bầu nhụy",
+        "Đài hoa — nằm ở dưới cánh hoa",
+        "Cánh hoa — có màu sắc sặc sỡ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nhị là cơ quan sinh sản đực, gồm chỉ nhị và bao phấn chứa các hạt phấn.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w5_4",
+      "lesson": "Bài 5: Sinh sản thực vật",
+      "type": "multiple_choice",
+      "question": "Nhụy là cơ quan sinh sản cái của hoa. Bộ phận nào của nhụy chứa noãn (mang tế bào sinh dục cái)?",
+      "options": [
+        "Đầu nhụy",
+        "Vòi nhụy",
+        "Bầu nhụy",
+        "Bao phấn"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nhụy gồm đầu nhụy, vòi nhụy và bầu nhụy; bầu nhụy chứa noãn.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w5_5",
+      "lesson": "Bài 5: Sinh sản thực vật",
+      "type": "multiple_choice",
+      "question": "Trong cấu tạo hoa (theo thứ tự từ ngoài vào trong), bộ phận xanh nâng đỡ bên dưới cánh hoa và phần bao quanh sặc sỡ lần lượt là gì?",
+      "options": [
+        "Đài hoa và cánh hoa",
+        "Bao phấn và chỉ nhị",
+        "Noãn và bầu nhụy",
+        "Hạt phấn và đầu nhụy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Theo sơ đồ hoa: (1) Đài hoa ở phía dưới nâng đỡ cánh hoa; (2) Cánh hoa bao quanh nhị và nhụy.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w5_6",
+      "lesson": "Bài 5: Sinh sản thực vật",
+      "type": "multiple_choice",
+      "question": "Thế nào là sự thụ phấn ở thực vật có hoa?",
+      "options": [
+        "Hiện tượng hạt phấn từ bao phấn của nhị tiếp xúc với đầu nhụy",
+        "Hiện tượng quả chín rụng xuống đất",
+        "Hiện tượng hạt nảy mầm thành cây con",
+        "Hiện tượng rễ cây hút nước từ đất"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thụ phấn là hiện tượng hạt phấn từ bao phấn của nhị tiếp xúc với đầu nhụy.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w5_7",
+      "lesson": "Bài 5: Sinh sản thực vật",
+      "type": "multiple_choice",
+      "question": "Sau khi thụ tinh, BẦU NHỤY của hoa sẽ phát triển thành gì?",
+      "options": [
+        "Phát triển thành hạt",
+        "Phát triển thành quả chứa hạt",
+        "Phát triển thành cánh hoa mới",
+        "Biến thành lá non"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sau thụ tinh: hợp tử -> phôi; noãn -> hạt chứa phôi; bầu nhụy -> quả chứa hạt.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w5_8",
+      "lesson": "Bài 5: Sinh sản thực vật",
+      "type": "multiple_choice",
+      "question": "Sau khi thụ tinh, NOÃN và HỢP TỬ lần lượt phát triển thành bộ phận nào?",
+      "options": [
+        "Noãn thành quả; hợp tử thành rễ",
+        "Hợp tử phát triển thành phôi; noãn phát triển thành hạt chứa phôi",
+        "Noãn thành cánh hoa; hợp tử thành đài hoa",
+        "Cả hai đều héo rụng ngay"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hợp tử phát triển thành phôi, còn noãn phát triển thành hạt chứa phôi.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w5_9",
+      "lesson": "Bài 5: Sinh sản thực vật",
+      "type": "multiple_choice",
+      "question": "Đặc điểm nào thường thấy ở hoa thụ phấn nhờ CÔN TRÙNG?",
+      "options": [
+        "Không có màu sắc đẹp, không có hương thơm",
+        "Thường có màu sắc sặc sỡ, hương thơm và mật ngọt",
+        "Cánh hoa nhỏ xíu hoặc không có cánh",
+        "Hạt phấn rất nhẹ để bay xa theo gió"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hoa thụ phấn nhờ côn trùng có màu sặc sỡ, hương thơm, mật ngọt để thu hút ong, bướm.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w5_10",
+      "lesson": "Bài 5: Sinh sản thực vật",
+      "type": "multiple_choice",
+      "question": "Nhóm loài hoa nào sau đây thụ phấn chủ yếu nhờ CÔN TRÙNG?",
+      "options": [
+        "Hoa ngô, hoa lúa, hoa cỏ",
+        "Hoa bưởi, hoa bí, hoa mướp, hoa bầu, hoa dưa chuột",
+        "Hoa thông, hoa kê, lúa mì",
+        "Cây rêu và dương xỉ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hoa bưởi, hoa bí, hoa mướp, hoa bầu, hoa dưa chuột có màu/hương/mật nên thụ phấn nhờ côn trùng.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w5_11",
+      "lesson": "Bài 5: Sinh sản thực vật",
+      "type": "multiple_choice",
+      "question": "Hoa thụ phấn nhờ GIÓ có đặc điểm nổi bật nào?",
+      "options": [
+        "Màu sắc cực kỳ rực rỡ và to lớn",
+        "Không có màu sắc đẹp, cánh hoa nhỏ hoặc không có, hạt phấn nhiều và nhẹ",
+        "Luôn chứa thật nhiều mật ngọt",
+        "Chỉ nở vào ban đêm để thu hút bướm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hoa thụ phấn nhờ gió không cần thu hút côn trùng nên cánh nhỏ/không có, tạo rất nhiều hạt phấn nhẹ.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w5_12",
+      "lesson": "Bài 5: Sinh sản thực vật",
+      "type": "multiple_choice",
+      "question": "Nhóm cây nào sau đây có hoa thụ phấn nhờ GIÓ?",
+      "options": [
+        "Ngô, lúa, lúa mì, cỏ, kê, thông",
+        "Bưởi, cam, chanh",
+        "Bí, mướp, bầu",
+        "Hoa hồng, hoa hướng dương"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ngô, lúa, lúa mì, cỏ, kê, thông là những ví dụ điển hình của hoa thụ phấn nhờ gió.",
+      "points": 100
+    }
+  ]
+}

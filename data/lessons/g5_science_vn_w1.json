@@ -1,0 +1,266 @@
+{
+  "id": "g5_science_vn_w1",
+  "grade": 5,
+  "subject": "science_vn",
+  "subjectName": "Khoa Học (TV)",
+  "week": 1,
+  "title": "Bài 1: Thành phần và Vai trò của Đất",
+  "subTitle": "5 thành phần của đất, mùn, nước, cải tạo đất & vai trò giun đất",
+  "theory": {
+    "totalCards": 7,
+    "cards": [
+      {
+        "id": "th_scivn_w1_1",
+        "term": "5 thành phần của đất",
+        "phonetic": "[Câu 1 - Bài 1]",
+        "vietnamese": "Đất gồm: chất khoáng, mùn, nước, không khí và sinh vật",
+        "definition": "Năm thành phần này cùng tồn tại trong đất và giữ vai trò quan trọng giúp cây trồng sinh trưởng.",
+        "example": "Trong đất vườn có hạt khoáng, lớp mùn màu sẫm, độ ẩm của nước, khe khí và giun đất, vi sinh vật.",
+        "category": "Bài 1: Đất trồng",
+        "imageHint": "🪴"
+      },
+      {
+        "id": "th_scivn_w1_2",
+        "term": "Vai trò của đất đối với cây",
+        "phonetic": "[Câu 2 - Bài 1]",
+        "vietnamese": "Là nơi sinh sống giúp cây đứng vững; cung cấp nước, chất dinh dưỡng (khoáng) và không khí cho cây",
+        "definition": "Rễ cây bám chặt vào đất để đứng vững và hút nước cùng muối khoáng nuôi thân, lá, hoa, quả.",
+        "example": "Cây cổ thụ có bộ rễ bám sâu trong đất để chống chọi với gió bão.",
+        "category": "Bài 1: Đất trồng",
+        "imageHint": "🌳"
+      },
+      {
+        "id": "th_scivn_w1_3",
+        "term": "Vai trò của nước trong đất",
+        "phonetic": "[Câu 3 - Bài 1]",
+        "vietnamese": "Nước trong đất giúp hòa tan và vận chuyển các chất dinh dưỡng để rễ cây hút được và sử dụng",
+        "definition": "Nếu đất quá khô không có nước, chất khoáng không thể hòa tan để đi qua lông hút của rễ cây.",
+        "example": "Tưới nước đều đặn giúp phân bón trong đất tan ra để rễ cây hấp thụ dễ dàng.",
+        "category": "Bài 1: Đất trồng",
+        "imageHint": "💧"
+      },
+      {
+        "id": "th_scivn_w1_4",
+        "term": "Nguồn gốc & ích lợi của mùn",
+        "phonetic": "[Câu 4 - Bài 1]",
+        "vietnamese": "Mùn tạo thành từ xác thực vật, động vật bị phân hủy nhờ sinh vật đất; giúp đất tơi xốp, màu mỡ",
+        "definition": "Mùn là nguồn cung cấp chất dinh dưỡng tự nhiên rất quý giá giúp cây phát triển xanh tốt.",
+        "example": "Lá cây rụng xuống đất được vi sinh vật và giun phân hủy thành lớp mùn màu nâu đen.",
+        "category": "Bài 1: Đất trồng",
+        "imageHint": "🍂"
+      },
+      {
+        "id": "th_scivn_w1_5",
+        "term": "Cách cải tạo đất khô cằn",
+        "phonetic": "[Câu 5 - Bài 1]",
+        "vietnamese": "Bón phân hữu cơ (tăng mùn), xới đất (tơi xốp, thoáng khí), tưới đủ ẩm & trồng cây phủ đất",
+        "definition": "Kết hợp phân chuồng/phân xanh/rác hữu cơ đã ủ, làm tơi đất và giữ ẩm giúp đất bạc màu hồi sinh.",
+        "example": "Mảnh vườn đất khô cằn, cây còi cọc cần bón phân hữu cơ ủ hoai, xới đất và tưới nước giữ ẩm.",
+        "category": "Bài 1: Đất trồng",
+        "imageHint": "🌿"
+      },
+      {
+        "id": "th_scivn_w1_6",
+        "term": "Tác dụng của xới đất, cày đất",
+        "phonetic": "[Câu 6 - Bài 1]",
+        "vietnamese": "Làm đất tơi xốp và làm tăng lượng không khí trong đất trước khi trồng cây",
+        "definition": "Rễ cây cần không khí (oxy) trong các khe đất để hô hấp và phát triển mạnh.",
+        "example": "Bác nông dân cày bừa đất trước vụ gieo trồng để đất tơi xốp, giàu không khí.",
+        "category": "Bài 1: Đất trồng",
+        "imageHint": "🚜"
+      },
+      {
+        "id": "th_scivn_w1_7",
+        "term": "Vai trò của giun đối với đất",
+        "phonetic": "[Câu 7 - Bài 1]",
+        "vietnamese": "Giun ăn đất và thải ra mùn giúp đất màu mỡ; khi di chuyển tạo nhiều khoảng trống làm đất tơi xốp",
+        "definition": "Giun đất được ví như 'những người cày đất thầm lặng' có ích cho nông nghiệp.",
+        "example": "Nơi nào có nhiều giun đất, đất thường rất tơi xốp, thoáng khí và màu mỡ.",
+        "category": "Bài 1: Đất trồng",
+        "imageHint": "🪱"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_scivn_w1_1",
+      "lesson": "Bài 1: Đất trồng",
+      "type": "multiple_choice",
+      "question": "Đất gồm đầy đủ những thành phần nào sau đây?",
+      "options": [
+        "Chất khoáng, mùn, nước, không khí và sinh vật",
+        "Chỉ gồm cát, sỏi và nước",
+        "Chất khoáng, kim loại và nhựa",
+        "Chỉ có nước, không khí và đá vôi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đất gồm 5 thành phần chính: chất khoáng, mùn, nước, không khí và sinh vật.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w1_2",
+      "lesson": "Bài 1: Đất trồng",
+      "type": "multiple_choice",
+      "question": "Đất có những vai trò quan trọng nào đối với cây trồng?",
+      "options": [
+        "Là nơi sinh sống giữ cho cây đứng vững; cung cấp nước, chất dinh dưỡng (chất khoáng) và không khí",
+        "Chỉ giúp cây đứng vững, không cung cấp chất gì cho cây",
+        "Cung cấp ánh sáng Mặt Trời cho lá cây",
+        "Tạo ra gió giúp cây thụ phấn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đất vừa giúp cây đứng vững vừa cung cấp nước, chất khoáng và không khí cho rễ cây.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w1_3",
+      "lesson": "Bài 1: Đất trồng",
+      "type": "multiple_choice",
+      "question": "Nước trong đất có vai trò trực tiếp gì đối với dinh dưỡng của cây?",
+      "options": [
+        "Làm đất cứng lại như đá",
+        "Giúp hòa tan và vận chuyển các chất dinh dưỡng để rễ cây hút được và sử dụng",
+        "Đuổi hết sinh vật có ích ra khỏi đất",
+        "Biến chất khoáng thành không khí"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nước hòa tan và vận chuyển các chất dinh dưỡng để rễ cây có thể hút và nuôi cây.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w1_4",
+      "lesson": "Bài 1: Đất trồng",
+      "type": "multiple_choice",
+      "question": "Mùn trong đất được tạo thành từ đâu?",
+      "options": [
+        "Từ đá sỏi nghiền nát ngoài biển",
+        "Từ xác thực vật, động vật bị phân hủy với sự tham gia của sinh vật trong đất",
+        "Từ nước mưa đọng lại lâu ngày",
+        "Từ khí ga và dầu mỏ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Xác thực vật, động vật bị phân hủy nhờ sinh vật trong đất tạo thành mùn.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w1_5",
+      "lesson": "Bài 1: Đất trồng",
+      "type": "multiple_choice",
+      "question": "Mùn mang lại ích lợi gì cho đất và cây trồng?",
+      "options": [
+        "Làm đất bị khô cằn và chai cứng",
+        "Cung cấp chất dinh dưỡng, giúp đất tơi xốp và màu mỡ",
+        "Làm giảm lượng không khí trong đất",
+        "Ngăn cản rễ cây hút nước"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mùn cung cấp nhiều chất dinh dưỡng, giúp đất tơi xốp và màu mỡ hơn.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w1_6",
+      "lesson": "Bài 1: Đất trồng",
+      "type": "multiple_choice",
+      "question": "Khi mảnh vườn có đất khô cằn, cây trồng còi cọc chậm lớn, cách cải tạo ĐÚNG nhất là gì?",
+      "options": [
+        "Bón phân hữu cơ (phân chuồng, phân xanh, rác hữu cơ đã ủ), xới đất tơi xốp và tưới đủ ẩm",
+        "Đổ thật nhiều cát khô và đá sỏi lên mặt vườn",
+        "Dậm thật chặt mặt đất để giữ cho cứng",
+        "Không tưới nước và nhổ hết cỏ phủ đất"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bón phân hữu cơ giúp tăng mùn và dinh dưỡng; xới đất giúp thoáng khí; tưới nước và trồng cây phủ đất giữ ẩm.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w1_7",
+      "lesson": "Bài 1: Đất trồng",
+      "type": "multiple_choice",
+      "question": "Trước khi trồng cây, người ta thường xới đất, cày đất để làm gì?",
+      "options": [
+        "Để đất tơi xốp hơn",
+        "Để đất nén chặt hơn",
+        "Để làm bay hơi hết mùn trong đất",
+        "Để diệt hết giun đất"
+      ],
+      "correctIndex": 0,
+      "explanation": "Xới đất, cày đất giúp đất tơi xốp, thuận lợi cho rễ cây đâm sâu và phát triển.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w1_8",
+      "lesson": "Bài 1: Đất trồng",
+      "type": "multiple_choice",
+      "question": "Quá trình xới đất, cày đất làm thay đổi rõ rệt thành phần nào trong đất?",
+      "options": [
+        "Làm giảm lượng chất khoáng",
+        "Làm tăng lượng không khí trong đất",
+        "Làm biến mất hoàn toàn sinh vật",
+        "Làm tăng lượng muối biển"
+      ],
+      "correctIndex": 1,
+      "explanation": "Xới đất, cày đất tạo nhiều khe hở giúp tăng lượng không khí trong đất.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w1_9",
+      "lesson": "Bài 1: Đất trồng",
+      "type": "multiple_choice",
+      "question": "Giun đất có vai trò có ích như thế nào đối với đất trồng?",
+      "options": [
+        "Ăn hết rễ non của cây trồng",
+        "Ăn đất và thải ra mùn giúp đất màu mỡ; khi di chuyển tạo nhiều khoảng trống làm đất tơi xốp",
+        "Hút sạch nước khiến đất khô hạn",
+        "Làm đất chai cứng không thấm nước"
+      ],
+      "correctIndex": 1,
+      "explanation": "Giun ăn đất thải ra mùn làm giàu dinh dưỡng và đào hang giúp đất tơi xốp, thoáng khí.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w1_10",
+      "lesson": "Bài 1: Đất trồng",
+      "type": "multiple_choice",
+      "question": "Loại phân nào sau đây giúp tăng lượng mùn cho đất vườn hiệu quả?",
+      "options": [
+        "Phân hữu cơ (phân chuồng, phân xanh, rác hữu cơ đã ủ)",
+        "Túi ni-lông băm nhỏ",
+        "Vỏ chai nhựa nghiền vụn",
+        "Sỏi trắng trang trí"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phân hữu cơ được ủ hoai mục bổ sung trực tiếp chất mùn và dinh dưỡng bền vững cho đất.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w1_11",
+      "lesson": "Bài 1: Đất trồng",
+      "type": "multiple_choice",
+      "question": "Trồng cây phủ đất ở vùng đất khô cằn có tác dụng gì?",
+      "options": [
+        "Giúp giữ ẩm cho đất và hạn chế đất bị khô nứt, rửa trôi",
+        "Làm đất mất hết không khí",
+        "Ngăn không cho mưa thấm xuống đất",
+        "Làm tăng nhiệt độ mặt đất"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cây phủ đất giúp che nắng, giữ ẩm cho đất và bổ sung chất hữu cơ khi lá rụng.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w1_12",
+      "lesson": "Bài 1: Đất trồng",
+      "type": "multiple_choice",
+      "question": "Thành phần nào của đất chịu trách nhiệm chính trong việc phân hủy xác động thực vật thành mùn?",
+      "options": [
+        "Chất khoáng (cát, sỏi)",
+        "Sinh vật sống trong đất",
+        "Không khí",
+        "Ánh nắng"
+      ],
+      "correctIndex": 1,
+      "explanation": "Các sinh vật trong đất (vi sinh vật, giun đất...) tham gia phân hủy xác thực vật, động vật thành mùn.",
+      "points": 100
+    }
+  ]
+}

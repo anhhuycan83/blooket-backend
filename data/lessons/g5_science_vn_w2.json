@@ -1,0 +1,216 @@
+{
+  "id": "g5_science_vn_w2",
+  "grade": 5,
+  "subject": "science_vn",
+  "subjectName": "Khoa Học (TV)",
+  "week": 2,
+  "title": "Bài 2: Hỗn hợp và Dung dịch",
+  "subTitle": "Phân biệt hỗn hợp và dung dịch kèm ví dụ thực tế",
+  "theory": {
+    "totalCards": 5,
+    "cards": [
+      {
+        "id": "th_scivn_w2_1",
+        "term": "Khái niệm Hỗn hợp",
+        "phonetic": "[Câu 1 - Bài 2]",
+        "vietnamese": "Hỗn hợp gồm hai hay nhiều chất trộn lẫn với nhau, trong đó mỗi chất giữ nguyên tính chất của nó",
+        "definition": "Trong hỗn hợp, các chất có thể ở thể rắn, lỏng hoặc khí và chưa hòa tan đồng nhất vào nhau.",
+        "example": "Bột tiêu trộn với muối, gạo lẫn với sạn, cát trộn với nước là các hỗn hợp.",
+        "category": "Bài 2: Hỗn hợp & Dung dịch",
+        "imageHint": "🥣"
+      },
+      {
+        "id": "th_scivn_w2_2",
+        "term": "Ví dụ về Hỗn hợp",
+        "phonetic": "[Thực tế quanh ta]",
+        "vietnamese": "Bột tiêu trộn với muối, cát trộn với nước, gạo lẫn với sạn, nước mắm tỏi ớt",
+        "definition": "Khi nhìn vào các hỗn hợp này, ta vẫn nhận ra hoặc tách riêng từng chất giữ nguyên tính chất ban đầu.",
+        "example": "Cát không tan trong nước mà lắng xuống đáy cốc, nước vẫn giữ nguyên tính chất của nước.",
+        "category": "Bài 2: Hỗn hợp & Dung dịch",
+        "imageHint": "🧂"
+      },
+      {
+        "id": "th_scivn_w2_3",
+        "term": "Khái niệm Dung dịch",
+        "phonetic": "[Câu 2 - Bài 2]",
+        "vietnamese": "Là hỗn hợp của chất lỏng với chất rắn bị hòa tan và phân bố đều, hoặc chất lỏng với chất lỏng hòa tan vào nhau",
+        "definition": "Dung dịch là một trường hợp đặc biệt của hỗn hợp, trong đó các chất tan hoàn toàn và phân bố đều.",
+        "example": "Khi khuấy đường vào nước, đường tan hết và phân bố đều khắp cốc nước tạo thành dung dịch nước đường.",
+        "category": "Bài 2: Hỗn hợp & Dung dịch",
+        "imageHint": "🧪"
+      },
+      {
+        "id": "th_scivn_w2_4",
+        "term": "Ví dụ về Dung dịch",
+        "phonetic": "[Chất tan trong nước]",
+        "vietnamese": "Nước muối, nước đường, nước và giấm ăn trộn đều (tan hết và phân bố đều trong nước)",
+        "definition": "Ở trạng thái dung dịch, mắt thường không nhìn thấy hạt rắn lơ lửng hay lắng cặn dưới đáy.",
+        "example": "Nước muối sinh lý là dung dịch giữa nước và muối tinh khiết đã hòa tan đều.",
+        "category": "Bài 2: Hỗn hợp & Dung dịch",
+        "imageHint": "🥤"
+      },
+      {
+        "id": "th_scivn_w2_5",
+        "term": "Phân biệt Hỗn hợp vs Dung dịch",
+        "phonetic": "[Mẹo ghi nhớ]",
+        "vietnamese": "Mọi dung dịch đều là hỗn hợp; nhưng chỉ hỗn hợp hòa tan và phân bố đều trong chất lỏng mới gọi là dung dịch",
+        "definition": "Kiểm tra: chất có tan hoàn toàn và phân bố đều trong chất lỏng hay không.",
+        "example": "Cát + nước: cát không tan -> chỉ là hỗn hợp (huyền phù). Muối + nước: muối tan đều -> dung dịch.",
+        "category": "Bài 2: Hỗn hợp & Dung dịch",
+        "imageHint": "🔍"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_scivn_w2_1",
+      "lesson": "Bài 2: Hỗn hợp & Dung dịch",
+      "type": "multiple_choice",
+      "question": "Thế nào là một hỗn hợp?",
+      "options": [
+        "Gồm hai hay nhiều chất trộn lẫn với nhau, trong đó mỗi chất giữ nguyên tính chất của nó",
+        "Chỉ gồm một chất tinh khiết duy nhất",
+        "Gồm các chất biến đổi hoàn toàn thành chất mới không giữ tính chất cũ",
+        "Chỉ được tạo ra từ hai chất lỏng sôi ở 100°C"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hỗn hợp gồm hai hay nhiều chất trộn lẫn với nhau, trong đó mỗi chất vẫn giữ nguyên tính chất của nó.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w2_2",
+      "lesson": "Bài 2: Hỗn hợp & Dung dịch",
+      "type": "multiple_choice",
+      "question": "Nhóm ví dụ nào sau đây ĐỀU là hỗn hợp (chưa tạo thành dung dịch)?",
+      "options": [
+        "Nước muối, nước đường",
+        "Bột tiêu trộn với muối, cát trộn với nước, gạo lẫn với sạn, nước mắm tỏi ớt",
+        "Nước và giấm ăn trộn đều",
+        "Nước tinh khiết đóng chai"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bột tiêu + muối, cát + nước, gạo + sạn, nước mắm tỏi ớt đều có các chất trộn lẫn mà không hòa tan đồng nhất.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w2_3",
+      "lesson": "Bài 2: Hỗn hợp & Dung dịch",
+      "type": "multiple_choice",
+      "question": "Dung dịch được định nghĩa chính xác là gì?",
+      "options": [
+        "Hỗn hợp của hai chất rắn không tan vào nhau",
+        "Hỗn hợp của chất lỏng với chất rắn bị hòa tan và phân bố đều, hoặc chất lỏng với chất lỏng hòa tan vào nhau",
+        "Hỗn hợp của cát và đá cuội ngâm trong nước",
+        "Chất rắn nguyên chất không pha trộn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dung dịch là hỗn hợp của chất lỏng với chất rắn bị hòa tan và phân bố đều, hoặc chất lỏng với chất lỏng hòa tan vào nhau.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w2_4",
+      "lesson": "Bài 2: Hỗn hợp & Dung dịch",
+      "type": "multiple_choice",
+      "question": "Trường hợp nào dưới đây tạo thành một DUNG DỊCH?",
+      "options": [
+        "Trộn gạo với sạn",
+        "Khuấy muối ăn cho tan hết vào nước",
+        "Trộn bột tiêu với muối hạt",
+        "Cho cát sạch vào cốc nước rồi khuấy lên"
+      ],
+      "correctIndex": 1,
+      "explanation": "Muối tan hoàn toàn và phân bố đều trong nước tạo thành dung dịch nước muối.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w2_5",
+      "lesson": "Bài 2: Hỗn hợp & Dung dịch",
+      "type": "multiple_choice",
+      "question": "Cặp chất lỏng nào khi trộn đều với nhau tạo thành dung dịch?",
+      "options": [
+        "Nước và dầu ăn",
+        "Nước và giấm ăn",
+        "Dầu hỏa và nước",
+        "Xăng và nước"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nước và giấm ăn là hai chất lỏng hòa tan hoàn toàn vào nhau tạo thành dung dịch.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w2_6",
+      "lesson": "Bài 2: Hỗn hợp & Dung dịch",
+      "type": "multiple_choice",
+      "question": "Khi khuấy một thìa đường trắng vào cốc nước lọc cho đến khi không còn hạt đường nào nhìn thấy, cốc nước đó là gì?",
+      "options": [
+        "Dung dịch nước đường",
+        "Chất rắn nguyên chất",
+        "Hỗn hợp không hòa tan",
+        "Nước tinh khiết"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đường (chất rắn) tan hết và phân bố đều trong nước (chất lỏng) tạo thành dung dịch nước đường.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w2_7",
+      "lesson": "Bài 2: Hỗn hợp & Dung dịch",
+      "type": "multiple_choice",
+      "question": "Trong bát nước mắm tỏi ớt (tỏi ớt băm nổi trong nước mắm), tại sao nó được gọi là hỗn hợp mà không phải dung dịch?",
+      "options": [
+        "Vì tỏi, ớt băm không bị hòa tan và không phân bố đều hoàn toàn như chất tan",
+        "Vì nước mắm không phải chất lỏng",
+        "Vì chỉ có duy nhất một chất",
+        "Vì tỏi ớt đã biến mất"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trong nước mắm tỏi ớt, miếng tỏi và ớt vẫn giữ nguyên trạng thái, không hòa tan vào chất lỏng.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w2_8",
+      "lesson": "Bài 2: Hỗn hợp & Dung dịch",
+      "type": "multiple_choice",
+      "question": "Khi trộn cát với nước, để một lúc thấy cát lắng xuống đáy cốc. Đây là biểu hiện của:",
+      "options": [
+        "Dung dịch đồng nhất",
+        "Hỗn hợp không hòa tan (cát không tan trong nước)",
+        "Sự bay hơi của cát",
+        "Một chất duy nhất"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cát không tan trong nước mà giữ nguyên tính chất, lắng xuống đáy nên đây là hỗn hợp (không phải dung dịch).",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w2_9",
+      "lesson": "Bài 2: Hỗn hợp & Dung dịch",
+      "type": "multiple_choice",
+      "question": "Trong dung dịch nước muối, các chất có phân bố đều ở mọi phần của cốc nước không?",
+      "options": [
+        "Có, muối tan hết và phân bố đều nên nếm ở phần nào cũng có vị mặn giống nhau",
+        "Không, phần đáy luôn có nhiều muối chưa tan, phần trên chỉ là nước nhạt",
+        "Chỉ có muối ở trên bề mặt",
+        "Muối tự động tách ra ngoài không khí"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đặc điểm của dung dịch là chất rắn bị hòa tan và phân bố đều trong chất lỏng.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w2_10",
+      "lesson": "Bài 2: Hỗn hợp & Dung dịch",
+      "type": "multiple_choice",
+      "question": "Phát biểu nào sau đây ĐÚNG?",
+      "options": [
+        "Bất kỳ hai chất nào trộn với nhau cũng tạo thành dung dịch",
+        "Trong hỗn hợp, mỗi chất vẫn giữ nguyên tính chất của nó",
+        "Dung dịch không phải là một loại hỗn hợp",
+        "Gạo trộn sạn là một dung dịch"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trong hỗn hợp, các chất trộn lẫn với nhau nhưng mỗi chất vẫn giữ nguyên tính chất riêng của mình.",
+      "points": 100
+    }
+  ]
+}

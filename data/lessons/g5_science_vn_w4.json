@@ -1,0 +1,256 @@
+{
+  "id": "g5_science_vn_w4",
+  "grade": 5,
+  "subject": "science_vn",
+  "subjectName": "Khoa Học (TV)",
+  "week": 4,
+  "title": "Bài 4: Năng lượng Mặt trời, Gió & Nước chảy",
+  "subTitle": "Ứng dụng thực tế và lợi ích của các nguồn năng lượng sạch",
+  "theory": {
+    "totalCards": 6,
+    "cards": [
+      {
+        "id": "th_scivn_w4_1",
+        "term": "Thiết bị dùng năng lượng mặt trời",
+        "phonetic": "[Câu 1 - Bài 4]",
+        "vietnamese": "Gia đình: đèn, máy nước nóng, quạt, máy tính bỏ túi, đèn sân vườn | Công cộng: đèn đường, đèn giao thông, camera an ninh, trạm sạc",
+        "definition": "Pin mặt trời hấp thụ ánh sáng Mặt Trời chuyển hoá thành điện năng hoặc nhiệt năng để sử dụng.",
+        "example": "Nhiều gia đình lắp máy nước nóng năng lượng mặt trời trên mái nhà để có nước nóng dùng quanh năm.",
+        "category": "Bài 4: Năng lượng sạch",
+        "imageHint": "☀️"
+      },
+      {
+        "id": "th_scivn_w4_2",
+        "term": "Ứng dụng năng lượng mặt trời",
+        "phonetic": "[Câu 2 - Bài 4]",
+        "vietnamese": "Chiếu sáng, sưởi ấm, phơi khô quần áo và nông sản, làm muối, dùng pin mặt trời sản xuất điện, đun nước nóng",
+        "definition": "Mặt Trời là nguồn năng lượng tự nhiên vô cùng to lớn cho mọi sinh vật và hoạt động của con người.",
+        "example": "Diêm dân phơi nước biển dưới ánh nắng Mặt Trời để làm ra muối ăn.",
+        "category": "Bài 4: Năng lượng sạch",
+        "imageHint": "🔋"
+      },
+      {
+        "id": "th_scivn_w4_3",
+        "term": "Ứng dụng năng lượng gió",
+        "phonetic": "[Câu 3 - Bài 4]",
+        "vietnamese": "Làm thuyền buồm di chuyển, quay cối xay gió, chạy tua-bin để sản xuất điện (điện gió)",
+        "definition": "Sức gió đẩy cánh quạt tua-bin quay đều để tạo ra nguồn điện sạch cho lưới điện quốc gia.",
+        "example": "Các cánh đồng quạt gió khổng lồ ở Bạc Liêu, Ninh Thuận sản xuất điện gió mỗi ngày.",
+        "category": "Bài 4: Năng lượng sạch",
+        "imageHint": "💨"
+      },
+      {
+        "id": "th_scivn_w4_4",
+        "term": "Ứng dụng năng lượng nước chảy",
+        "phonetic": "[Câu 4 - Bài 4]",
+        "vietnamese": "Chở bè gỗ xuôi dòng, làm quay bánh xe nước (cọn nước) đưa nước lên ruộng, sản xuất điện ở nhà máy thuỷ điện",
+        "definition": "Dòng nước chảy từ trên cao xuống tạo ra lực đẩy mạnh làm quay bánh xe nước hoặc tua-bin thuỷ điện.",
+        "example": "Nhà máy thuỷ điện Hoà Bình, Sơn La sử dụng năng lượng nước chảy để phát điện.",
+        "category": "Bài 4: Năng lượng sạch",
+        "imageHint": "🌊"
+      },
+      {
+        "id": "th_scivn_w4_5",
+        "term": "Vì sao đặt trạm điện gió ven biển?",
+        "phonetic": "[Câu 5 - Bài 4]",
+        "vietnamese": "Vì vùng ven biển có nhiều gió, gió mạnh và thổi đều, giúp quay tua-bin để sản xuất điện",
+        "definition": "Khu vực ven biển thoáng đãng ít vật cản nên tốc độ gió ổn định và mạnh quanh năm.",
+        "example": "Các tỉnh duyên hải miền Trung và ven biển ĐBSCL là nơi lý tưởng xây dựng trang trại điện gió.",
+        "category": "Bài 4: Năng lượng sạch",
+        "imageHint": "🌬️"
+      },
+      {
+        "id": "th_scivn_w4_6",
+        "term": "Lợi ích của năng lượng tái tạo",
+        "phonetic": "[Câu 6 - Bài 4]",
+        "vietnamese": "Là năng lượng sạch, không gây ô nhiễm môi trường, là nguồn vô tận không cạn kiệt và giúp tiết kiệm chi phí",
+        "definition": "Sử dụng năng lượng mặt trời, gió, nước chảy giúp thay thế dần than đá, xăng dầu đang ngày càng cạn kiệt.",
+        "example": "Dùng đèn năng lượng mặt trời ở công viên vừa tiết kiệm tiền điện vừa bảo vệ không khí trong lành.",
+        "category": "Bài 4: Năng lượng sạch",
+        "imageHint": "♻️"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_scivn_w4_1",
+      "lesson": "Bài 4: Năng lượng sạch",
+      "type": "multiple_choice",
+      "question": "Thiết bị nào trong gia đình sử dụng năng lượng mặt trời?",
+      "options": [
+        "Máy nước nóng năng lượng mặt trời, đèn sân vườn, máy tính bỏ túi năng lượng mặt trời",
+        "Bếp than tổ ong",
+        "Xe máy chạy bằng xăng",
+        "Bếp ga công nghiệp"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đèn, quạt, máy nước nóng, đèn sân vườn và máy tính bỏ túi gắn tấm pin nhỏ đều dùng năng lượng mặt trời.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w4_2",
+      "lesson": "Bài 4: Năng lượng sạch",
+      "type": "multiple_choice",
+      "question": "Ở nơi công cộng, năng lượng mặt trời thường được lắp đặt để vận hành thiết bị nào?",
+      "options": [
+        "Đèn đường, đèn giao thông, đèn chiếu sáng công viên, camera an ninh, trạm sạc",
+        "Tàu hỏa chạy than",
+        "Bếp củi truyền thống",
+        "Máy phát điện chạy dầu diesel"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đèn đường, đèn giao thông, đèn công viên, camera an ninh và trạm sạc công cộng dùng pin mặt trời rất phổ biến.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w4_3",
+      "lesson": "Bài 4: Năng lượng sạch",
+      "type": "multiple_choice",
+      "question": "Con người sử dụng năng lượng mặt trời trực tiếp để làm những việc gì?",
+      "options": [
+        "Chiếu sáng, sưởi ấm, phơi khô quần áo và nông sản, làm muối, đun nước nóng, phát điện",
+        "Đốt cháy rừng tự nhiên",
+        "Chạy tua-bin dưới đáy biển sâu",
+        "Chở bè gỗ xuôi dòng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Năng lượng mặt trời giúp chiếu sáng, sưởi ấm, phơi khô nông sản, làm muối, đun nước nóng và sản xuất điện.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w4_4",
+      "lesson": "Bài 4: Năng lượng sạch",
+      "type": "multiple_choice",
+      "question": "Ứng dụng nào sau đây sử dụng NĂNG LƯỢNG GIÓ?",
+      "options": [
+        "Làm thuyền buồm di chuyển, quay cối xay gió, chạy tua-bin sản xuất điện gió",
+        "Làm muối từ nước biển",
+        "Chạy nhà máy thuỷ điện",
+        "Phơi khô thóc lúa dưới nắng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thuyền buồm, cối xay gió và tua-bin điện gió hoạt động nhờ sức gió.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w4_5",
+      "lesson": "Bài 4: Năng lượng sạch",
+      "type": "multiple_choice",
+      "question": "Bánh xe nước (cọn nước) ở vùng miền núi đưa nước lên ruộng hoạt động nhờ nguồn năng lượng nào?",
+      "options": [
+        "Năng lượng mặt trời",
+        "Năng lượng nước chảy",
+        "Năng lượng chất đốt",
+        "Năng lượng từ pin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dòng nước suối chảy mạnh làm quay bánh xe nước (cọn nước) đưa nước lên các ruộng bậc thang.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w4_6",
+      "lesson": "Bài 4: Năng lượng sạch",
+      "type": "multiple_choice",
+      "question": "Ngoài quay cọn nước và chở bè gỗ xuôi dòng, năng lượng nước chảy còn dùng để làm gì quy mô lớn?",
+      "options": [
+        "Sản xuất điện ở các nhà máy thuỷ điện",
+        "Làm khô quần áo",
+        "Chạy xe máy trên đường bộ",
+        "Sưởi ấm vào ban đêm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Các nhà máy thuỷ điện dùng sức nước chảy từ đập cao làm quay tua-bin để phát điện.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w4_7",
+      "lesson": "Bài 4: Năng lượng sạch",
+      "type": "multiple_choice",
+      "question": "Vì sao các trạm điện gió thường được xây dựng ở vùng ven biển?",
+      "options": [
+        "Vì vùng ven biển có nhiều nắng hơn",
+        "Vì vùng ven biển có nhiều gió, gió mạnh và thổi đều giúp quay tua-bin sản xuất điện",
+        "Vì vùng ven biển không có người ở",
+        "Vì cát biển tự phát ra điện"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vùng ven biển ít vật cản, gió thổi mạnh và đều quanh năm nên rất thuận lợi cho điện gió.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w4_8",
+      "lesson": "Bài 4: Năng lượng sạch",
+      "type": "multiple_choice",
+      "question": "Lợi ích chung lớn nhất của năng lượng mặt trời, gió và nước chảy là gì?",
+      "options": [
+        "Là năng lượng sạch, không gây ô nhiễm môi trường, vô tận không bị cạn kiệt và tiết kiệm chi phí",
+        "Rất dễ bị cạn kiệt chỉ sau vài năm sử dụng",
+        "Thải ra nhiều khói bụi hơn than đá",
+        "Chỉ dùng được một lần duy nhất rồi bỏ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đây là các nguồn năng lượng sạch, vô tận và thân thiện với môi trường, giúp tiết kiệm chi phí lâu dài.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w4_9",
+      "lesson": "Bài 4: Năng lượng sạch",
+      "type": "multiple_choice",
+      "question": "Hoạt động làm muối ven biển của bà con diêm dân dựa chủ yếu vào nguồn năng lượng nào?",
+      "options": [
+        "Năng lượng mặt trời (làm bay hơi nước biển)",
+        "Năng lượng thuỷ điện",
+        "Năng lượng than đá",
+        "Năng lượng khí ga"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ánh nắng Mặt Trời làm nước biển bay hơi, để lại những hạt muối trắng tinh.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w4_10",
+      "lesson": "Bài 4: Năng lượng sạch",
+      "type": "multiple_choice",
+      "question": "Thuyền buồm di chuyển trên biển nhờ nguồn năng lượng tự nhiên nào?",
+      "options": [
+        "Năng lượng gió",
+        "Năng lượng mặt trời",
+        "Năng lượng dầu diesel",
+        "Năng lượng than củi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cánh buồm đón gió giúp đẩy thuyền di chuyển trên mặt nước mà không tốn nhiên liệu hoá thạch.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w4_11",
+      "lesson": "Bài 4: Năng lượng sạch",
+      "type": "multiple_choice",
+      "question": "Trong nhà máy thuỷ điện, năng lượng nước chảy trực tiếp làm bộ phận nào quay để phát điện?",
+      "options": [
+        "Tua-bin",
+        "Tấm pin mặt trời",
+        "Cánh buồm",
+        "Bếp đốt than"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dòng nước chảy xiết làm quay tua-bin gắn với máy phát điện trong nhà máy thuỷ điện.",
+      "points": 100
+    },
+    {
+      "id": "ex_scivn_w4_12",
+      "lesson": "Bài 4: Năng lượng sạch",
+      "type": "multiple_choice",
+      "question": "Điểm khác biệt quan trọng giữa năng lượng mặt trời/gió với năng lượng chất đốt (than, xăng, dầu) là gì?",
+      "options": [
+        "Năng lượng mặt trời, gió là nguồn vô tận và không gây ô nhiễm môi trường",
+        "Năng lượng mặt trời gây khói bụi nhiều hơn than đá",
+        "Than đá và xăng dầu là nguồn năng lượng vô tận không bao giờ hết",
+        "Năng lượng gió không thể tạo ra điện"
+      ],
+      "correctIndex": 0,
+      "explanation": "Than, xăng, dầu là nhiên liệu có hạn và gây ô nhiễm khi đốt; mặt trời, gió, nước chảy sạch và vô tận.",
+      "points": 100
+    }
+  ]
+}

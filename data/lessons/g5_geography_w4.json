@@ -1,0 +1,226 @@
+{
+  "id": "g5_geography_w4",
+  "grade": 5,
+  "subject": "geography",
+  "subjectName": "Địa Lý",
+  "week": 4,
+  "title": "Chủ đề 4: Các Vùng Miền Tiêu Biểu",
+  "subTitle": "Đặc điểm thiên nhiên & con người Miền Bắc, Miền Trung, Miền Nam",
+  "theory": {
+    "totalCards": 6,
+    "cards": [
+      {
+        "id": "th_geo_w4_1",
+        "term": "Đặc điểm Miền Bắc",
+        "phonetic": "[Thiên nhiên & Văn hoá]",
+        "vietnamese": "Địa hình đa dạng (núi, trung du, đồng bằng sông Hồng), có 4 mùa rõ rệt, giàu truyền thống văn hoá",
+        "definition": "Miền Bắc có mùa đông lạnh, bốn mùa xuân - hạ - thu - đông rõ nét nhất cả nước.",
+        "example": "Hà Nội ở Đồng bằng sông Hồng có 4 mùa rõ rệt và nhiều di tích lịch sử ngàn năm.",
+        "category": "4. Các vùng miền tiêu biểu",
+        "imageHint": "🍂"
+      },
+      {
+        "id": "th_geo_w4_2",
+        "term": "Đặc điểm địa hình Miền Trung",
+        "phonetic": "[Hẹp ngang & Biển đẹp]",
+        "vietnamese": "Lãnh thổ hẹp ngang, có nhiều dãy núi lan ra sát biển và nhiều bãi biển đẹp",
+        "definition": "Các đồng bằng nhỏ hẹp ven biển miền Trung bị chia cắt bởi các nhánh núi đâm ngang ra biển.",
+        "example": "Miền Trung nổi tiếng với những bãi biển đẹp ở Đà Nẵng, Nha Trang, Quy Nhơn và đèo Hải Vân.",
+        "category": "4. Các vùng miền tiêu biểu",
+        "imageHint": "🏖️"
+      },
+      {
+        "id": "th_geo_w4_3",
+        "term": "Thiên tai ở Miền Trung",
+        "phonetic": "[Khí hậu khắc nghiệt]",
+        "vietnamese": "Thường chịu ảnh hưởng của bão, lũ lụt vào mùa mưa và hạn hán vào mùa khô",
+        "definition": "Người dân miền Trung rất cần cù, chịu khó, kiên cường phòng chống thiên tai.",
+        "example": "Hàng năm miền Trung thường đón nhiều cơn bão từ Biển Đông vào cuối mùa hạ và mùa thu.",
+        "category": "4. Các vùng miền tiêu biểu",
+        "imageHint": "🌀"
+      },
+      {
+        "id": "th_geo_w4_4",
+        "term": "Đặc điểm tự nhiên Miền Nam",
+        "phonetic": "[ĐBSCL & Đông Nam Bộ]",
+        "vietnamese": "Đồng bằng rộng lớn đất phù sa màu mỡ; khí hậu nóng ẩm quanh năm (hai mùa mưa – khô)",
+        "definition": "Sông Tiền, sông Hậu và hệ thống kênh rạch chằng chịt bồi đắp phù sa cho Đồng bằng sông Cửu Long.",
+        "example": "Khí hậu miền Nam không có mùa đông lạnh, chia làm mùa mưa và mùa khô rõ rệt.",
+        "category": "4. Các vùng miền tiêu biểu",
+        "imageHint": "🌴"
+      },
+      {
+        "id": "th_geo_w4_5",
+        "term": "Kinh tế nổi bật Miền Nam",
+        "phonetic": "[Vựa lúa & Công nghiệp]",
+        "vietnamese": "Phát triển mạnh trồng lúa, cây ăn quả (ĐBSCL) và công nghiệp năng động (Đông Nam Bộ)",
+        "definition": "Miền Nam đóng góp tỷ trọng rất lớn về lương thực, trái cây nhiệt đới, thuỷ sản và sản xuất công nghiệp.",
+        "example": "Chợ nổi Cái Răng ở Cần Thơ nổi tiếng với đủ loại trái cây tươi ngon của vùng sông nước.",
+        "category": "4. Các vùng miền tiêu biểu",
+        "imageHint": "🥭"
+      },
+      {
+        "id": "th_geo_w4_6",
+        "term": "Du lịch văn hoá 3 miền",
+        "phonetic": "[Bản sắc Việt Nam]",
+        "vietnamese": "Mỗi miền có nét đẹp riêng: Hà Nội ngàn năm văn hiến, Cố đô Huế - Hội An, Miền Tây sông nước",
+        "definition": "Sự đa dạng thiên nhiên và văn hoá tạo sức hấp dẫn đặc biệt cho du lịch Việt Nam.",
+        "example": "Du khách thích ngắm hoa đào Tết ở miền Bắc, tắm biển miền Trung và đi thuyền chợ nổi ở miền Tây.",
+        "category": "4. Các vùng miền tiêu biểu",
+        "imageHint": "🛶"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ex_geo_w4_1",
+      "lesson": "Các vùng miền tiêu biểu",
+      "type": "multiple_choice",
+      "question": "Đặc điểm khí hậu nổi bật nhất của Miền Bắc nước ta là gì?",
+      "options": [
+        "Nóng ẩm quanh năm chỉ có 2 mùa",
+        "Có 4 mùa rõ rệt (xuân, hạ, thu, đông)",
+        "Có băng tuyết quanh năm",
+        "Khô hạn như sa mạc"
+      ],
+      "correctIndex": 1,
+      "explanation": "Miền Bắc nước ta có 4 mùa xuân, hạ, thu, đông rõ rệt với mùa đông lạnh.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w4_2",
+      "lesson": "Các vùng miền tiêu biểu",
+      "type": "multiple_choice",
+      "question": "Địa hình Miền Bắc gồm những dạng nào?",
+      "options": [
+        "Chỉ có đồng bằng thấp trũng",
+        "Đa dạng: gồm cả vùng núi, trung du và đồng bằng sông Hồng",
+        "Chỉ có cao nguyên đá vôi",
+        "Hoàn toàn là đồi cát ven biển"
+      ],
+      "correctIndex": 1,
+      "explanation": "Miền Bắc có địa hình đa dạng gồm vùng núi, trung du và Đồng bằng sông Hồng, giàu truyền thống văn hoá.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w4_3",
+      "lesson": "Các vùng miền tiêu biểu",
+      "type": "multiple_choice",
+      "question": "Đặc điểm địa hình đặc trưng của Miền Trung là gì?",
+      "options": [
+        "Đồng bằng rộng lớn nhất cả nước",
+        "Hẹp ngang, có nhiều dãy núi lan ra sát biển và nhiều bãi biển đẹp",
+        "Không tiếp giáp với biển",
+        "Chỉ toàn sông ngòi chằng chịt không có núi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Miền Trung hẹp ngang, nhiều dãy núi lan sát biển tạo nên nhiều đèo và bãi biển đẹp.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w4_4",
+      "lesson": "Các vùng miền tiêu biểu",
+      "type": "multiple_choice",
+      "question": "Những thiên tai nào thường xuyên ảnh hưởng đến đời sống người dân Miền Trung?",
+      "options": [
+        "Động đất và núi lửa",
+        "Bão, lũ lụt và hạn hán",
+        "Bão tuyết và băng giá",
+        "Sóng thần quanh năm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Miền Trung thường chịu ảnh hưởng của bão, lũ lụt và hạn hán.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w4_5",
+      "lesson": "Các vùng miền tiêu biểu",
+      "type": "multiple_choice",
+      "question": "Miền Nam nước ta gồm hai vùng lớn tiêu biểu nào?",
+      "options": [
+        "Đồng bằng sông Hồng và Trung du Bắc Bộ",
+        "Đồng bằng sông Cửu Long và Đông Nam Bộ",
+        "Tây Bắc và Đông Bắc",
+        "Bắc Trung Bộ và Tây Nguyên"
+      ],
+      "correctIndex": 1,
+      "explanation": "Miền Nam tiêu biểu gồm Đồng bằng sông Cửu Long và Đông Nam Bộ.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w4_6",
+      "lesson": "Các vùng miền tiêu biểu",
+      "type": "multiple_choice",
+      "question": "Khí hậu của Miền Nam có đặc điểm gì?",
+      "options": [
+        "Mùa đông rất lạnh có sương muối",
+        "Nóng ẩm quanh năm, có hai mùa mưa và khô rõ rệt",
+        "Có 4 mùa xuân - hạ - thu - đông rõ rệt",
+        "Lạnh và khô suốt cả năm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Miền Nam có khí hậu nhiệt đới nóng ẩm quanh năm, chia thành hai mùa mưa và khô.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w4_7",
+      "lesson": "Các vùng miền tiêu biểu",
+      "type": "multiple_choice",
+      "question": "Nhờ đất phù sa màu mỡ và khí hậu nóng ẩm, Miền Nam phát triển mạnh nhất những ngành nào?",
+      "options": [
+        "Trồng lúa, cây ăn quả và phát triển công nghiệp",
+        "Chăn nuôi tuần lộc và trồng cây ôn đới",
+        "Khai thác băng tuyết",
+        "Chỉ làm nghề dệt thổ cẩm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Miền Nam phát triển mạnh trồng lúa, cây ăn quả nhiệt đới (ĐBSCL) và công nghiệp (Đông Nam Bộ).",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w4_8",
+      "lesson": "Các vùng miền tiêu biểu",
+      "type": "multiple_choice",
+      "question": "Nét văn hoá đặc trưng thường gắn với du lịch vùng sông nước Đồng bằng sông Cửu Long là gì?",
+      "options": [
+        "Chợ nổi trên sông và miệt vườn cây ăn quả",
+        "Trượt tuyết trên đỉnh núi",
+        "Hang động núi đá vôi phía Bắc",
+        "Phố cổ Hà Nội 36 phố phường"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chợ nổi trên sông và các miệt vườn cây ăn quả là nét đặc trưng nổi tiếng của miền Tây Nam Bộ.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w4_9",
+      "lesson": "Các vùng miền tiêu biểu",
+      "type": "multiple_choice",
+      "question": "Cố đô Huế và Phố cổ Hội An là các di sản văn hoá nổi tiếng nằm ở miền nào?",
+      "options": [
+        "Miền Bắc",
+        "Miền Trung",
+        "Miền Nam",
+        "Tây Bắc"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cố đô Huế và Phố cổ Hội An đều nằm ở vùng Duyên hải Miền Trung.",
+      "points": 100
+    },
+    {
+      "id": "ex_geo_w4_10",
+      "lesson": "Các vùng miền tiêu biểu",
+      "type": "multiple_choice",
+      "question": "Điểm chung quý báu của thiên nhiên cả ba miền Bắc - Trung - Nam là gì?",
+      "options": [
+        "Đều có khí hậu hoàn toàn giống nhau",
+        "Mỗi miền đều có cảnh đẹp riêng, sản vật phong phú và con người cần cù, mến khách",
+        "Đều không tiếp giáp với biển",
+        "Đều chỉ có một mùa khô duy nhất"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mỗi miền đất nước có nét đặc sắc riêng về địa hình, khí hậu, sản vật và truyền thống con người.",
+      "points": 100
+    }
+  ]
+}
