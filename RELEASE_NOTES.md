@@ -4,6 +4,24 @@ Tất cả các thay đổi, tính năng mới và các bản sửa lỗi (bug f
 
 ---
 
+## 🚀 [v1.0.7] - 2026-11-26 (Build 7)
+### ✨ Tính năng mới & Cải tiến:
+* **Tách biệt & Hiển thị Version Backend độc lập:**
+  * Hiển thị thông tin phiên bản Backend (`BE v...`) song song với phiên bản Frontend ở Footer chân trang và trong màn hình Cài đặt (`About`).
+  * Backend API bổ sung trường `backendVersion` giúp dễ dàng theo dõi phiên bản nội dung đề cương học tập.
+* **Tính năng Kéo xuống làm mới (Pull-to-Refresh):**
+  * Hỗ trợ thao tác vuốt kéo xuống trên danh sách môn học để đồng bộ tức thì các môn và bài học mới nhất từ Backend Server.
+* **Chiến thuật Git Branching UAT / Main chuẩn hóa:**
+  * Toàn bộ tính năng mới từ các nhánh feature được merge vào nhánh `uat` để kích hoạt CI/CD build APK thử nghiệm trên Firebase App Distribution cho nhóm Testers.
+  * Nhánh `main` chỉ nhận code khi release chính thức lên Google Play Console (AAB) và phát hành Web Production.
+
+### 🐛 Sửa lỗi (Bug Fixes):
+* **Sửa lỗi đè chữ trên AppBar Mobile:**
+  * Khắc phục triệt để hiện tượng tiêu đề *"Blooket Học Tập & Ôn Luyện"* bị 2 badge cờ và streak chèn đè lên nhau trên các dòng điện thoại màn hình nhỏ.
+  * Tự động điều chỉnh kích cỡ chữ, thu gọn tiêu đề thành *"Blooket Ôn Luyện"* và tối ưu khoảng cách hiển thị responsive.
+
+---
+
 ## 🚀 [v1.0.6] - 2026-11-22 (Build 6)
 ### ✨ Tính năng mới & Cải tiến:
 * **Mở rộng Tab TOEIC & Kho Học Liệu ETS 2026:**
